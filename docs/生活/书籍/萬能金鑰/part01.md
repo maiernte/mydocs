@@ -1,4 +1,4 @@
-##### INTRODUCTION - PART ONE
+##### INTRODUCTION 
 
 It is my privilege to enclose herewith Part One of The Master Key System. Would you bring into your life more power, get the power consciousness, more health, get the health consciousness, more happiness, get the happiness consciousness. Live the spirit of these things until they become yours by right. It will then become impossible to keep them from you. The things of the world are fluid to a power within man by which he rules them.
 
@@ -29,7 +29,8 @@ And, now, Part One....
 16. Life is an unfoldment, not accretion. What comes to us in the world without is what we already possess in the world within.
 17. All possession is based on consciousness. All gain is the result of an accumulative consciousness. All loss is the result of a scattering consciousness. 
 18. Mental efficiency is contingent upon harmony; discord means confusion; therefore, he who would acquire power must be in harmony with Natural Law.
-19. We are related to the world without by the objective mind. The brain is the organ of this mind and the cerebro-spinal system of nerves puts us in conscious communication with every part of the body. This system of nerves responds to every sensation of light, heat, odor, sound and taste. 20. When this mind thinks correctly, when it understands the truth, when the thoughts sent through the cerebro-spinal nervous system to the body are constructive, these sensations are pleasant, harmonious.
+19. We are related to the world without by the objective mind. The brain is the organ of this mind and the cerebro-spinal system of nerves puts us in conscious communication with every part of the body. This system of nerves responds to every sensation of light, heat, odor, sound and taste. 
+20. When this mind thinks correctly, when it understands the truth, when the thoughts sent through the cerebro-spinal nervous system to the body are constructive, these sensations are pleasant, harmonious.
 21. The result is that we build strength, vitality and all constructive forces into our body, but it is through this same objective mind that all distress, sickness, lack, limitation and every form of discord and inharmony is admitted to our lives. It is therefore through the objective mind, by wrong thinking, that we are related to all destructive forces.
 22. We are related to the world within by the subconscious mind. The solar plexus is the organ of this mind; the sympathetic system of nerves presides over all subjective sensations, such as joy, fear, love, emotion, respiration, imagination and all other subconscious phenomena. It is through the subconscious that we are connected with the Universal Mind and brought into relation with the Infinite constructive forces of the Universe.
 23. It is the coordination of these two centers of our being, and the understanding of their functions, which is the great secret of life. With this knowledge we can bring the objective and subjective minds into conscious cooperation and thus coordinate the finite and the infinite. Our future is entirely within our own control. It is not at the mercy of any capricious or uncertain external power.
@@ -47,26 +48,26 @@ And, now, Part One....
 35. A majority of mankind lives in the world without; few have found the world within, and yet it is the world within that makes the world without; it is therefore creative and everything which you find in your world without has been created by you in the world within.
 36. This system will bring you into a realization of power which will be yours when you understand this relation between the world without and the world within. The world within is the cause, the world without the effect; to change the effect you must change the cause.
 37. You will at once see that this is a radically new and different idea; most men try to change effects by working with effects. They fail to see that this is simply changing one form of distress
-for another. To remove discord, we must remove the cause, and this cause can be found only in the world within.
+    for another. To remove discord, we must remove the cause, and this cause can be found only in the world within.
 38. All growth is from within. This is evident in all nature. Every plant, every animal, every human is a living testimony to this great law, and the error of the ages is in looking for strength or power from without.
 39. The world within is the Universal fountain of supply, and the world without is the outlet to the stream. Our ability to receive depends upon our recognition of this Universal Fountain, this Infinite Energy of which each individual is an outlet, and so is one with every other individual.
 40. Recognition is a mental process, mental action is therefore the interaction of the individual upon the Universal Mind, and as the Universal Mind is the intelligence which pervades all space and animates all living things, this mental action and reaction is the law of causation, but the principle of causation does not obtain in the individual but in the Universal Mind. It is not an objective faculty but a subjective process, and the results are seen in an infinite variety of conditions and experiences.
 41. In order to express life there must be mind; nothing can exist without mind. Everything which exists is some manifestation of this one basic substance from which and by which all things have been created and are continually being recreated.
 42. We live in a fathomless sea of plastic mind substance. This substance is ever alive and active. It is sensitive to the highest degree. It takes form according to the mental demand. Thought forms the mold or matrix from which the substance expresses.
 43. Remember that it is in the application alone that the value consists, and that a practical understanding of this law will substitute abundance for poverty, wisdom for ignorance, harmony for discord and freedom for tyranny, and certainly there can be no greater blessing than these from a material and social standpoint.
-44. Now make the application: Select a room where you can be alone and undisturbed; sit erect, comfortably, but do not lounge; let your thoughts roam where they will but be perfectly still for from fifteen minutes to half an hour; continue this for three or four days or for a week until you secure full control of your physical being.
+44. **Now make the application**: Select a room where you can be alone and undisturbed; sit erect, comfortably, but do not lounge; let your thoughts roam where they will but be perfectly still for from fifteen minutes to half an hour; continue this for three or four days or for a week until you secure full control of your physical being.
 45. Many will find this extremely difficult; others will conquer with ease, but it is absolutely essential to secure complete control of the body before you are ready to progress. Next week you will receive instructions for the next step; in the meantime you must have mastered this one.
 
 ##### Study Questions with Answers
 
-1. What is the world without in its relation to the world within? The world without is a reflection of the world within.
-2. Upon what does all possession depend? All possession is based on consciousness.
-3. How is the individual related to the objective world? The individual is related to the objective world by the objective mind; the brain is the organ of this mind.
-4. How is he related to the Universal Mind? He is related to the Universal Mind by the subconscious mind; the Solar Plexus is the organ of this mind.
-5. What is the Universal Mind? The Universal Mind is the life principle of every atom which is in existence.
-6. How can the Individual act on the Universal? The ability of the individual to think is his ability to act upon the Universal and bring it into manifestation.
-7. What is the result of this action and interaction? The result of this action and interaction is cause and effect; every thought is a cause and every condition an effect.
-8. How are harmonious and desirable conditions secured? Harmonious and desirable conditions are obtained by right thinking.
-9. What is the cause of all discord, inharmony, lack and limitation? Discord, inharmony, lack and limitation are the result of wrong thinking.
-10. What is the source of all powers? The source of all power is the world within, the Universal Fountain of Supply, the Infinite Energy of which each individual is an outlet.
+1. What is the world without in its relation to the world within? *The world without is a reflection of the world within.*
+2. Upon what does all possession depend? *All possession is based on consciousness.*
+3. How is the individual related to the objective world? *The individual is related to the objective world by the objective mind; the brain is the organ of this mind.*
+4. How is he related to the Universal Mind? *He is related to the Universal Mind by the subconscious mind; the Solar Plexus is the organ of this mind.*
+5. What is the Universal Mind? *The Universal Mind is the life principle of every atom which is in existence.*
+6. How can the Individual act on the Universal? *The ability of the individual to think is his ability to act upon the Universal and bring it into manifestation.*
+7. What is the result of this action and interaction? *The result of this action and interaction is cause and effect; every thought is a cause and every condition an effect.*
+8. How are harmonious and desirable conditions secured? *Harmonious and desirable conditions are obtained by right thinking.*
+9. What is the cause of all discord, inharmony, lack and limitation? *Discord, inharmony, lack and limitation are the result of wrong thinking.*
+10. What is the source of all powers? *The source of all power is the world within, the Universal Fountain of Supply, the Infinite Energy of which each individual is an outlet.*
 
