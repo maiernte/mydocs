@@ -3,7 +3,7 @@
 Parts 1 and 2
  by Charles F. Haanel 
 
-##### INTRODUCTION
+##### INTRODUCTION 介绍
 
 Nature compels us all to move through life. We could not remain stationary however much we wished. Every right-thinking person wants not merely to move through life like a sound-producing, perambulating plant, but to develop – to improve – and to continue the development mentally to the close of physical life.
 
@@ -23,26 +23,39 @@ F.H. BURGESS
 
 
 
-##### FOREWORD
+##### FOREWORD 前言
 
  Some men seem to attract success, power, wealth, attainment, with very little conscious effort;
 
 others conquer with great difficulty; still others fail altogether to reach their ambitions, desires and ideals. Why is this so: Why should some men realize their ambitions easily, others with difficulty, and still others not at all? The cause cannot be physical, else the most perfect men, physically, would be the most successful. The difference, therefore, must be mental - must be in the mind; hence mind must be the creative force, must constitute the sole difference between men. It is mind, therefore, which overcomes environment and every other obstacle in the path of men. When the creative power of thought is fully understood, its effect will be seen to be marvelous. But such results cannot be secured without proper application, diligence, and concentration. The student will find that the laws governing in the mental and spiritual world are as fixed and infallible as in the material world. To secure the desired results, then, it is necessary to know the law and to comply with it. A proper compliance with the law will be found to produce the desired result with invariable exactitude. The student who learns that power comes from within, that he is weak only because he has depended on help from outside, and who unhesitatingly throws himself on his own thought, instantly rights himself, stands erect, assumes a dominant attitude, and works miracles.
 
-> 有的人似乎轻而易举就攫取了财富、权力、功成名就。
+> 有些人幾乎絲毫不費吹灰之力就能集成功、權力、財富和成就於一身，其他人卻得費盡千辛萬苦才能辦到，更別提還有一些人終其一身根本無法實現抱負、願望與理想。何以如此？為何有些人輕而易舉就能功成名就、有些人卻得克服重重困難，其他人則是終身一事無成？
 >
-> 有的人虽然也成功了，但历尽艰辛；还有的人，他们所有的雄心、梦想和抱负，都完全付诸东流。人与人之间何以会有如此差距呢？为什么有的人能毫不费力地实现自己的雄心壮志，有人却要付出百倍的艰辛，还有一些人则一败涂地？原因必定不在于人的形体，否则，那些看起来完美的人一定是世上最成功的人。差异必定是精神上的 —— 必定在于人的心智。创造力全在于人的内心，人的心智构成了人与人之间的惟一差异。在人生旅途中，正是心智，使我们能超越环境、战胜困难。
+> 箇中原因絕非生理構造差異所致，否則體魄完美無瑕的人就該是最成功的代表。
 >
-> 如果我们能深刻理解思想的创造力，就可以看出它的惊人功效。但如果没有适当的勤奋和专注，这样的效果也不会有。读者会发现，各种规律一直在控制着我们的道德世界和精神世界，如同物质世界中的规律一样，毫厘不爽。要获得理想的结果，了解并遵循这此规律是必不可少的。恪守规律，就会得到准确的结果。如果你懂得自己的能力就来自于内心，懂得你之所以软弱仅仅是因为你依靠外在的帮助；如果你毫不犹豫地投入到自己的想法之中，就可以迅速调整自己，昂首挺胸，以积极的心态，去创造奇迹。
+> 不同之處應該是心理素質強弱有別，肯定是出於心態。由此可見，**心智是創造力之源、是所有人獨一無二的個人特色。可以說，正是心智讓我們克服環境和人生道路上的每一個障礙。**
+>
+> 當我們徹底理解「思想」的創造力，必將為它的成效讚嘆不已；但是若未能妥當適切、勤勉並專注地活用它，便無法獲得前述成果。你將會發現，掌管心智與精神世界的法則與物質世界一樣牢固、可靠。因此，我們若想獲取夢寐以求的結果，明瞭箇中法則並循序漸進實踐確實有其必要，因為當你謹守法則始終如一，就能準確地獲得你所想要的成果。一旦徹底領悟力量源於自身，就會知道自己的腦波太弱只是因為一向以來都習慣依賴外界幫助，從此你會毫不猶豫地轉而堅守自身的思想、立即矯正錯誤、抬頭挺胸、轉守為攻，終而創造奇蹟。
 
 It is evident, therefore, that he who fails to fully investigate and take advantage of the wonderful progress which is being made in this last and greatest science, will soon be as far behind as the man who would refuse to acknowledge and accept the benefits which have accrued to mankind through an understanding of the laws of electricity.
 
+> 這套最新穎、最出色的科學已然締造龐大進展，好比那些熟知電力法則的人將因此獲得科學帶給人類的諸多好處；顯而易見的是，未能充分調查並善用的人終將因為排拒新知，很快就被拋在後面。
+
 Of course, mind creates negative conditions just as readily as favorable conditions, and when we consciously or unconsciously visualize every kind of lack, limitation and discord, we create these conditions; this is what many are unconsciously doing all the time.
- This law as well as every other law is no respecter of persons, but is in constant operation and is relentlessly bringing to each individual exactly what he has created; in other words, "Whatsoever a man soweth that shall he also reap."
+
+> 當然，心智創造負面條件就和創造正面條件一樣容易，因此，當我們有意識或無意識地在心中想著各種匱乏、限制與不和諧時，就等於是自己一手無中生有這些負面條件。這就是許多人在渾然不覺的情況下一直在犯的錯誤。
+
+This law as well as every other law is no respecter of persons, but is in constant operation and is relentlessly bringing to each individual exactly what he has created; in other words, "Whatsoever a man soweth that shall he also reap."
+
+> 這項法則正如其他所有法則一樣不問貧富貴賤、一視同仁，他在冥冥中運作不息，而且確保每個人種瓜得瓜、種豆得豆；換句話說：你種什麼因、就得什麼果。
 
 Abundance, therefore, depends upon a recognition of the laws of Abundance, and the fact that Mind is not only the creator, but the only creator of all there is. Certainly nothing can be created, before we know that it can be created and then make the proper effort. There is no more Electricity in the world today than there was fifty years ago, but until someone recognized the law by which it could be made of service, we received no benefit; now that the law is understood, practically the whole world is lit by it. so with the law of Abundance; it is only those who recognize the law and place themselves in harmony with it, who share in its benefits.
 
+> 因此，能否富足，端看我們是否可以正確地認知富足法則，也取決於我們是否明瞭，心智不僅僅是創造者而已，更是所有人的「唯一」創造者。當然，我們得先確知平地起高樓的可能性，然後才能付出應有的努力，否則我們根本創造不出任何事物。當今全世界產出的電量並不比五十年前來得多，但因為有人找到了活用電力的法則，我們才得以享受電力帶來的好處。如今，所有人都充分理解這條法則，整個世界因此大放光明。富足法則亦然；唯有那些體認這條法則，而且能與它和諧相處的人才能享受箇中好處。
+
 The scientific spirit now dominates every field of effort, relations of cause and effect are no longer ignored.
+
+> 如今，科學精神主宰了各個領域，因果關係也不再遭到忽視。
 
 The discovery of a region of law marked and epoch in human progress. It eliminated the element of uncertainty and caprice mens lives, and substituted law, reason and certitude.
  Men now understand that for every result there is an adequate and definite cause, so that when a given result is desired, they seek the condition by which alone this result may be attained.
