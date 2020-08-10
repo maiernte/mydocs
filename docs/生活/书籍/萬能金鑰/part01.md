@@ -1,24 +1,14 @@
 ##### INTRODUCTION 
 
-It is my privilege to enclose herewith Part One of The Master Key System. Would you bring into your life more power, get the power consciousness, more health, get the health consciousness, more happiness, get the happiness consciousness. Live the spirit of these things until they become yours by right. It will then become impossible to keep them from you. The things of the world are fluid to a power within man by which he rules them.
+It is my privilege to enclose herewith Part One of The Master Key System. Would you bring into your life more power, get the power consciousness, more health, get the health consciousness, more happiness, get the happiness consciousness. Live the spirit of these things until they become yours by right. It will then become impossible to keep them from you. The things of the world are fluid to a power within man by which he rules them. 在下有幸得以隨函附上《萬能金鑰》的第一週課程。你想要為自己的人生增添更多力量嗎？請建立權力意識；想更健康？請建立健康意識；想更幸福？請建立幸福意識。請領悟這些事情的精髓，直到它們終有一天成為你不可分割的一部分，如此一來，它們就再也不可能從你手中被奪走。在這個世界上，萬事萬物都會流向能夠掌控它們的人手上。
 
-> 在下有幸得以隨函附上《萬能金鑰》的第一週課程。你想要為自己的人生增添更多力量嗎？請建立權力意識；想更健康？請建立健康意識；想更幸福？請建立幸福意識。請領悟這些事情的精髓，直到它們終有一天成為你不可分割的一部分，如此一來，它們就再也不可能從你手中被奪走。在這個世界上，萬事萬物都會流向能夠掌控它們的人手上。
+You need not acquire this power. You already have it. But you want to understand it; you want to use it; you want to control it; you want to impregnate yourself with it, so that you can go forward and carry the world before you. 你無需費事爭取這股力量，因為你早已擁有它。但是你應該深入瞭解、活用並掌控它；應該讓它自然而然地融入體內，成為自身的一部分，這樣一來，你就能夠勇往直前，一舉大獲成功。
 
-You need not acquire this power. You already have it. But you want to understand it; you want to use it; you want to control it; you want to impregnate yourself with it, so that you can go forward and carry the world before you.
+Day by day as you go on and on, as you gain momentum, as your inspiration deepens, as your plans crystallize, as you gain understanding, you will come to realize that this world is no dead pile of stones and timber, but that it is a living thing! It is made up of the beating hearts of humanity. It is a thing of life and beauty. 日子一天天過去，當你一路前行、蓄積動能、靈感噴發、計畫日益清晰、感悟與日俱增，這時你將明白，我們生存的世界絕非單由死氣沉沉的岩石、草木構成，它是活生生的存在！其組成要素便是強而有力的人類心智，充滿活力與美感。
 
-> 你無需費事爭取這股力量，因為你早已擁有它。但是你應該深入瞭解、活用並掌控它；應該讓它自然而然地融入體內，成為自身的一部分，這樣一來，你就能夠勇往直前，一舉大獲成功。
+It is evident that it requires understanding to work with material of this description, but those who come into this understanding, are inspired by a new light, a new force, they gain confidence and greater power each day, they realize their hopes and their dreams come true, life has a deeper, fuller, clearer meaning than before. 你若想獲得前述的力量，就必須理解箇中內涵。真正領悟到的人會被一道嶄新的光芒、一種全新的力量啟發，每一天都獲得更強大的力量與自信，得以成就願望、實現夢想；人生也就擁有比以往更深刻、清楚的意義。
 
-Day by day as you go on and on, as you gain momentum, as your inspiration deepens, as your plans crystallize, as you gain understanding, you will come to realize that this world is no dead pile of stones and timber, but that it is a living thing! It is made up of the beating hearts of humanity. It is a thing of life and beauty.
-
-> 日子一天天過去，當你一路前行、蓄積動能、靈感噴發、計畫日益清晰、感悟與日俱增，這時你將明白，我們生存的世界絕非單由死氣沉沉的岩石、草木構成，它是活生生的存在！其組成要素便是強而有力的人類心智，充滿活力與美感。
-
-It is evident that it requires understanding to work with material of this description, but those who come into this understanding, are inspired by a new light, a new force, they gain confidence and greater power each day, they realize their hopes and their dreams come true, life has a deeper, fuller, clearer meaning than before.
-
-> 你若想獲得前述的力量，就必須理解箇中內涵。真正領悟到的人會被一道嶄新的光芒、一種全新的力量啟發，每一天都獲得更強大的力量與自信，得以成就願望、實現夢想；人生也就擁有比以往更深刻、清楚的意義。
-
-And, now, Part One....
-
-> 現在，就讓我們進入第一週的課程。
+And, now, Part One.... 現在，就讓我們進入第一週的課程。
 
 #####  PART ONE
 
