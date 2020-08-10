@@ -7,19 +7,29 @@ Parts 1 and 2
 
 Nature compels us all to move through life. We could not remain stationary however much we wished. Every right-thinking person wants not merely to move through life like a sound-producing, perambulating plant, but to develop – to improve – and to continue the development mentally to the close of physical life.
 
-This development can occur only through the improvement of the quality of individual thought and the ideals, actions and conditions that arise as a consequence. Hence a study of the creative processes of thought and how to apply them is of supreme importance to each one of us. This knowledge is the means whereby the volution of human life on earth may be hastened and uplifted in the process.
+> 我們由自然之推動，而經歷一生。想稍稍停留片刻而不可得。每一個能「正確思考」的人都不想像一個會發聲的產品，或者按步就班地走完其一生，而是想發展、乃至完善其心靈，直到肉體生命的結束。
+
+This development can occur only through the improvement of the quality of individual thought and the ideals, actions and conditions that arise as a consequence. Hence a study of the creative processes of thought and how to apply them is of supreme importance to each one of us. This knowledge is the means whereby the evolution of human life on earth may be hastened and uplifted in the process.
+
+> 這種「發展」只能在個人完善其思考的質量，才得以發生。因此「思考」而衍生出的想法、行動，以及產生的環境也會趨於完善。因此，研究如何更有創造性的思考、並如何實施，是我們每一個人至關重要的事情。這個知識涉及到人類在地球上進化過程中的加速與揚升。
 
 Humanity ardently seeks “The Truth” and explores every avenue to it. In this process it has produced a special literature, which ranges the whole gamut of thought from the trivial to the sublime – up from Divination, through all the Philosophies, to the final lofty Truth of “The Master Key”.
 
+> 人類如此熱烈的尋找「真理」並勘探每一條能同向它的道路。在此探索中有人寫了了一本很特別的書，它囊括了整體的思考，從最微不足道到偉大的理念 —— 從占卜、所有的哲學、一直到最崇高的真理「萬能金鑰」。
+
 The “Master Key” is here given to the world as a means of tapping the great cosmic intelligence and attracting from it that which corresponds to the ambitions, and aspirations of each reader. Every thing and institution we see around us, created by human agency, had first to exist as a thought in some human mind. Thought therefore is constructive. Human thought is the spiritual power of the cosmos operating through its creature man. “The Master Key” instructs the reader how to use that power, and use it both constructively and creatively. The things and conditions we desire to become realities we must first create in thought. “The Master Key” explains and guides the process.........
+
+> 「萬能金鑰」對世界的讀者而言，彷彿叩開宇宙智慧的大門，並從中吸引來實現自己雄心與志向的實相。圍繞在我們身邊的每一件事物與環境，都是通過人類創造的，但其首先存在於人類的心智裡。因此「思考」是實質建設性的。人類的思考能力即是宇宙創造萬物的精神力量。「萬能金鑰」將指引讀者如何建設性、創造性地使用這種力量。我們所有渴望的事物與環境，都必須先存在於我們的「想法」裡。「萬能金鑰」將給予指引與步驟。。。
 
 “The Master Key” teaching has hitherto been published in the form of a Correspondence Course of 24 lessons, delivered to students one per week for 24 weeks. The reader, who now receives the whole 24 parts at one times, is warned not to attempt to read the book like a novel, but to treat it as a course of study and conscientiously to imbibe the meaning of each part – reading and re-reading one part only per week before proceeding to the next. Otherwise the later parts will tend to be misunderstood and the reader’s time and money will be wasted.
 
+> 「萬能金鑰」到迄今為止被分成24堂課，以每週一課的進度傳遞到訂閱者手中。如今，讀者可以一次性獲得24堂課的所有資料。但我建議你們不要將此書當成一本小說來閱讀；而是當成一個課程來學習，仔細研讀和吸收每一堂課的內容 —— 每週只需反覆閱讀本週的課程內容。否則，後面的課程會引起很多誤解，因而讀者也只是在浪費時間與金錢而已。
+
 Used as thus instructed “The Master Key” will make of the reader a greater, better personality, and equipped with a new power to achieve any worthy personal purpose and a new ability to enjoy life’s beauty and wonder.
 
+> 如實遵循「萬能金鑰」的教導，會讓讀者成就一個更加完美的人格，也因此獲得成就夢想的新的力量，以及獲得體驗生命之美麗、生命之奇蹟的能力。
+
 F.H. BURGESS
-
-
 
 
 
