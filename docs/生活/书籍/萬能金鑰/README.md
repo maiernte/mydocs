@@ -11,7 +11,7 @@ Nature compels us all to move through life. We could not remain stationary howev
 
 This development can occur only through the improvement of the quality of individual thought and the ideals, actions and conditions that arise as a consequence. Hence a study of the creative processes of thought and how to apply them is of supreme importance to each one of us. This knowledge is the means whereby the evolution of human life on earth may be hastened and uplifted in the process.
 
-> 這種「發展」只能在個人完善其思考的質量，才得以發生。因此「思考」而衍生出的想法、行動，以及產生的環境也會趨於完善。因此，研究如何更有創造性的思考、並如何實施，是我們每一個人至關重要的事情。這個知識涉及到人類在地球上進化過程中的加速與揚升。
+> 這種「發展」只能在個人完善其思想的質量，才得以發生。籍此「思想」而衍生出的想法、行動，以及產生的環境也會趨於完善。因此，研究如何更有創造性的思考、並如何實施，是我們每一個人至關重要的事情。這個知識涉及到人類在地球上進化過程中的加速與揚升。
 
 Humanity ardently seeks “The Truth” and explores every avenue to it. In this process it has produced a special literature, which ranges the whole gamut of thought from the trivial to the sublime – up from Divination, through all the Philosophies, to the final lofty Truth of “The Master Key”.
 
