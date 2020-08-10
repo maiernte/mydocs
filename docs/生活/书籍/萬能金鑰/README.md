@@ -57,51 +57,103 @@ The scientific spirit now dominates every field of effort, relations of cause an
 
 > 如今，科學精神主宰了各個領域，因果關係也不再遭到忽視。
 
-The discovery of a region of law marked and epoch in human progress. It eliminated the element of uncertainty and caprice mens lives, and substituted law, reason and certitude.
- Men now understand that for every result there is an adequate and definite cause, so that when a given result is desired, they seek the condition by which alone this result may be attained.
+The discovery of a region of law marked and epoch in human progress. It eliminated the element of uncertainty and caprice mens lives, and substituted law, reason and certitude. Men now understand that for every result there is an adequate and definite cause, so that when a given result is desired, they seek the condition by which alone this result may be attained.
+
+> 法則的發現，開啟了人類進步史上的新紀元，消除了人類生活中不確定、變化無常的元素，並以法則、理性和準確性取而代之。現在，我們都明白事出必有因的道理，因此，倘若我們渴望某種特定結果，那就應該尋找並順著足以獲得該項結果的道路前進。
 
 The basis upon which all law rests was discovered by inductive reasoning which consists of comparing a number of separate instances with one another until the common factor which gives rise to them all is seen.
 
- It is this method of study to which the civilized nations owe the greater part of their prosperity and the more valuable part of their knowledge; it has lengthened life, it has mitigated pain, it has spanned rivers, it has brightened the night with the splendor of day, extended the range of vision, accelerated motion, annihilated distance, facilitated intercourse, and enabled men to descend into the sea, and into the air, what wonder then that men soon endeavored to extend the blessings of this system of study to their method of thinking, so that when it became plainly evident that certain results followed a particular method of thinking it only remained to classify these results. This is method is scientific, and it is the only method by which we shall be permitted retain that degree of liberty and freedom which we have been accustomed to look upon as an inalienable right, because a people is safe at home and in the world only if national preparedness mean such things as growing surplus of health, accumulated efficiency in public and private business of whatever sort, continuous advance in the science and art of acting together, and the increasingly dominant endeavor to make all of these and all other aspects of national development center and revolve about ascending life, single and collective, for which science, art and ethics furnish guidance and controlling motives.
+> 所有法則奠基的立足點都應經由歸納推理而得，其中涵蓋各式各樣實例的相互比較，直到可以總結出所有實例的共同點。
+
+ It is this method of study to which the civilized nations owe the greater part of their prosperity and the more valuable part of their knowledge; it has lengthened life, it has mitigated pain, it has spanned rivers, it has brightened the night with the splendor of day, extended the range of vision, accelerated motion, annihilated distance, facilitated intercourse, and enabled men to descend into the sea, and into the air, what wonder then that men soon endeavored to extend the blessings of this system of study to their method of thinking, so that when it became plainly evident that certain results followed a particular method of thinking it only remained to classify these results. 
+
+> 正是這套研究方法造就文明國家大半盛世榮景、彌足珍貴的人類知識；延長人類生命、緩解苦痛、跋山涉水、照亮黑夜、拓展視野、加速行動、消除距離、促進往來，並讓人類得以上山下海、飛天遁地。也因此，人類很快就傾力將這套研究系統擴展到思維方式上，這樣一來，當某套特定思維方法能夠產生某種特定結果時，我們剩下來要做的就只是將這些結果分門別類而已。
+
+This is method is scientific, and it is the only method by which we shall be permitted retain that degree of liberty and freedom which we have been accustomed to look upon as an inalienable right, because a people is safe at home and in the world only if national preparedness mean such things as growing surplus of health, accumulated efficiency in public and private business of whatever sort, continuous advance in the science and art of acting together, and the increasingly dominant endeavor to make all of these and all other aspects of national development center and revolve about ascending life, single and collective, for which science, art and ethics furnish guidance and controlling motives.
+
+> 這套方法具有科學根據，唯有透過這種方法，我們才能保有現在習以為常的自由。這是因為，唯有國家重視健全的成長餘額，各領域的公家機關與民營企業累積效率，科學、藝術雙雙長足進步，國家發展中心致力推動各方面進步，不斷提升個人與群體的生活運作，國家與全球人民才能安心過日子。而科學、藝術和道德正為上述的情形提供了指引與控制力。
 
 The Master Key is based on absolute scientific truth and will unfold the possibilities that lie dormant in the individual, and teach how they may be brought into powerful action, to increase the person's effective capacity, bringing added energy, discernment, vigor and mental elasticity. The student who gains an understanding of the mental laws which re unfolded will come into the possession of an ability to secure results hitherto undreamed of, and which has rewards hardly to be expressed in words.
 
+> 《萬能金鑰》立基於純然的科學真理，揭開所有埋藏於個人心中的可能性，並教育他們如何採取強而有力的行動，以便提升個人效能、為自己新增能量、洞察力、活力和精神彈性。當這套精神法則完全攤在陽光下，能夠參透箇中真理的人將可獲得前所未有的能力，足以產出他想要的結果，所得到的回報實非筆墨足以形容。
+
 It explains the correct use of both the receptive and active elements of the mental nature, and instructs the student in the recognition of opportunity; it strengthens the will and reasoning powers, and teaches the cultivation and best uses of imagination, desire, the emotions and the intuitional faculty. It gives initiative, tenacity of purpose, wisdom of choice, intelligent sympathy and a thorough enjoyment of life on its higher planes.
+
+> 它闡釋了正確活用心理本質中「接受」和「付出」的要素，指引人們明辨機會，強化意志力與推理能力，而且教育他們想像力、欲望、情感和直覺力的培養與最佳實踐之道；它站在制高點，讓人們積極主動、對目標堅持到底、在抉擇時充滿睿智、明智地同理他人，並得以全方位地享受人生。
 
 The Master Key teaches the use of Mind Power, true Mind Power, not any of the substitutes and perversions; it has nothing to do with Hypnotism, Magic or any of the more or less fascinating deceptions by which many are led to think that something can be had for nothing.
 
+> 《萬能金鑰》教授我們發揮真正的心靈力量，而不是任何替代物或被曲解後的產物；它與催眠術、魔法或任何讓人誤以為可以不勞而獲的花稍欺騙伎倆無關。
+
  The Master Key cultivates and develops the understanding which will enable you to control the body and thereby the health. It improves and strengthens the Memory. It develops Insight, the kind of Insight which is so rare, the kind which is the distinguishing characteristic of every successful business man, the kind which enables men to see the possibilities as well as the difficulties in every situation, the kind which enables men to discern opportunity close at hand, for thousands fail to see opportunities almost within their grasp while they are industriously working with situations which under no possibility can be made to realize any substantial return.
 
- The Master Key develops Mental Power which means that others instinctively recognize that you are a person of force, of character - that they want to do what you want them to do; it means that you attract men and things to you; that you are what some people call "lucky", that "things" come you way' that you have come into an understanding of the fundamental laws of Nature, and have
+> 《萬能金鑰》培育並發展理解力，足以讓你掌控身體，進而掌控健康；它能改善並強化記憶力；它能孕育洞察力，這種能力極為罕見，卻是每一個成功商人身上清晰可見的顯著特色，能讓他們清楚看見各種情境中的可能商機與困難，也能讓他們一眼就看出大好機會，但成千上萬的普通人多半是勤奮埋首各種不可能帶來任何實質回報的事物，反而對許多近在眼前的機會視而不見。
 
-put yourself in harmony with them; that you are in tune with Infinite; that you understand the law of attraction, the Natural laws of growth, and the Psychological laws on which all advantages in the he social and business world rest.
+ The Master Key develops Mental Power which means that others instinctively recognize that you are a person of force, of character - that they want to do what you want them to do; it means that you attract men and things to you; that you are what some people call "lucky", that "things" come you way' that you have come into an understanding of the fundamental laws of Nature, and have put yourself in harmony with them; that you are in tune with Infinite; that you understand the law of attraction, the Natural laws of growth, and the Psychological laws on which all advantages in the he social and business world rest.
+
+> 《萬能金鑰》發展心智力量，這種力量讓其他人直覺地認定你是力量強健、性格堅毅的人，他們會依照你的指令行事；讓你具有磁吸人、事、物的力量；讓你成為某些人口中的「幸運兒」，因為你充分理解自然的基本法則，而且身心靈都順勢而為，因此往往起心動念便能水到渠成；讓你與「無限」共振合拍；助你理解吸引力法則、自然成長法則，以及所有社會與商業世界賴以為生的優勢法則。
 
  Mental Power is creative power, it gives you the ability to create for yourself; it does not mean the ability to take something away from some one else. Nature never does things that way. Nature makes two blades for grass grow where one grew before, and Mind Power enables men to do the same thing.
 
+> 心智力量就是創造力，賦予你由自己來創造的能力，而不是從別人身上巧取豪奪。大自然絕不容許這等情事發生。大自然會讓原本只長一片葉子的植物長出兩片葉子，心智力量能賦予人們同樣的創新能力。
+
 The Master Key develops insight and sagacity increased independence, the ability and disposition to be helpful' it destroys distrust, depression, fear, melancholia, and every form of lack limitation and weakness, including pain and disease; it awakens buried talents, supplies initiative, force, energy, vitality - it awakens an appreciation of the beautiful in Art, Literature and Science.
+
+> 《萬能金鑰》培養洞察力和聰明睿智，提升你的獨立自主，以及幫助他人的能力與性格。它擊潰不信任、沮喪、恐懼、憂鬱症以及任何形式的缺乏、限制和弱點，其中包括痛苦與疾病；它喚醒沉睡體內的天賦、供給主動權、力量、能量與活力，亦即喚醒我們欣賞藝術、文學和科學之美的能力。
 
 It has changed the lives of thousands of men and women, by substituting definite principles for uncertain and hazy methods - and principles for the foundation upon which every system of efficiency must rest.
  Elbert Gary, the chairman of the United States Steel Corporation, said "The services of advisors, instructors, efficiency experts in successful management are indispensable to most business enterprises of magnitude, but I deem the recognition and adoption of right principles vastly more importance. "The Master Key teaches right principles, and suggests methods for making a practical application of the principles; in that it differs from every other course of study. It teaches that the only possible value which can attach to any principle is in its application. Many read books, take home study courses, attend lectures all their lives without ever making any progress in demonstrating the value of the principles involved. The Master Key suggests methods by which the value of the principles taught may be demonstrated and put in actual practice in the daily experience.
 
+> 它提供明確的原則取代不確定、模稜兩可的方法，已然改變成千上萬人的生活。這些原則正是每一套講究效率的系統賴以運作的基礎。
+>
+> 前美國鋼鐵公司（United States Steel Corporation）總裁艾伯特．蓋瑞（Elbert Gary）曾經這麼說：「對多數商界企業來說，顧問、講師、效率專家針對成功管理所提供的服務勢不可缺，但就我看來，能否體認並採行正確原則，遠比前述工夫重要。」
+>
+> 《萬能金鑰》傳授正確原則，並提供實際應用這些原則的方法，因此它與坊間所有課程截然不同；它告訴人們，唯有實際應用才能讓各種原則發揮真正價值。許多人儘管終身博覽群書、買了自修課程回家並參加講座，卻從未身體力行所學的原則，並循此取得一丁點的進展。本書提供了許多練習，足以展現前述原則所傳授的價值，並進一步融入日常生活的實際操作。
+
 There is a change in the thought of the world. This change is silently transpiring in our midst, and is more important than any which the world has undergone since the downfall of Paganism.
- The present revolution in the opinions of all classes of men, the highest and most cultured of men as well as those of the laboring class, stands unparalleled in the history of the world.
+
+> 全世界的思潮正在改變，這場變革無聲無息地進行著，這是自異教徒信仰沒落之後最重要的變化。
+
+The present revolution in the opinions of all classes of men, the highest and most cultured of men as well as those of the laboring class, stands unparalleled in the history of the world.
+
+> 當前，對於所有階層的人而言──包括位階最高、教養最好的菁英到基層勞工階級，眾人一致認為這場變革是世界史上最獨一無的。
 
 Science has of late made such vast discoveries, has revealed such an infinity of resources, has unveiled such enormous possibilities and such unsuspected forces, that scientific men more and more hesitate to affirm certain theories as established and indubitable or to deny certain other theories as absurd or impossible, and so a new civilization is being born' customs, creeds, and cruelty are passing; vision, faith and service are taking their place. The fetters of tradition are being melted off from humanity, and as the dross of materialism is being consumed, thought is being liberated and truth is rising full orbed before an astonished multitude.
 
+> 近來，科學發現許多重大進步，揭示無窮無盡的資源，進而讓世人得知各種龐大的可能性與不可思議的力量，使得科學家越來越無法斷定某些理論足以成立、不容質疑，也無法否定某些其他理論荒謬不羈、不足為信。這種情況導致一個新文明的誕生；習俗、教條和專制正在消逝；願景、信念與服務則取而代之。傳統束縛正日益從人群中銷聲匿跡，隨著物質主義的殘留物消耗殆盡，思想正在解放，真理也以驚人之勢全面崛起。
+
 The whole world is on the eve of a new consciousness, a new power and a new consciousness, a new power and a new realization of the resources within the self. The last century saw the most magnificent material progress in history. The present century will produce the greatest progress in mental and spiritual power.
+
+> 這個世界正處於一種新狀態的前夕，個人對源於自身內部的資源生出了一種新意識、新力量和新覺醒。上一個世紀是有史以來物質進步最輝煌的時代，當今這個世紀將會在精神方面取得最大進展。
 
 Physical Science has resolved matter into molecules, molecules into atoms, atoms into energy, and it has remained for Sir Ambrose Fleming, in an address before the Royal Institution, to resolve this energy into mind. He says: "In its ultimate essence, energy may be incomprehensible by us except as an exhibition of the direct operation of that which we call Mind or Will."
 
+> 物理科學已經將物質分解為分子，再將分子分解為原子，爾後又將原子分解為能量，正如英國物理學家約翰．安布羅斯．弗萊明（John Ambrose Fleming）爵士在一場於皇家學會（Royal Institution）舉行的演說所言，這股能量稱之為「心智」。他說：「除了透過我們稱之為『心智』或『意志』的運作產生的演示之外，我們終究難以理解能量的終極本質。」
+
 Let us see what are the most powerful forces in Nature. In the mineral world everything is solid and fixed. In the animal and vegetable kingdom it is in a state of flux, forever changing, always being created and recreated. In the atmosphere we find heat, light and energy. Each realm becomes finer and more spiritual as we pass from the visible to the invisible, from the coarse to the fine, from the low potentiality to high potentiality. When we reach the invisible we find energy in its purest and most volatile state.
+
+> 且讓我們一窺自然界中最強大的力量。在礦物世界裡，每一種物質都是堅固不變；在動物和蔬菜王國裡，萬事萬物處於持續不斷的變動中、千變萬化，而且總是在創造與重新再造；在大氣層中，我們有熱能、光能和能源；隨著我們從可見到無形、從粗糙到精緻、從低可能到高可能，每個領域都變得更精巧、更聖潔。一旦我們觸及無形的領域，我們就會發現能量正處於最純淨和最易揮發的狀態。
 
  And as the most powerful forces of Nature are the invisible forces, so we find that the most powerful forces of man are his invisible forces, his spiritual force, and the only way in which the spiritual force can manifest is through the process of thinking. Thinking is the only activity which the spirit possesses, and thought is the only product of thinking.
 
+> 正如自然界最強大的力量是無形的力量，我們發現，人類所具備的最強大力量便是無形的力量、精神的力量，而體現這股精神力量的唯一之道便是完整的思考過程。思考是精神所擁有的唯一活動，思想則是它的唯一產物。
+
 Addition and subtraction are therefore spiritual transactions; reasoning is a spiritual process; ideas are spiritual conceptions; questions are spiritual searchlights and logic, argument and philosophy is spiritual machinery.
+
+> 計算加法和減法是一場精神交易；推理是一種精神過程；想法是精神概念；問題是精神的照明燈，而邏輯、論證及哲學則是精神的載具。
 
  Every thought brings into action certain physical tissue, parts of the brain, nerve or muscle. This produces an actual physical change in the construction of the tissue. therefore it is only necessary to have a certain number of thoughts on a given subject in order to bring about a complete change in the physical organization of a man.
 
- This is the process by which failure is changed to success. Thoughts of courage, power, inspiration, harmony, are substituted for thoughts of failure, despair, lack, limitation and discord, and as these thoughts take root, the physical tissue is changed and the individual sees life in a new light, old things have actually passed away, all things have become new, he is born again, this time born of the spirit, life has a new meaning for him, he is reconstructed and is filled with joy, confidence, hope, energy. He sees opportunities for success to which he was heretofore blind.
+> 每一個想法都會促使生理組織、大腦、神經或是肌肉的某些部分產生作用，然後在組織結構中產生實際的生理變化。因此，我們僅需針對特定主題產生一定數量的想法，就可促使生理組織發生徹底的改變。
 
-He recognizes possibilities which before had no meaning for him. The thoughts of success with which he has been impregnated are radiated to those around him, and they in turn help him onward and upward; he attract to him new and successful associates, and this in turn changes his environment; so that by this simple exercise of thought, a man changes not only himself, but his environment, circumstances and conditions.
+This is the process by which failure is changed to success. Thoughts of courage, power, inspiration, harmony, are substituted for thoughts of failure, despair, lack, limitation and discord, and as these thoughts take root, the physical tissue is changed and the individual sees life in a new light, old things have actually passed away, all things have become new, he is born again, this time born of the spirit, life has a new meaning for him, he is reconstructed and is filled with joy, confidence, hope, energy. 
+
+> 這就是反敗為勝的過程。具備勇氣、力量、靈感與和諧的想法取代失敗、絕望、匱乏、局限與不和諧的念頭。隨著這些思想在個人內部生根，生理組織也會跟著日益變化，個人將以全新眼光看待人生，過往事物慢慢消逝無蹤。所有事物都變得嶄新，就連他自己都重獲新生，而且是精神的重生，生命對他而言有了全新的意義。他重新自我改造，因此充滿喜悅、自信、希望與能量。
+
+He sees opportunities for success to which he was heretofore blind. He recognizes possibilities which before had no meaning for him. The thoughts of success with which he has been impregnated are radiated to those around him, and they in turn help him onward and upward; he attract to him new and successful associates, and this in turn changes his environment; so that by this simple exercise of thought, a man changes not only himself, but his environment, circumstances and conditions.
+
+> 他清楚看見以往總是視而不見的成功機會，也辨識出以前對他而言毫無意義的可能性。充斥在他體內的成功念頭對外輻射惠及周遭人士，使得他們也反過來幫助他向前進、向上爬。他將磁吸一批共同創造成功的新同事，他們也將反過來改變他所處的環境；因此，個人一旦啟動這個簡單的思想練習，不僅可以改變自己，還能改變周遭的環境、境遇與條件。
 
 You will see, you must see, that we are at the dawn of a new day; that the possibilities are so wonderful, so fascinating, so limitless as to be almost bewildering. A century ago any man with and aeroplane or even a Gatling gun could have annihilated a whole army equipped with the implements of warfare then in use. So it is at present. Any man with a knowledge of the possibilities contained in the Master Key has an inconceivable advantage over the multitude.
+
+> 你將看到，而且你必定會看到，我們正處於嶄新一天的黎明之際，各種可能性如此美好、如此迷人、如此漫無邊際，幾乎讓人眼花繚亂。一百年前，要是有人高舉加特林機槍掃射，就足以殲滅一整支僅配備當代戰爭武器的軍隊。同理可證，今日要是有人將《萬能金鑰》揭示的所有可能性背得滾瓜爛熟，就等於坐擁了不可思議的非凡優勢。
