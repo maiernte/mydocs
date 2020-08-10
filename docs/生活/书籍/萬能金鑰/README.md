@@ -29,6 +29,12 @@ F.H. BURGESS
 
 others conquer with great difficulty; still others fail altogether to reach their ambitions, desires and ideals. Why is this so: Why should some men realize their ambitions easily, others with difficulty, and still others not at all? The cause cannot be physical, else the most perfect men, physically, would be the most successful. The difference, therefore, must be mental - must be in the mind; hence mind must be the creative force, must constitute the sole difference between men. It is mind, therefore, which overcomes environment and every other obstacle in the path of men. When the creative power of thought is fully understood, its effect will be seen to be marvelous. But such results cannot be secured without proper application, diligence, and concentration. The student will find that the laws governing in the mental and spiritual world are as fixed and infallible as in the material world. To secure the desired results, then, it is necessary to know the law and to comply with it. A proper compliance with the law will be found to produce the desired result with invariable exactitude. The student who learns that power comes from within, that he is weak only because he has depended on help from outside, and who unhesitatingly throws himself on his own thought, instantly rights himself, stands erect, assumes a dominant attitude, and works miracles.
 
+> 有的人似乎轻而易举就攫取了财富、权力、功成名就。
+>
+> 有的人虽然也成功了，但历尽艰辛；还有的人，他们所有的雄心、梦想和抱负，都完全付诸东流。人与人之间何以会有如此差距呢？为什么有的人能毫不费力地实现自己的雄心壮志，有人却要付出百倍的艰辛，还有一些人则一败涂地？原因必定不在于人的形体，否则，那些看起来完美的人一定是世上最成功的人。差异必定是精神上的 —— 必定在于人的心智。创造力全在于人的内心，人的心智构成了人与人之间的惟一差异。在人生旅途中，正是心智，使我们能超越环境、战胜困难。
+>
+> 如果我们能深刻理解思想的创造力，就可以看出它的惊人功效。但如果没有适当的勤奋和专注，这样的效果也不会有。读者会发现，各种规律一直在控制着我们的道德世界和精神世界，如同物质世界中的规律一样，毫厘不爽。要获得理想的结果，了解并遵循这此规律是必不可少的。恪守规律，就会得到准确的结果。如果你懂得自己的能力就来自于内心，懂得你之所以软弱仅仅是因为你依靠外在的帮助；如果你毫不犹豫地投入到自己的想法之中，就可以迅速调整自己，昂首挺胸，以积极的心态，去创造奇迹。
+
 It is evident, therefore, that he who fails to fully investigate and take advantage of the wonderful progress which is being made in this last and greatest science, will soon be as far behind as the man who would refuse to acknowledge and accept the benefits which have accrued to mankind through an understanding of the laws of electricity.
 
 Of course, mind creates negative conditions just as readily as favorable conditions, and when we consciously or unconsciously visualize every kind of lack, limitation and discord, we create these conditions; this is what many are unconsciously doing all the time.
