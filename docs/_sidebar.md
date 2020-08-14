@@ -45,5 +45,5 @@
 - :house: 私密
   - [日记](personal/日记本/)
   - [梦](personal/梦/)
-  - [案例](personal/cases/)
+  - [命理](personal/cases/)
   - [文档](personal/doc/)
