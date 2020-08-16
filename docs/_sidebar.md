@@ -44,6 +44,6 @@
     - [薛兆丰经济学讲义](经济/经论/薛兆丰经济学讲义/1稀缺.md)
 - :house: 私密
   - [日记](personal/日记本/)
-  - [梦](personal/梦/)
+  - [靈性](personal/靈性/)
   - [命理](personal/cases/)
   - [文档](personal/doc/)
