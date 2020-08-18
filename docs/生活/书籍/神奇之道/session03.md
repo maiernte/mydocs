@@ -2,12 +2,12 @@ MAN AND OTHER SPECIES. MISTAKES AS CORRECTIVE ACTION. DEFINITION OF THE MAGICAL 
 
 AUGUST 13, 1980 8:57 P.M., WEDNESDAY
 
-(Ifinished typing the last half of Monday’s session just before the session tonight. I reminded Jane that I think it’s an excellent one, and that I want to type copies for us of the material between 9:15 and 9:36, wherein Seth explains that the intellect needs to realize that it doesn’t have to go it alone, that it is supported and aided by other portions of the self. I think this insight can help Jane greatly. I also told her I want to quote portions of Monday’s session in Seth’s current book, Dreams.
+*(Ifinished typing the last half of Monday’s session just before the session tonight. I reminded Jane that I think it’s an excellent one, and that I want to type copies for us of the material between 9:15 and 9:36, wherein Seth explains that the intellect needs to realize that it doesn’t have to go it alone, that it is supported and aided by other portions of the self. I think this insight can help Jane greatly. I also told her I want to quote portions of Monday’s session in Seth’s current book, Dreams.*
 
-(A note: The Democratic National Convention is in its third day. As I typed away after supper, I could tell that Jane was listening to the speeches on TV in the living room. Then I realized I’d goofed: Last Saturday, our local paper had carried a short article to the effect that a psychic we’d heard of had predicted recently that Senator Robert Byrd of West Virginia would obtain the Democratic nomination for president, after a deadlock between Carter and Kennedy developed at the convention. I read the article and called it to Jane’s attention. I’d meant to save it, but instead the paper ended up bundled up with the trash for pickup this morning. Since the Carter forces won the fight to keep the convention “closed” during its first, Monday session, this assures Carter the nomination on the first ballot. Thus the psychic is wrong in the prediction, which evidently obtained national circulation.
+*(A note: The Democratic National Convention is in its third day. As I typed away after supper, I could tell that Jane was listening to the speeches on TV in the living room. Then I realized I’d goofed: Last Saturday, our local paper had carried a short article to the effect that a psychic we’d heard of had predicted recently that Senator Robert Byrd of West Virginia would obtain the Democratic nomination for president, after a deadlock between Carter and Kennedy developed at the convention. I read the article and called it to Jane’s attention. I’d meant to save it, but instead the paper ended up bundled up with the trash for pickup this morning. Since the Carter forces won the fight to keep the convention “closed” during its first, Monday session, this assures Carter the nomination on the first ballot. Thus the psychic is wrong in the prediction, which evidently obtained national circulation.*
 
-(At least, I told Jane tonight after I’d remembered that I’d forgotten to clip the article for my predictions file, we know where the article is on file, where it can be located if necessary: at the newspaper office. I speculated about the reactions of public personalities when their predictions don’t work out. I hoped their errors are not rationalized, or made just for the publicity, since the psychics have to live with them. We’ll keep a lookout for any follow-up articles on the subject, but I suppose it will die like any other item in yesterday’s news. What do the predictors secretly think in such situations, though? No one is perfect. Jane hasn’t tried to predict similar events. For some of Jane’s predictions see Appendix A.
-(Jane, for her part, said she didn’t particularly feel like having a session tonight, that she was “doing it just to do it.” I suggested that by all means she have it. She’s been feeling better at times, so our new program is getting some kind of results.)
+*(At least, I told Jane tonight after I’d remembered that I’d forgotten to clip the article for my predictions file, we know where the article is on file, where it can be located if necessary: at the newspaper office. I speculated about the reactions of public personalities when their predictions don’t work out. I hoped their errors are not rationalized, or made just for the publicity, since the psychics have to live with them. We’ll keep a lookout for any follow-up articles on the subject, but I suppose it will die like any other item in yesterday’s news. What do the predictors secretly think in such situations, though? No one is perfect. Jane hasn’t tried to predict similar events. For some of Jane’s predictions see Appendix A.*
+*(Jane, for her part, said she didn’t particularly feel like having a session tonight, that she was “doing it just to do it.” I suggested that by all means she have it. She’s been feeling better at times, so our new program is getting some kind of results.)*
 
 Good evening.
 
@@ -63,21 +63,21 @@ End of session.
 
 I wish you a magically content evening. My heartiest regards to you both.
 
-(“Thank you. The same to you.”
+*(“Thank you. The same to you.”*
 
-(10:05 P.M. “I can’t remember any of that,” Jane said. “I just know I didn’t have any of that in my head before the session.”
+*(10:05 P.M. “I can’t remember any of that,” Jane said. “I just know I didn’t have any of that in my head before the session.”*
 
-(This is certainly magical — Jane’s performance as Seth, in the sessions. This note, which I wrote a couple of days later, was inspired by Seth’s material in this session:
+*(This is certainly magical — Jane’s performance as Seth, in the sessions. This note, which I wrote a couple of days later, was inspired by Seth’s material in this session:*
 
-(“Seth, of course, not only dictates his magical material — the session — but must keep the whole session in mind while doing so, so that each sentence as he delivers it makes sense compared to its predecessors, and those to follow. Quite a feat on his part, and Jane’s, once you stop to think about it. How is this possible? Seth has no script to go by, nor can he refer during the session to my own notes to check up on what he’s already said.
+*(“Seth, of course, not only dictates his magical material — the session — but must keep the whole session in mind while doing so, so that each sentence as he delivers it makes sense compared to its predecessors, and those to follow. Quite a feat on his part, and Jane’s, once you stop to think about it. How is this possible? Seth has no script to go by, nor can he refer during the session to my own notes to check up on what he’s already said.*
 
-(“I’d say that a great memory must be involved here, coupled on deeper levels with a shortening of time as we think of it. Seth’s abilities remind me of material I’ve written recently on how certain portions of the personality or psyche must very shrewdly and carefully construct dreams in advance, so that when the dreams are played back they render just the right message to the parts of the psyche that need it. I’m not being contradictory here when I write that the dream is a spontaneous production, also.
+*(“I’d say that a great memory must be involved here, coupled on deeper levels with a shortening of time as we think of it. Seth’s abilities remind me of material I’ve written recently on how certain portions of the personality or psyche must very shrewdly and carefully construct dreams in advance, so that when the dreams are played back they render just the right message to the parts of the psyche that need it. I’m not being contradictory here when I write that the dream is a spontaneous production, also.*
 
-(“These comments about Seth’s abilities seem obvious when they’re considered as I’ve just described them, yet I don’t think I’ve thought of what Seth can do in just that way before. They make his performances all the more remarkable. See the material after 9:44 in the session of August 13, about the intellect and the ‘undisciplined and unreasonable’ intuitions. Actually, that whole session applies here.”)
+*(“These comments about Seth’s abilities seem obvious when they’re considered as I’ve just described them, yet I don’t think I’ve thought of what Seth can do in just that way before. They make his performances all the more remarkable. See the material after 9:44 in the session of August 13, about the intellect and the ‘undisciplined and unreasonable’ intuitions. Actually, that whole session applies here.”)*
 
 NOTES: SESSION OF AUGUST 13, 1980
 
-
+-------------------------------NOTES: SESSION OF AUGUST 13, 1980----------------------------------
 
 [^1]: When I wrote these notes on July 17, I hardly expected that several weeks later Seth would so effectively “put them in their place,” so to speak, as he enlarged upon his discussion of the magical approach:
 

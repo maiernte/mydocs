@@ -3,17 +3,18 @@ AUGUST 11, 1980 8:43 P.M., MONDAY
 
 
 
-(Today I bought Jane a “water cushion” to aid in her sitting difficulties, but upon filling it after supper we didn’t think it would work. I also bought her three kinds of underclothes to try ... Before the session we spent an
+*(Today I bought Jane a “water cushion” to aid in her sitting difficulties, but upon filling it after supper we didn’t think it would work. I also bought her three kinds of underclothes to try ... Before the session we spent an*
 
-hour or so watching the Democratic National Convention in New York City. We saw the first session, in which the Carter forces, who wanted a “closed” convention, defeated the Kennedy forces, who wanted an “open” convention.
+*hour or so watching the Democratic National Convention in New York City. We saw the first session, in which the Carter forces, who wanted a “closed” convention, defeated the Kennedy forces, who wanted an “open” convention.*
 
-(I told Jane, joking, that the Democrats might achieve a show of unity in their convention, but that come election time in November they might end up saying something like: “Well, we lost but we were united” against Reagan. To me the political situation, meaning a choice between Carter and Reagan, is almost intolerable, and I wondered why our country had chosen this time of travail, as they say.
+*(I told Jane, joking, that the Democrats might achieve a show of unity in their convention, but that come election time in November they might end up saying something like: “Well, we lost but we were united” against Reagan. To me the political situation, meaning a choice between Carter and Reagan, is almost intolerable, and I wondered why our country had chosen this time of travail, as they say.*
 
-(“Well,” Jane said at 8:40, “I’m about as comfortable as I can get, so I might as well begin. I feel him around. At least I feel a lot better than I have been.” We’ve read over the last session several times, and have gone over Seth’s resolutions daily. Jane has also been “walking” twice daily, using her wheeled typing table as a support — though we skipped this evening’s sojourn in lieu of TV watching. The night was humid but not too warm. Through the open doors and windows we heard the great rhythms of the crickets and cicadas. Then:)
+*(“Well,” Jane said at 8:40, “I’m about as comfortable as I can get, so I might as well begin. I feel him around. At least I feel a lot better than I have been.” We’ve read over the last session several times, and have gone over Seth’s resolutions daily. Jane has also been “walking” twice daily, using her wheeled typing table as a support — though we skipped this evening’s sojourn in lieu of TV watching. The night was humid but not too warm. Through the open doors and windows we heard the great rhythms of the crickets and cicadas. Then:)*
 
 Now —
- (“Good evening, Seth.”)
-\ Good evening. It is not that you overuse the intellect as a culture, but that you rely upon it to the exclusion of all other faculties in your approach to life. Period.
+ (“Good evening, Seth.”) 
+
+Good evening. It is not that you overuse the intellect as a culture, but that you rely upon it to the exclusion of all other faculties in your approach to life. Period.
 
 The intellect is brilliant, but on its own, now (underlined), it is indeed in its way isolated both in time and in space in a way that other portions of the personality are not. When it is overly stressed, with all of the usual frameworks or rationales that go along with it, it can indeed become frightened, paranoid, because it cannot really perceive events until they have already occurred. It does not know what will happen tomorrow, and since it is overly stressed, its paranoid tendencies can only fear the worst.
 
@@ -77,13 +78,14 @@ If you understand this session thoroughly, and if you have the intent to really 
 
 End of session —
  (“Thank you.”)
-\ — and a fond good evening.
 
-(9:56 P.M. As soon as she was out of trance I told Jane the session was an excellent one. I was also quite irritated, because Seth’s information had the ability to make things seem self-evident; from that point one was always left wondering how anything so basically clear and simple could be so easily missed and/or misinterpreted by those who most dearly wanted to put it to use. I’ve experienced these phenomena often in personal sessions, and each time end up resolving to do better next time — to see more clearly, to do all of those things that will easily and effortlessly bring the desired results. Jane often feels the same way, though I don’t think she has so much lately, judging from certain remarks she’s made. Yet this kind of material gives one hope, and considering it can lead to at least momentary feelings of true understanding and concomitant hope, on my part, at least. The thing is, I really believe the information is good, and that it can work, that basically it’s the best kind of information people can get.
+— and a fond good evening.
 
-(I suppose my own irritation because of the points listed above communicated itself to Jane easily enough. We had a lively and beneficial discussion because of our feelings, though, so all in all the session is a very good one[^3]. I want to arrange my approach to Seth’s latest book, Dreams, “Evolution,” and Value Fulfillment, so that I can quote part of this session in a note.)
+*(9:56 P.M. As soon as she was out of trance I told Jane the session was an excellent one. I was also quite irritated, because Seth’s information had the ability to make things seem self-evident; from that point one was always left wondering how anything so basically clear and simple could be so easily missed and/or misinterpreted by those who most dearly wanted to put it to use. I’ve experienced these phenomena often in personal sessions, and each time end up resolving to do better next time — to see more clearly, to do all of those things that will easily and effortlessly bring the desired results. Jane often feels the same way, though I don’t think she has so much lately, judging from certain remarks she’s made. Yet this kind of material gives one hope, and considering it can lead to at least momentary feelings of true understanding and concomitant hope, on my part, at least. The thing is, I really believe the information is good, and that it can work, that basically it’s the best kind of information people can get.*
 
+*(I suppose my own irritation because of the points listed above communicated itself to Jane easily enough. We had a lively and beneficial discussion because of our feelings, though, so all in all the session is a very good one[^3]. I want to arrange my approach to Seth’s latest book, Dreams, “Evolution,” and Value Fulfillment, so that I can quote part of this session in a note.)*
 
+-------------------------------NOTES: SESSION OF AUGUST 11, 1980----------------------------------
 
 [^1]: From my dream notebook: “Dream, very early Tuesday morning, June 10, 1980.
 

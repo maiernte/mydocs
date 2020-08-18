@@ -21,8 +21,6 @@ Important misunderstandings involving time have been in a large measure responsi
 
 The time that any artistic creator is involved with follows earth’s own time, however. The creator’s time rises out of the seasons and the tides, even though in your society you make a great effort to fit the creator’s time into what I will call assembly-line time. If you are a writer or an artist, then it seems that you must produce so many paintings or books or whatever as, say, an automobile worker must process so many pieces of the overall car chassis. Particularly if you want to make a living at your art, you fall into the frame of mind in which you think that “each minute is valuable” — but what you mean is that each minute must be a minute of production. But each moment must be valuable in itself, whatever you do with it.
 
-
-
 Ruburt culturally has felt, for many reasons that have been discussed, that each moment must be devoted to work. You have to some extent felt the same. I said that the artistic creator operates in the time of the seasons and so forth, in a kind of natural time — but that natural time is far different than you suppose. Far richer, and it turns inward and outward and backward and forward upon itself.
 
 Being your own natural and magical self when you dream, you utilize information that is outside of the time context experienced by the so- called rational mind. The creative abilities operate in the same fashion, appearing within consecutive time, but with the main work done outside of it entirely. When you finished your project,[^4] you had several days of feeling miserable, but you caught yourself and turned yourself around beautifully, and you have every right to congratulate yourself in that regard.
@@ -66,7 +64,8 @@ All of this material applies to Ruburt’s condition, and an understanding of it
 Do you want a break?
 
 (“Yes.”)
-\ Then we will continue. (9:53–10:05.)
+
+Then we will continue. (9:53–10:05.)
 
 When Ruburt finished his project (God of Jane), he found himself with all of that time that was supposed to be used (underlined). He also became aware once again of his limitations, physically speaking: There was not much, it seemed, he could do but work, so he took the rational approach — and it says that to solve the problem you worry about it.
 
@@ -94,7 +93,10 @@ In this session is material that will indeed allow Ruburt to get out of the pres
 
 
 
-[^1]: Seth is the “energy personality essence” Jane speaks for while in a trance or dissociated state. Since he calls Jane by the male-oriented name of her larger or whole self, “Ruburt,” it follows that Seth also calls her “he,” “his,” and “him.” 
+-------------------------------NOTES: SESSION OF AUGUST 6, 1980----------------------------------
+
+
+[^1]: Seth is the “energy personality essence” Jane speaks for while in a trance or dissociated state. Since he calls Jane by the male-oriented name of her larger or whole self, “Ruburt,” it follows that Seth also calls her “he,” “his,” and “him.”
 
 
 
