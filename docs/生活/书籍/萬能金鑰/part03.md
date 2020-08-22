@@ -1,5 +1,3 @@
-!> 預計8月22日更新
-
 ##### INTRODUCTION 
 
 You have found that the Individual may act on the Universal, and that the result of this action and interaction is cause and effect. Thought, therefore, is the cause, and the experiences with which you meet in life are the effect. 你已經發現，個人有影響宇宙心智的能力，而這樣的交互作用所產生的結果有一種因果關係。思想就是因，你所遭遇的一切生活經歷就是果。

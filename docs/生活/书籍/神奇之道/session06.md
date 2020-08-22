@@ -1,0 +1,80 @@
+ANIMALS AND REASONING. THINGS BEYOND ONE’S CONTROL. 
+
+AUGUST 25, 1980 8:49 P.M., MONDAY
+
+*(Jane continues to show improvements. But she’s been bothered more than once lately by the contents of some of her mail — the letters of woe she attracts from readers who earnestly petition aid of various kinds from Seth and herself. Today the trigger was furnished by another letter from a lady who lives in Kentucky. She’s lost both breasts from cancer, and has a host of other physical and emotional problems. I suggested Seth comment on Jane’s reactions tonight. I also told Jane that her reactions were probably triggered at least in part because of her own vulnerable position, due to her personal challenges.*
+
+*(Jane’s “walking” has improved much in the last week, especially, and overall since Seth began this series of personal sessions. She now can take, say, ten steps at a time, leaning on her typing table, instead of the one or two previously possible. But we’ve also grown careless again: She walks but once a day, instead of the twice I suggested recently, and which she agreed to, and which Seth seconded in a recent session. Still, we’re very pleased with her progress.*
+
+*(We sat for the session at 8:40. The evening was another beautiful one: It was dark already, with the hordes of cicadas and other insects sounding off in rhythmic chorus. Their music echoed through the nearby woods.*
+
+(Whispering:) Now —(“Good evening.”)
+
+— good evening.
+(With many pauses:) Part of the difficulty arises from the current
+*(pause) scientifically-oriented blend of rationalism. It lies in the way in which the individual is defined. As a species, you think of yourselves (pause) as the “pinnacle” end of an evolutionary scale, as if all other entities from the first cell onward somehow existed in a steady line of progression, culminating with animals, and finally with man the reasoning animal. (In parentheses: with all of that progress occurring of course by chance, incidentally.)*
+
+New sentence: That particular blend of rational thinking with which your society is familiar takes it more or less for granted, then, that man’s identity as a species, and the identity of the individual, is first and foremost connected with the intellect. You identify yourselves with your intellect, primarily, casting aside as much as possible other equally vital elements of your personhood.
+
+New sentence: In your historical past, when man identified his identity with the soul, he actually gave himself greater leeway in terms of psychological mobility, but eventually the concept of the soul as held resulted in a distrust of the intellect. (Pause.) That result was the inevitable follow-up of dogma. Period. Part of man’s latest over- identification with the intellect is, of course, an overreaction to those past historical events. Neither religion or science grant other creatures much subjective dimension, however: You like to think of yourselves, again, as the reasoning animal in terms of your species.
+
+(9:01.) However, animals do reason. They do not reason in the same areas that you do (intently). In those areas in which they do reason, they understand cause and effect quite well. Their reasoning is applied, however, to levels of activity to which your own reasoning is not applied. Therefore, often animal reasoning is not apparent to you. Animals are curious. Their curiosity is applied to areas in which you seldom apply your own.
+
+The animals possess a consciousness of self, and without the human intellect. You do not need a human intellect to be aware of your own consciousness. Animals, it is true, do not reflect upon the nature of their own identities as man does (pause), but this is because that nature is intuitively comprehended. It is self-evident.
+
+I only want to show you that the sense of identity need not inevitably be coupled with the intellect exclusively. Your intellect is a part of you — a vital, functioning portion of your cognitive processes — but it does not contain (underlined) your identity.
+
+(Long pause at 9:10.) The natural person is understood perhaps more clearly by considering any person as a child. In a fashion the child discovers its own intellect, as it discovers its own feelings. Feelings come “first.” The child’s feelings give rise to curiosity, to thoughts, to the operation of the intellect: “Why do I feel thus and so? Why is grass soft, and rock hard? Why does a gentle touch soothe me, while a slap hurts me?”
+The feelings and sensations give rise to the questions, to the thoughts, to the intellect. The child in a fashion feels — feels — its own thoughts rise from a relative psychological invisibility into immediate, vital formation. There is a process there that you have forgotten. The child identifies with its own psychic reality first of all — then discovers its feelings, and claims those, and discovers its thoughts and intellect, and claims those (all quite intently).
+
+The child first explores the components of its psychological environment, the inside stuff of subjective knowledge, and claims that inner territory, but the child does not identify its basic being with either its feelings or its thoughts. That is why, for example, it often seems that young children can die so easily. (Still intently): They can disentangle themselves because they have not as yet identified their basic beings with life experience. Period.
+
+In most cases children grow up, of course (pause), although in the vast overall picture of nature (pause) a goodly proportion of individuals do indeed take other courses. They serve other functions, they have other purposes, they take part in life through a different cast of action. They affect life while themselves not completely immersed in it. They die young. They are aborted. They remain, however, an important element in life’s overall picture — part of a psychological underpainting that always affects later versions.
+
+Ideally, however, children finally claim their feelings and their thoughts as their own. They identify naturally with both, finding each valid and vital. By the time you are an adult, however, you have been taught to disconnect your identity from your feelings as much as possible, and to think of your personhood in terms of your intellectual orientation. Your identity seems to be in your head. Your feelings and your mental activity therefore appear, often, quite contradictory. You try to solve all problems through the use of reasoning alone.
+
+(9:27.) You are taught to submerge the very intuitive abilities that the intellect needs to do its proper work — for the intellect must check with the feeling portions of the self for feedback, for support, for knowledge as to biological conditions. Denied that feedback, it can spin on endlessly in frenzied dry runs. (Long pause.) At each moment, from the most microscopic levels the body (pause) in one way or another is ascertaining a constant picture of its position within physical reality. That picture is composed of millions of ever-changing smaller snapshots, as it were — or moving pictures is better — determining so many conditions, positions and relationships that they could never be described. You end up with a predominating picture of reality in any given moment — one that is the result of the activity of psychological, biological, and electromagnetic stratas. One picture is transposed upon the others, and calculations made constantly, so that all of the components that make up physical existence are met, and intersect to give you life.
+
+None of that is the intellect’s concern at an intellectual level. At a biological level, and at an electromagnetic level, the intellect, of course, performs feats that it cannot consciously know through the use of its reason (all intently). Spontaneously, with the process just mentioned, millions of pictures are being taken also of the probable actions that will — or may — be needed, in your terms, in the moment immediately following, from microscopic action to the motion of a muscle, the driving of a car, the reading of a book, or whatever.
+One of the intellect’s main purposes is to give you a conscious choice in a world of probabilities. To do that properly the intellect is to make clear, concise decisions, on its level, of matters that are its concern, and therefore to present its own picture of reality to add to the entire construct. (Long pause.) On the one hand you have been told to identify yourselves almost completely with your intellects. On the other hand, you have been taught that the intellect, the “flower of consciousness,” is a frail, vulnerable adjunct — again, a chance creation, without meaning and without support — without support because you believe that “beneath it” lie “primitive, animalistic, bloody instincts,” against which reason must exert what strength it has.
+
+(9:46.) Despite all of that, men and women still find the solutions to many of their problems by rediscovering the larger sense of identity1 — a sense of identity that accepts the intuitions and the feelings, the dreams and the magic hopes as vital characteristics, not adjuncts, of personhood. When I tell you to remember your own natural persons, I do then want to remind you not to identify with your intellects alone, but to enlarge your scopes of identity. Automatically those other, often- shunted-aside characteristics begin to add their richness, fulfillment, and vitality to your lives effortlessly.
+
+(9:50.) Now give us a moment.(Pause.) With Ruburt: The new orientation is bringing results, and the results do appear effortlessly.2 The affair with Mitzi (one of our cats) did involve action at other levels — a magical orientation. Ruburt is doing well. Have him remember that creative activity goes on within him all of the time, and he is often most active precisely when he is not aware of it. He is only aware of those moments when creative activity surges into his conscious awareness, and by then much of the “work” has already been done.
+He is not responsible for other people’s realities, but he is responsible for his own. Give us a moment ... .(Pause, eyes closed). The ill woman’s reality does not threaten his own in any way. The situation, however, shows that he sometimes still thinks he should be able to solve all problems, and to know all the reasons for any given sorrow or tragedy. The intellect cannot handle that kind of information at that level.
+Some answers come when you are ready for them. Then they come naturally, as a matter of understanding and comprehension. The question of life’s tragedies still cannot be answered satisfactorily at the level at which either of you — or anyone else — is currently asking it. I can give hints and clues and explanations that are quite valid within that context (intently). (Long pause.)
+
+As a matter of fact, the kind of literal answers that you may think you want can indeed lead you somewhat astray in terms of the larger picture, so Ruburt must say: “That is not my province,” send energy, a note now and then; but the particular problem, the specific problem is the woman’s, not Ruburt’s.
+
+The reason for the problem is a philosophical concern of Ruburt’s, and of yours, but it is one whose answer— or answers — will gradually unfold. All of this information I consider necessary, again, to provide an overall atmosphere of comprehension that will allow the release of your own vitalities and strengths in an effortless manner, in such a way that your own problems begin to dissolve.
+
+The kind of orientation I am speaking of represents the truest picture I can give you of man’s natural relationship with himself and the world. This is how it works. This is physical.
+
+End of session — and again, a magical good evening.
+
+(“Thank you, Seth. Good night.”
+
+*(10:07 P.M. I told Jane that if Seth hadn’t gone into it on his own, I’d have asked him to comment on her mail reactions. Jane said she’d also wanted material on the mail; she seldom asks for anything specific from Seth before a session. I told her she’d done well.*
+
+*(About Seth’s reference to Mitzi: Last month both of our cats, Mitzi and Billy, came down with heavy cases of fleas — quite unusual for them even though they are often outside. I bought flea collars, and got one on Billy without trouble. When I tried to slip the other one over Mitzi’s head, though, I ran into a hornet’s nest of resistance, and Jane couldn’t help. Mitzi actively avoided us for many days before we could make friends anew with her.*
+
+*(Last Saturday, on the 23rd, I bought another pair of flea collars. Mitzi in the meantime had become thoroughly miserable, and I had determined that I was going to get a collar on her somehow. A friend had suggested using a towel to prevent her scratching. When I set out to do the job that afternoon, Jane suggested using catnip on the towel. After some coaxing on the back porch, I got Mitzi rolling around in the catnip on the towel, but only half succeeded in wrapping her up. I carried her squirming into the kitchen. Jane was doing the dishes. I knelt on the floor holding the cat, while Jane mentally tried to soothe her struggles — and I succeeded in getting the flea collar in place around her neck. Actually, Mitzi didn’t resist half as much as I’d feared she would. I’d thought I might totally alienate her this time if she fought too hard, but such was not the case. Jane said she’d sent Mitzi a stream of suggestions while I coaxed her into letting me put the collar on her. Everything worked well. I fed her a few times that afternoon, and succeeded in making friends okay. Mitzi hasn’t tried to get the collar off. It has a medicinal smell. Now, several days later — as I type this session on Wednesday night — she seems to feel much better.)*
+
+-------------NOTES: SESSION OF AUGUST 25, 1980-----------
+
+
+
+[^1]: See Appendix D.
+
+[^2]:  Jane wrote these notes in her journal last Sunday, the day before she delivered this session on August 25 — but I present them here to show how, from her own perspective, she very nicely covers events I too wrote about in connection with the session.
+“Sunday, August 24, 1980.
+
+“Yesterday walked with the typing table still further, the full length of the kitchen. Again, this represents the best improvement in that area since last winter...
+
+“Anyhow, have been applying the Magical Approach to a variety of other areas, household annoyances, with some gratifying results. Mitzi, our cat, has been loaded with fleas. Rob tried to get a collar on her a month ago and there was such a hassle, he gave up, got mad at the cat, and vice versa. Yesterday he tried again, both of us remembering the Magical Approach; me saying mentally that the affair would take place easily, etc. Rob did get the thing on the cat with much less difficulty; she didn’t even seem to resent it. Granted, this might have happened anyhow. The point is that the odds didn’t seem to go in that direction and that I do think ... we did mental work at other levels that resulted in that benign event ... as if before we gave cluttered orders for an event to take place.
+
+“Several aches or whatever in various parts of my body came and vanished as I used this approach ... where before that sort of thing used to last longer. Have been very relaxed; still lay down two or three times a day — do notes, read, rest ... yesterday wrote letter to the editor about my mention in the ‘miracle’ article in [the well-known] psychology magazine.
+
+“Later 8/24/80
+
+“Again, walk a bit further, and this time after my shower my back isn’t any worse. The problem is caused by sitting down so much — the pressure, and the heat and humidity. Answered 35 letters over the weekend ... my mood seems again magically improved at least. Finished letter to the magazine; it gets mailed Monday A.M.”
