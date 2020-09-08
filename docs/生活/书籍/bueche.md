@@ -94,6 +94,10 @@
 - Margaret Atwood  玛格丽特·阿特伍德 
   - The Testaments
   - Der Report der Magd (DE/EN) *The Handmaids Tale*
+- E.M. Remarque
+  - Im Westen Nichts Neues
+  - Der Weg Zurück
+  - Drei Kameraden
   
   
 
@@ -117,7 +121,7 @@
 - Vertraue dir selbst! 
 - Wie man mit einem Lachs verreist （DE/EN）
 - Fragebogen (*Frisch Max*)
-- Tagebuch (*Frank Anne*)
+- Tagebuch der Anne Frank 
 - The Psychology Book (Big Ideas Simply Explained)
 - The_Philosopher's_Tooltikts
 - Think again how to reason and argue
