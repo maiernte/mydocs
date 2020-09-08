@@ -62,6 +62,7 @@
 - Der Pate
 - Das Café am Rande der Welt Eine Erzählung über den Sinn des Lebens
 - Das gewicht der Worte
+- Bündnis der Herzen
 - Der große Gatsby (Neu übersetzt)
 - Die unerträgliche Leichtigkeit des Seins
 - Kon- Tiki. Ein Floß treibt über den Pazifik
