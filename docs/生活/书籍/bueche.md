@@ -29,29 +29,29 @@
 - Rot und Schwarz 
 - Stolz und Vorurteil (DE/EN)
 - Von Winde Verweht
-- The Essential Writtings of Ralph Waldo Emerson 爱默生文集
+- The Essential Writtings of [Ralph Waldo Emerson](https://de.wikipedia.org/wiki/Ralph_Waldo_Emerson) 爱默生文集
 - Little Women
 - To kill a Mockingbird
 - Wuthering Heights
-- 奥斯丁全集 (EN)
+- The Essential Writtings of [Jane Austen](https://de.wikipedia.org/wiki/Jane_Austen) 奥斯丁全集 (EN)
 
 ###### Krimi & Science Fiction 
 
-- Charlotte Holmes
+- Sherlock Holmes ([Arthur Conan Doyle](https://de.wikipedia.org/wiki/Arthur_Conan_Doyle))
   - Ein Studie in Scharlachrot
   - Der Hund von Baskerville
 - Tee? Kaffee? Mord!
   -  Der Doppelte Monet
   - Die letzten Worte des Ian O´Shelley
 - Wir Kinder von Bahnhof Zoo
-- Die Foundation Trilogie  阿西莫夫《基地》三部曲 (DE/EN)
+- Die Foundation Trilogie ([Isaac Asimov](https://de.wikipedia.org/wiki/Isaac_Asimov)) 阿西莫夫《基地》三部曲 (DE/EN)
 - Trisolaris 《三体》三部曲
 - Der Herr der Ringe Trilogie 魔戒三部曲
-- Jules Verne 凡尔纳作品集（不全）
+- [Jules Verne](https://de.wikipedia.org/wiki/Jules_Verne) 凡尔纳作品集（不全）
   - Die Kinder des Kapitän
   - Die geheimnisvolle Insel
   - Zwanzigtausend Meilen unter dem Meer
-- Agatha Christie 阿加莎 克里斯蒂 作品集
+- [Agatha Christie](https://de.wikipedia.org/wiki/Agatha_Christie) 阿加莎 克里斯蒂 作品集
   - And Then There None
   - Curtain
   - Death on the Nile
@@ -76,7 +76,7 @@
 - Das Lied von Eis und Feuer (neue Fassung Buch 01 bis 09) (DE/EN)
 - Gesamtwerk von Kafka Franz
 - Sturz der Titanen / Winter der Welt / Kinder der Freiheit 巨人陨落三部曲 
-- Albert Camus 加缪作品集
+- [Albert Camus](https://de.wikipedia.org/wiki/Albert_Camus) 加缪作品集
   - Der Fall
   - der Fremde
   - Der Mensch in der Revolte
@@ -91,10 +91,10 @@
 - The Alchemist 牧羊人奇幻之旅
 - The Girl on the Train
 - The Giver
-- Margaret Atwood  玛格丽特·阿特伍德 
+- [Margaret Atwood](https://de.wikipedia.org/wiki/Margaret_Atwood)  玛格丽特·阿特伍德 
   - The Testaments
   - Der Report der Magd (DE/EN) *The Handmaids Tale*
-- E.M. Remarque
+- [E.M. Remarque](https://de.wikipedia.org/wiki/Erich_Maria_Remarque)
   - Im Westen Nichts Neues
   - Der Weg Zurück
   - Drei Kameraden
