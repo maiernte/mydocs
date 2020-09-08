@@ -1,19 +1,25 @@
-###### Tee? Kaffee? Mord! 系列
+###### Krimi
 
-- 《Der doppelte Monet》
-- 《Die letzte Worte des Ian OŚhelley》
+- [x] Tee? Kaffee? Mord! 系列
+	- [x] 《Der doppelte Monet》
+	- [x] 《Die letzte Worte des Ian OŚhelley》
+- [x] Sherlock Holmes 系列
+	- [x] 《Eine Studie in Scharlachrot》
+	- [x] 《Der Hund von Baskerville》
+- [x] 《Die Wahrheit über den Fall Harry Quebert》
 
+###### Klassik
 
+- [x] 《Stolz und Vorurteil》
 
-###### Sherlock Holmes 系列
+###### Zeitgenössisch
 
-- 《Eine Studie in Scharlachrot》
-- 《Der Hund von Baskerville》
+- [ ] 《Bündnis der Herzen》
 
+###### Esoterik
 
-
-###### 其它
-
-- 《Stolz und Vorurteil》
-- 《Die Wahrheit über den Fall Harry Quebert》
+- [ ] Vertraue dir selbst! 
+- [ ] Seth Büche
+  - [ ] Seth Speaks
+  - [ ] The Nature of Personal Reality
 

@@ -1,0 +1,138 @@
+以下是本人收集的一些英语&德语书籍，凡标注 (DE/EN) 的即同时收录有英德两版。感兴趣的朋友请写信到邮箱索取。
+
+###### Geschichte 历史类
+
+- Arm und Reich (DE/EN) 枪炮、病菌与钢铁
+- Die Bibel nach Martin Luther 圣经
+- Die Macht der Geographie
+- Eine kurze Geschichte der Menschheit 人类简史
+- Komm, ich erzähl dir eine Geschichte
+- Martin Luther Rebell in einer Zeit des Umbruchs
+- Von Bismarck zu Hitler ein Rückblick
+- The Gift of Anger (关于祖父甘地的回忆录)
+- The Plantagenets 金雀花王朝
+
+###### Klassik 古典文学
+
+- Der Glöckner von Notre Dame
+- Der Graf von Monte Christo
+- Der alte mann und das Meer (DE/EN)
+- Der englische Patient
+- Der geheime Garten
+- Die Dornenvögel
+- Die Elenden
+- Die Kartause von Parma
+- Die Liebe in den Zeiten der Cholera
+- Don Quijote von der Mancha (*keine neue Übersetzung *)
+- Rot und Schwarz 
+- Stolz und Vorurteil (DE/EN)
+- Von Winde Verweht
+- The Essential Writtings of Ralph Waldo Emerson 爱默生文集
+- Little Women
+- To kill a Mockingbird
+- Wuthering Heights
+- 奥斯丁全集 (EN)
+
+###### Krimi & Science Fiction 
+
+- Charlotte Holmes
+  - Ein Studie in Scharlachrot
+  - Der Hund von Baskerville
+- Tee? Kaffee? Mord!
+  -  Der Doppelte Monet
+  - Die letzten Worte des Ian O´Shelley
+- Wir Kinder von Bahnhof Zoo
+- Die Foundation Trilogie  阿西莫夫《基地》三部曲 (DE/EN)
+- Trisolaris 《三体》三部曲
+- Der Herr der Ringe Trilogie 魔戒三部曲
+- Jules Verne 凡尔纳作品集（不全）
+  - Die Kinder des Kapitän
+  - Die geheimnisvolle Insel
+  - Zwanzigtausend Meilen unter dem Meer
+- Agatha Christie 阿加莎 克里斯蒂 作品集
+  - And Then There None
+  - Curtain
+  - Death on the Nile
+  - Five Little Pigs / Murder in Retrospect
+  - Murder on the orient Express
+  - The Murder of Roger Ackroyd 
+
+###### Roman
+
+- Der Pate
+- Das Café am Rande der Welt Eine Erzählung über den Sinn des Lebens
+- Das gewicht der Worte
+- Der große Gatsby (Neu übersetzt)
+- Die unerträgliche Leichtigkeit des Seins
+- Kon- Tiki. Ein Floß treibt über den Pazifik
+- Libellenschwestern
+- Meister und Margarita
+- Wo wir uns finden
+- Wüstenblume
+- Shades of Grey (DE/EN) 三部曲
+- Das Lied von Eis und Feuer (neue Fassung Buch 01 bis 09) (DE/EN)
+- Gesamtwerk von Kafka Franz
+- Sturz der Titanen / Winter der Welt / Kinder der Freiheit 巨人陨落三部曲 
+- Albert Camus 加缪作品集
+  - Der Fall
+  - der Fremde
+  - Der Mensch in der Revolte
+  - Der Mythos des Sisyphos
+  - Der glückliche Tod
+  - Die Pest
+- The Hunger Games 饥饿游戏三部曲    
+- Ender´s Game
+- Gone Girl
+- One Day
+- Season of Storms
+- The Alchemist 牧羊人奇幻之旅
+- The Girl on the Train
+- The Giver
+- Margaret Atwood  玛格丽特·阿特伍德 
+  - The Testaments
+  - Der Report der Magd (DE/EN) *The Handmaids Tale*
+  
+  
+
+###### Ökonomik 经济类
+
+- Genial einfach entscheiden Besser denken, handeln und investieren im täglichen Entscheidungsdschungel
+- Genial einfach investieren Mehr müssen Sie nicht wissen - das aber unbedingt
+- Souverän investieren mit Indexfonds und ETFs Wie Privatanleger das Spiel gegen die Finanzbranche gewinnen
+- Wirkungsorientiertes Investieren in Deutschland
+- Intelligent Investieren (Der Bestseller über die richtige Anlagestrategie)
+- Investieren statt sparen
+
+
+
+###### Lustige 好玩的 / 未分类
+
+- Älterwerden ist voll sexy, man stöhnt mehr das ultimative Lesekonfetti für Postjugendliche ab 50
+- Die Kunst des klugen Handelns 52 Irrwege, die Sie besser anderen überlassen
+- Lernen zu lernen Lernstrategien wirkungsvoll einsetzen by Werner Metzig
+- Schnelles Denken, langsames Denkek
+- Vertraue dir selbst! 
+- Wie man mit einem Lachs verreist （DE/EN）
+- Fragebogen (*Frisch Max*)
+- Tagebuch (*Frank Anne*)
+- The Psychology Book (Big Ideas Simply Explained)
+- The_Philosopher's_Tooltikts
+- Think again how to reason and argue
+- Can you keep a secret?
+
+###### Esoterik
+
+- Seth Books 
+  - Seth Speaks - The eternal validity of  the Soul (DE/EN)
+  - The Nature of Personality (DE/EN)
+  - The Individual and the Nature of Mass Events (DE/EN)
+  - Dreams Evolution and Fulfillment (DE/EN)
+  - The Nature of Psyche (DE/EN)
+  - The Unknown Reality
+  - The Magical Approach
+  - The Way toward Health
+  - The Early Sessions Book 1/2/3  (缺 4/5/6/7/8/9)
+
+  
+
+

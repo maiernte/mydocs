@@ -1,0 +1,62 @@
+
+
+###### 计划下載的书籍
+
+- [x] Der Pate 教父
+- [x] [Think again, How to reason and argue](https://b-ok.cc/book/3592812/1a5d3c?dsource=recommend)
+- [x] [The Philosopher's Toolkit: A Compendium of Philosophical Concepts and Methods](https://b-ok.cc/book/721623/cd480a?dsource=recommend)
+- [x] The old and the sea
+- [x] Die unerträgliche Leichtigkeit des Seins 生命不能承受之轻
+- [x] 加謬 *《Der Fremde》《Der Fall》《Die Pest》《Der glückliche Tod》《Der Mensch in der Revolte》《Der Mythos des Sisyphos》*
+- [x] Ralph Waldo Emerson [爱默生](https://b-ok.cc/book/1656480/30b4ba)
+- [x] Seth book (*早期课只下了三部  The Early Sessions*)
+- [x] [Little Women](https://b-ok.cc/book/1104547/a6a1b0)
+- [x] [Der Glöckner von Notre-Dame](https://b-ok.cc/book/3934326/45f854)
+- [x] [Die Elenden](https://b-ok.cc/book/3938564/00d292)
+- [x] [Die Macht der Geographie](https://b-ok.cc/book/5265053/25e3e2)
+- [x] [Arm und Reich 钢铁枪炮和细菌](https://b-ok.cc/book/3773480/5453dc)  [英文版](https://b-ok.cc/book/960869/c12165?dsource=recommend)
+- [x] [The Psychology Book](https://b-ok.cc/book/2335218/f37d31?dsource=mostpopular)
+- [x] 巨人的陨落 三部曲 （先下德语版，以后有需要再下英文版）
+  - [x] Sturz der Titanen(*Fall of Giants*)  第一部
+  - [x] *[Winter der Welt](https://de.wikipedia.org/wiki/Winter_der_Welt)*  (Original: *Winter of the World*) **第二部**
+  - [x] *[Kinder der Freiheit](https://de.wikipedia.org/wiki/Kinder_der_Freiheit)* (Original: *Edge of Eternity*) 第三部
+- [x] Wuthering Heights 呼啸山庄
+- [ ] [Krieg und Frieden](https://b-ok.cc/s/Krieg%20und%20Frieden)
+
+###### 轻松作品
+
+- [x] Wie man mit einem Lachs verreist (*How to Travel With a Salmon and Other Essays*)
+- [ ] Don Quijote von der Mancha (*Susanne Lange 的2016译本*)
+- [x] Pride and Prejudice 傲慢与偏见
+- [x] Can You Keep a Secret？（*听说超级好笑*）
+
+###### 科幻/悬疑
+
+- [x] 阿加莎 克里斯蒂 的作品 (*其它以后有机会再下*)
+  - [x] And then there were none 无人生还 
+  - [x] 罗杰・艾克罗伊德谋杀案
+  - [x] 东方快车谋杀案
+  - [x] 帷幕
+  - [x] [啤酒谋杀案](https://book.douban.com/subject/1215291/)
+  - [x] [尼罗河上的惨案](https://book.douban.com/subject/1329959/)
+- [x] The Hunger Games [三部曲](https://b-ok.org/book/2540007/14ffc7) （强烈推荐）
+- [x] The Giver 
+- [x] Gone Girl 消的的爱人
+- [x] Fifty Shades of Grey/Darker/Freed 五十度灰/黑/飞
+- [x] The Girl on the Train 火车上的女孩
+- [x] Ender's Game (The Ender Quintet) 
+- [x] 阿西莫夫 《基地》系列
+- [x] [凡尔纳 《海底两万里》《格兰特船长的儿女》《神秘岛》等](https://zh.wikipedia.org/wiki/%E5%84%92%E5%8B%92%C2%B7%E5%87%A1%E5%B0%94%E7%BA%B3)
+- [x] [Älterwerden ist voll sexy, man stöhnt mehr: Das ultimative Lesekonfetti für Postjugendliche ab 50](https://b-ok.cc/book/5443266/2cfd2a)
+- [x] [Meister und Margarita](https://b-ok.cc/book/3822689/bd4fce) 大师与玛格丽特
+- [x] [Von Bismarck zu Hitler Ein Rückblick](https://b-ok.cc/book/2553928/2ae08f)
+- [x] [牧羊人奇幻之旅](https://b-ok.cc/book/3558229/9b6b53?dsource=mostpopular)
+- [ ] [Alice's Adventures in Wonderland （评注版）](https://b-ok.cc/book/2768593/ba008f)
+
+
+
+###### 需要购买
+
+- [ ] [Ich weiß, warum der gefangene Vogel singt](https://www.amazon.de/warum-gefangene-Vogel-suhrkamp-taschenbuch/dp/3518468979/ref=asc_df_3518468979/?tag=ccapneon-buecher-must-haves-21) （*amazone*）
+- [ ] [Der Löwe des Kaisers](https://www.amazon.de/L%C3%B6we-Kaisers-Gesamtausgabe-Cornelia-Kempf-ebook/dp/B07NPS8ZVJ/ref=zg_bs_567130031_43?_encoding=UTF8&psc=1&refRID=9PQA6AK4RNDPFFD2H0J0) （*amazone*）
+- [ ] [Zeit für Helden: Abenteuerroman](https://www.amazon.de/Zeit-f%C3%BCr-Helden-Abenteuerroman-George-ebook/dp/B07ZC8D65K/ref=zg_bs_567130031_49?_encoding=UTF8&psc=1&refRID=9PQA6AK4RNDPFFD2H0J0) （*amazone*）
