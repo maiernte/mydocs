@@ -2,7 +2,11 @@
 
 ###### 文学作品
 
-- [ ] [Krieg und Frieden](https://b-ok.cc/s/Krieg%20und%20Frieden)
+- [ ] [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi) 
+  - [ ] [Krieg und Frieden](https://b-ok.cc/book/4336949/11c13d)
+  - [ ] [Anna Karenina](https://b-ok.cc/book/3980944/1507d9)
+  - [ ] [Auferstehung](https://b-ok.cc/book/3952468/852c58)
+- [ ] [Auf der Suche nach der verlorenen Zeit](https://b-ok.cc/book/4006557/ee4a58)
 
   
 
