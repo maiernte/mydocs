@@ -98,6 +98,10 @@
   - Im Westen Nichts Neues
   - Der Weg Zurück
   - Drei Kameraden
+  - Arc de Triomphe
+  - Der schwarze Obelisk
+  - Liebe deinen Nächsten
+  - Die Nacht von Lissabon
   
   
 
