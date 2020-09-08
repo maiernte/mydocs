@@ -56,3 +56,12 @@ Sample alert using type DANGER
 > [!danger]
 > An alert of type 'danger' using global style 'callout'.`[!DANGER]`
 Step #3 - docsify commands
+
+
+
+- [ ] Some list
+
+> [!note]
+> - [x] Some list
+> 
+> An alert of type 'note' using global style 'callout'. `[!NOTE]`

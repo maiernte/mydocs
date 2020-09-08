@@ -55,7 +55,11 @@ And, now, Part One.... 現在，就讓我們進入第一週的課程。
 41. In order to express life there must be mind; nothing can exist without mind. Everything which exists is some manifestation of this one basic substance from which and by which all things have been created and are continually being recreated. 我們若想展現生命，就必須先養成心智。若無心智，則萬事不成。萬事萬物的存在都是它的體現，萬物由此創造而成，也由此繼續創造再生。
 42. We live in a fathomless sea of plastic mind substance. This substance is ever alive and active. It is sensitive to the highest degree. It takes form according to the mental demand. Thought forms the mold or matrix from which the substance expresses. 我們活在廣袤不可預測的宇宙，它充滿了具可塑性的心靈物質，這種物質永遠生氣勃勃。它具有高度敏感性，能根據心智的需求自我塑形，而讓此物質塑造成型的模具就是我們的思維。
 43. Remember that it is in the application alone that the value consists, and that a practical understanding of this law will substitute abundance for poverty, wisdom for ignorance, harmony for discord and freedom for tyranny, and certainly there can be no greater blessing than these from a material and social standpoint. 請謹記，「實際應用」是讓它產生最大價值的方法。如果你能理解這條法則，就能以富足取代貧困、以智慧取代無知、化混亂為和諧，化暴政為自由。就物質與社會的角度而言，無疑沒有比這種改變更美好的恩賜了。思維是啟動宇宙法則的萬能金鑰。
-44. **Now make the application**: Select a room where you can be alone and undisturbed; sit erect, comfortably, but do not lounge; let your thoughts roam where they will but be perfectly still for from fifteen minutes to half an hour; continue this for three or four days or for a week until you secure full control of your physical being. 現在，讓我們實際起而行動吧！擇定一處可以獨處、不受打擾的空間。落坐時請挺直腰桿，姿態輕鬆，但不要隨便懶散；任由思緒漫遊直達完美靜止境地，讓你的身體維持在完全靜止的狀態15～30分鐘。連續練習三、四天或甚至一整個星期，直到你可以完全掌控自己的身體狀態為止。
+
+> [!note]
+> 44. **Now make the application**: Select a room where you can be alone and undisturbed; sit erect, comfortably, but do not lounge; let your thoughts roam where they will but be perfectly still for from fifteen minutes to half an hour; continue this for three or four days or for a week until you secure full control of your physical being. 現在，讓我們實際起而行動吧！擇定一處可以獨處、不受打擾的空間。落坐時請挺直腰桿，姿態輕鬆，但不要隨便懶散；任由思緒漫遊直達完美靜止境地，讓你的身體維持在完全靜止的狀態15～30分鐘。連續練習三、四天或甚至一整個星期，直到你可以完全掌控自己的身體狀態為止。
+> 
+
 45. Many will find this extremely difficult; others will conquer with ease, but it is absolutely essential to secure complete control of the body before you are ready to progress. Next week you will receive instructions for the next step; in the meantime you must have mastered this one. 許多人會覺得這個過程簡直難如登天，也有人覺得易如反掌，你得先完全掌控自己的身體，才能準備好向前進步，這一點至關重要。下星期你將會收到邁向下一步的指導方針，在這段等待時間，你必須做到熟練以上的練習。
 
 ##### Study Questions with Answers
