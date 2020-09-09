@@ -2,23 +2,30 @@
 
 ###### 文学作品
 
-- [x] [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi) 
-  - [x] [Krieg und Frieden](https://b-ok.cc/book/4336949/11c13d)
-  - [x] [Anna Karenina](https://b-ok.cc/book/3980944/1507d9)
-  - [x] [Auferstehung](https://b-ok.cc/book/3952468/852c58)
-- [x] [Auf der Suche nach der verlorenen Zeit](https://b-ok.cc/book/4006557/ee4a58)
+- [ ] [Walden - Leben in den Wäldern](https://b-ok.cc/book/3982136/cbf0d0)
 
   
+
+###### 历史
+
+- [ ] [1918 – Die Tore zur Hölle](https://b-ok.cc/book/5572071/6da475)
+- [ ] [Preußen. Aufstieg und Niedergang](https://b-ok.cc/book/2851694/002e17)
+- [ ] [Die Schlafwandler: Wie Europa in den Ersten Weltkrieg zog](https://b-ok.cc/book/4958166/686e2f)
+- [ ] [Der Siebenjährige Krieg](https://b-ok.cc/book/5009037/5f414e): Ein Weltkrieg im 18. Jahrhundert
+- [ ] [Der Dreißigjährige Krieg](https://b-ok.cc/book/5487476/30ff3c)
+- [ ] [1918 - Die Welt im Fieber](https://b-ok.cc/book/5589491/9712f7): Wie die Spanische Grippe die Gesellschaft veränderte
 
 ###### 轻松作品
 
 - [ ] Don Quijote von der Mancha (*等待 Susanne Lange 的2016译本*)
+- [ ] [Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](https://b-ok.cc/book/5589497/f7fc31) 亲子教育
 
   
 
 ###### 科幻/悬疑
 
-- [x] [Alice's Adventures in Wonderland （评注版）](https://b-ok.cc/book/2768593/ba008f)
+- [ ] [Sherlock Holmes](https://b-ok.cc/book/3983774/f070cc) - gesammelte Werke
+- [ ] [Sister of the Stars](https://b-ok.cc/book/5648352/0a5701): Von Runen und Schatten
 
 
 
