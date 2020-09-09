@@ -122,10 +122,9 @@
 
 
 
-###### Lustige 好玩的 / 未分类
+###### Lustige 好玩的 
 
 - Älterwerden ist voll sexy, man stöhnt mehr das ultimative Lesekonfetti für Postjugendliche ab 50
-- Vertraue dir selbst! 
 - Wie man mit einem Lachs verreist （DE/EN）
 - Fragebogen (*Frisch Max*)
 - Tagebuch der Anne Frank 
@@ -137,9 +136,9 @@
 
 - Lernen zu lernen Lernstrategien wirkungsvoll einsetzen by Werner Metzig
 - The Psychology Book (Big Ideas Simply Explained)
-- The_Philosopher's_Tooltikts
-- Think again how to reason and argue
-- Schnelles Denken, langsames Denkek
+- The Philosopher's Tooltikts
+- Think Again : How to Reason and Argue
+- Schnelles Denken, langsames Denken
 - Die Kunst des klugen Handelns 52 Irrwege, die Sie besser anderen überlassen
 - Smart Thinking Skills for Critical Understanding and Writing
 - Courage
@@ -150,7 +149,8 @@
 
 ###### Esoterik
 
-- Seth Books 
+- Vertraue dir selbst! (*by Ralph Waldo Emerson*)
+- Seth Books (*by Seth, Jane and Robert*)
   - Seth Speaks - The eternal validity of  the Soul (DE/EN)
   - The Nature of Personality (DE/EN)
   - The Individual and the Nature of Mass Events (DE/EN)
