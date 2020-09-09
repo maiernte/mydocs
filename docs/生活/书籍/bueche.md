@@ -45,10 +45,12 @@
 - Sherlock Holmes ([Arthur Conan Doyle](https://de.wikipedia.org/wiki/Arthur_Conan_Doyle))
   - Ein Studie in Scharlachrot
   - Der Hund von Baskerville
+  - Sherlock Holmes - gesammelte Werke
 - Tee? Kaffee? Mord!
   -  Der Doppelte Monet
   - Die letzten Worte des Ian O´Shelley
 - Wir Kinder von Bahnhof Zoo
+- Sister of the Stars: Von Runen und Schatten (HexenSchwesternSaga 1)
 - Die Foundation Trilogie ([Isaac Asimov](https://de.wikipedia.org/wiki/Isaac_Asimov)) 阿西莫夫《基地》三部曲 (DE/EN)
 - Die Trisolaris-Trilogie (*Die drei Sonnen / Der dunkle Wald / Jenseits der Zeit*)《三体》三部曲
 - Der Herr der Ringe Trilogie 魔戒三部曲
@@ -142,6 +144,7 @@
 - Think Again : How to Reason and Argue
 - Schnelles Denken, langsames Denken
 - Die Kunst des klugen Handelns 52 Irrwege, die Sie besser anderen überlassen
+- Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen 
 - Smart Thinking Skills for Critical Understanding and Writing
 - Courage
   - The Courage to be Disliked
