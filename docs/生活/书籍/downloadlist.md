@@ -2,11 +2,11 @@
 
 ###### 文学作品
 
-- [ ] [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi) 
-  - [ ] [Krieg und Frieden](https://b-ok.cc/book/4336949/11c13d)
-  - [ ] [Anna Karenina](https://b-ok.cc/book/3980944/1507d9)
-  - [ ] [Auferstehung](https://b-ok.cc/book/3952468/852c58)
-- [ ] [Auf der Suche nach der verlorenen Zeit](https://b-ok.cc/book/4006557/ee4a58)
+- [x] [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi) 
+  - [x] [Krieg und Frieden](https://b-ok.cc/book/4336949/11c13d)
+  - [x] [Anna Karenina](https://b-ok.cc/book/3980944/1507d9)
+  - [x] [Auferstehung](https://b-ok.cc/book/3952468/852c58)
+- [x] [Auf der Suche nach der verlorenen Zeit](https://b-ok.cc/book/4006557/ee4a58)
 
   
 
@@ -18,7 +18,7 @@
 
 ###### 科幻/悬疑
 
-- [ ] [Alice's Adventures in Wonderland （评注版）](https://b-ok.cc/book/2768593/ba008f)
+- [x] [Alice's Adventures in Wonderland （评注版）](https://b-ok.cc/book/2768593/ba008f)
 
 
 

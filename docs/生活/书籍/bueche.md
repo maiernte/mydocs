@@ -33,7 +33,12 @@
 - Little Women
 - To kill a Mockingbird
 - Wuthering Heights
+- Alice’s Adventures in Wonderland Decoded
 - The Essential Writtings of [Jane Austen](https://de.wikipedia.org/wiki/Jane_Austen) 奥斯丁全集 (EN)
+- [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi)
+  - Krieg und Frieden
+  -  Anna Karenina
+  - Die Auferstehung
 
 ###### Krimi & Science Fiction 
 
@@ -58,6 +63,7 @@
   - Five Little Pigs / Murder in Retrospect
   - Murder on the orient Express
   - The Murder of Roger Ackroyd 
+  
 
 ###### Roman
 
@@ -119,17 +125,28 @@
 ###### Lustige 好玩的 / 未分类
 
 - Älterwerden ist voll sexy, man stöhnt mehr das ultimative Lesekonfetti für Postjugendliche ab 50
-- Die Kunst des klugen Handelns 52 Irrwege, die Sie besser anderen überlassen
-- Lernen zu lernen Lernstrategien wirkungsvoll einsetzen by Werner Metzig
-- Schnelles Denken, langsames Denkek
 - Vertraue dir selbst! 
 - Wie man mit einem Lachs verreist （DE/EN）
 - Fragebogen (*Frisch Max*)
 - Tagebuch der Anne Frank 
+- Can you keep a secret?
+
+
+
+###### Theorie & Skills
+
+- Lernen zu lernen Lernstrategien wirkungsvoll einsetzen by Werner Metzig
 - The Psychology Book (Big Ideas Simply Explained)
 - The_Philosopher's_Tooltikts
 - Think again how to reason and argue
-- Can you keep a secret?
+- Schnelles Denken, langsames Denkek
+- Die Kunst des klugen Handelns 52 Irrwege, die Sie besser anderen überlassen
+- Smart Thinking Skills for Critical Understanding and Writing
+- Courage
+  - The Courage to be Disliked
+  - The Courage to be Happy: True Contentment Is In Your Power
+
+
 
 ###### Esoterik
 
