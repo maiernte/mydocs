@@ -8,16 +8,9 @@
 
 ###### 历史
 
-- [x] [1918 – Die Tore zur Hölle](https://b-ok.cc/book/5572071/6da475)
-- [x] [Preußen. Aufstieg und Niedergang](https://b-ok.cc/book/2851694/002e17)
-- [x] [Die Schlafwandler: Wie Europa in den Ersten Weltkrieg zog](https://b-ok.cc/book/4958166/686e2f)
-- [x] [Der Siebenjährige Krieg](https://b-ok.cc/book/5009037/5f414e): Ein Weltkrieg im 18. Jahrhundert
-- [x] [Der Dreißigjährige Krieg](https://b-ok.cc/book/5487476/30ff3c)
-- [x] [Der Hundertjährige Krieg](https://b-ok.cc/book/5009031/2b8478)
-- [x] [1918 - Die Welt im Fieber](https://b-ok.cc/book/5589491/9712f7): Wie die Spanische Grippe die Gesellschaft veränderte
-- [x] [Fremdbestimmt: 120 Jahre Lügen und Täuschung](https://b-ok.cc/book/5339295/21db61)
-- [x] [Die Bürgerliche Revolution](https://b-ok.cc/book/5433240/5c07f6?dsource=recommend)
-- [x] [Der Crash ist da](https://b-ok.cc/book/5550125/4b5701?dsource=recommend) 经济类
+- [ ] [1812: Napoleons Feldzug in Russland](https://b-ok.cc/book/2478505/931dc6)
+- [ ] [1815: Napoleons Sturz und der Wiener Kongress](https://b-ok.cc/book/5511149/e423ae)
+- [ ] [Napoleon Die hundert Tage](https://b-ok.cc/book/5183101/f2570f)
 
 ###### 轻松作品
 
