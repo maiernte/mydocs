@@ -8,24 +8,28 @@
 
 ###### 历史
 
-- [ ] [1918 – Die Tore zur Hölle](https://b-ok.cc/book/5572071/6da475)
-- [ ] [Preußen. Aufstieg und Niedergang](https://b-ok.cc/book/2851694/002e17)
-- [ ] [Die Schlafwandler: Wie Europa in den Ersten Weltkrieg zog](https://b-ok.cc/book/4958166/686e2f)
-- [ ] [Der Siebenjährige Krieg](https://b-ok.cc/book/5009037/5f414e): Ein Weltkrieg im 18. Jahrhundert
-- [ ] [Der Dreißigjährige Krieg](https://b-ok.cc/book/5487476/30ff3c)
-- [ ] [1918 - Die Welt im Fieber](https://b-ok.cc/book/5589491/9712f7): Wie die Spanische Grippe die Gesellschaft veränderte
+- [x] [1918 – Die Tore zur Hölle](https://b-ok.cc/book/5572071/6da475)
+- [x] [Preußen. Aufstieg und Niedergang](https://b-ok.cc/book/2851694/002e17)
+- [x] [Die Schlafwandler: Wie Europa in den Ersten Weltkrieg zog](https://b-ok.cc/book/4958166/686e2f)
+- [x] [Der Siebenjährige Krieg](https://b-ok.cc/book/5009037/5f414e): Ein Weltkrieg im 18. Jahrhundert
+- [x] [Der Dreißigjährige Krieg](https://b-ok.cc/book/5487476/30ff3c)
+- [x] [Der Hundertjährige Krieg](https://b-ok.cc/book/5009031/2b8478)
+- [x] [1918 - Die Welt im Fieber](https://b-ok.cc/book/5589491/9712f7): Wie die Spanische Grippe die Gesellschaft veränderte
+- [x] [Fremdbestimmt: 120 Jahre Lügen und Täuschung](https://b-ok.cc/book/5339295/21db61)
+- [x] [Die Bürgerliche Revolution](https://b-ok.cc/book/5433240/5c07f6?dsource=recommend)
+- [x] [Der Crash ist da](https://b-ok.cc/book/5550125/4b5701?dsource=recommend) 经济类
 
 ###### 轻松作品
 
 - [ ] Don Quijote von der Mancha (*等待 Susanne Lange 的2016译本*)
-- [ ] [Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](https://b-ok.cc/book/5589497/f7fc31) 亲子教育
+- [x] [Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](https://b-ok.cc/book/5589497/f7fc31) 亲子教育
 
   
 
 ###### 科幻/悬疑
 
-- [ ] [Sherlock Holmes](https://b-ok.cc/book/3983774/f070cc) - gesammelte Werke
-- [ ] [Sister of the Stars](https://b-ok.cc/book/5648352/0a5701): Von Runen und Schatten
+- [x] [Sherlock Holmes](https://b-ok.cc/book/3983774/f070cc) - gesammelte Werke
+- [x] [Sister of the Stars](https://b-ok.cc/book/5648352/0a5701): Von Runen und Schatten
 
 
 
