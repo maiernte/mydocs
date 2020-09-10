@@ -2,27 +2,27 @@
 
 ###### 文学作品
 
-- [ ] [Walden - Leben in den Wäldern](https://b-ok.cc/book/3982136/cbf0d0)
+- [ ] [Walden - Leben in den Wäldern](https://book4you.org/book/3982136/cbf0d0)
 
   
 
 ###### 历史
 
-- [ ] [1812: Napoleons Feldzug in Russland](https://b-ok.cc/book/2478505/931dc6)
-- [ ] [1815: Napoleons Sturz und der Wiener Kongress](https://b-ok.cc/book/5511149/e423ae)
-- [ ] [Napoleon Die hundert Tage](https://b-ok.cc/book/5183101/f2570f)
+- [ ] [1812: Napoleons Feldzug in Russland](https://book4you.org/book/2478505/931dc6)
+- [ ] [1815: Napoleons Sturz und der Wiener Kongress](https://book4you.org/book/5511149/e423ae)
+- [ ] [Napoleon Die hundert Tage](https://book4you.org/book/5183101/f2570f)
 
 ###### 轻松作品
 
 - [ ] Don Quijote von der Mancha (*等待 Susanne Lange 的2016译本*)
-- [x] [Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](https://b-ok.cc/book/5589497/f7fc31) 亲子教育
+- [x] [Das Buch, von dem du dir wünschst, deine Eltern hätten es gelesen](https://book4you.org/book/5589497/f7fc31) 亲子教育
 
   
 
 ###### 科幻/悬疑
 
-- [x] [Sherlock Holmes](https://b-ok.cc/book/3983774/f070cc) - gesammelte Werke
-- [x] [Sister of the Stars](https://b-ok.cc/book/5648352/0a5701): Von Runen und Schatten
+- [x] [Sherlock Holmes](https://book4you.org/book/3983774/f070cc) - gesammelte Werke
+- [x] [Sister of the Stars](https://book4you.org/5648352/0a5701): Von Runen und Schatten
 
 
 
