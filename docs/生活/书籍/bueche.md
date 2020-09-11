@@ -20,6 +20,9 @@
 - Die bürgerliche Revolution
 - Fremdbestimmt. 120 Jahre Lügen und Täuschung
 - 1918 - Die Welt im Fieber: Wie Spanische Grippe die Gesellschaft veränderte
+- 1812 Napoleons Feldzug in Russland
+- 1815 Napoleons Sturz und der Wiener Kongress
+- Napoleon Die hundert Tage
 - The Gift of Anger (关于祖父甘地的回忆录)
 - The Plantagenets 金雀花王朝
 
@@ -38,6 +41,7 @@
 - Rot und Schwarz 
 - Stolz und Vorurteil (DE/EN)
 - Von Winde Verweht
+- Walden - Leben in den Wäldern
 - The Essential Writtings of [Ralph Waldo Emerson](https://de.wikipedia.org/wiki/Ralph_Waldo_Emerson) 爱默生文集
 - Little Women
 - To kill a Mockingbird
@@ -158,7 +162,7 @@
 - Courage
   - The Courage to be Disliked
   - The Courage to be Happy: True Contentment Is In Your Power
-
+- Ego is the Enemy （《绝对自控》）
 
 
 ###### Esoterik
