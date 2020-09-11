@@ -22,7 +22,10 @@
 - 1918 - Die Welt im Fieber: Wie Spanische Grippe die Gesellschaft veränderte
 - 1812 Napoleons Feldzug in Russland
 - 1815 Napoleons Sturz und der Wiener Kongress
+- 1866 Bismarcks Krieg gegen die Habsburger
 - Napoleon Die hundert Tage
+- Waterloo: The Battle for Modern Europe
+- Waterloo: The History of Four Days, Three Armies
 - The Gift of Anger (关于祖父甘地的回忆录)
 - The Plantagenets 金雀花王朝
 
