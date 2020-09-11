@@ -45,6 +45,7 @@
 - Stolz und Vorurteil (DE/EN)
 - Von Winde Verweht
 - Walden - Leben in den Wäldern
+- 1984 (*Deutsch*)
 - The Essential Writtings of [Ralph Waldo Emerson](https://de.wikipedia.org/wiki/Ralph_Waldo_Emerson) 爱默生文集
 - Little Women
 - To kill a Mockingbird
