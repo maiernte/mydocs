@@ -3,8 +3,8 @@
 ###### 文学作品
 
 - [x] [Walden - Leben in den Wäldern](https://book4you.org/book/3982136/cbf0d0)
-
-  
+- [ ] Kindler Klassiker 系列
+- [ ] Kindler Kompakt 系列
 
 ###### 历史
 

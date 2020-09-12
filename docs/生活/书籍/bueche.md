@@ -28,6 +28,8 @@
 - Waterloo: The History of Four Days, Three Armies
 - The Gift of Anger (关于祖父甘地的回忆录)
 - The Plantagenets 金雀花王朝
+- Ten Caesars Roman Emperors from Augustus to Constantine
+- The Landscape of History How Historians Map the Past
 
 ###### Klassik 古典文学
 
@@ -73,6 +75,10 @@
 - Der Herr der Ringe Trilogie 魔戒三部曲
 - Der ewige Krieg
 - Der Wüstenplanet
+- Ferdinano von Schirach
+  - Schuld
+  - Tabu
+  - Verbrechen
 - [Jules Verne](https://de.wikipedia.org/wiki/Jules_Verne) 凡尔纳作品集（不全）
   - Die Kinder des Kapitän
   - Die geheimnisvolle Insel
@@ -89,20 +95,39 @@
 ###### Roman
 
 - Der Pate
+
 - Das Café am Rande der Welt Eine Erzählung über den Sinn des Lebens
+
 - Das gewicht der Worte
+
 - Bündnis der Herzen
+
 - Der große Gatsby (Neu übersetzt)
+
 - Die unerträgliche Leichtigkeit des Seins
+
 - Kon- Tiki. Ein Floß treibt über den Pazifik
+
 - Libellenschwestern
+
 - Meister und Margarita
+
 - Wo wir uns finden
+
+- Der Gesang der Flusskrebse
+
+- Ein ganzes Leben
+
 - Wüstenblume
+
 - Shades of Grey (DE/EN) 三部曲
+
 - Das Lied von Eis und Feuer (neue Fassung Buch 01 bis 09) (DE/EN)
+
 - Gesamtwerk von Kafka Franz
+
 - Sturz der Titanen / Winter der Welt / Kinder der Freiheit 巨人陨落三部曲 
+
 - [Albert Camus](https://de.wikipedia.org/wiki/Albert_Camus) 加缪作品集
   - Der Fall
   - der Fremde
@@ -110,17 +135,27 @@
   - Der Mythos des Sisyphos
   - Der glückliche Tod
   - Die Pest
+  
 - The Hunger Games 饥饿游戏三部曲    
+
 - Ender´s Game
+
 - Gone Girl
+
 - One Day
+
 - Season of Storms
-- The Alchemist 牧羊人奇幻之旅
+
+- The Alchemist (DE/EN) 牧羊人奇幻之旅
+
 - The Girl on the Train
+
 - The Giver
+
 - [Margaret Atwood](https://de.wikipedia.org/wiki/Margaret_Atwood)  玛格丽特·阿特伍德 
   - The Testaments
   - Der Report der Magd (DE/EN) *The Handmaids Tale*
+  
 - [E.M. Remarque](https://de.wikipedia.org/wiki/Erich_Maria_Remarque)
   - Im Westen Nichts Neues
   - Der Weg Zurück
