@@ -75,7 +75,7 @@
 - Der Herr der Ringe Trilogie 魔戒三部曲
 - Der ewige Krieg
 - Der Wüstenplanet
-- Ferdinano von Schirach
+- [Ferdinano von Schirach](https://de.wikipedia.org/wiki/Ferdinand_von_Schirach)
   - Schuld
   - Tabu
   - Verbrechen
