@@ -26,6 +26,8 @@
 - Napoleon Die hundert Tage
 - Waterloo: The Battle for Modern Europe
 - Waterloo: The History of Four Days, Three Armies
+- 1815 Der Wiener Kongress und die Neugründung Europ
+- Der Wiener  Kongress: Das große Fest und die Neuordnung Europas
 - The Gift of Anger (关于祖父甘地的回忆录)
 - The Plantagenets 金雀花王朝
 - Ten Caesars Roman Emperors from Augustus to Constantine
