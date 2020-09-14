@@ -11,6 +11,7 @@
 ###### Klassik
 
 - [x] 《Stolz und Vorurteil》
+- [ ] 《Der Graf von Monte Christo》
 
 ###### Zeitgenössisch
 
