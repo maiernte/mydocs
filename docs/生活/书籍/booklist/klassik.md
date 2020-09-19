@@ -1,0 +1,33 @@
+###### Klassik 古典文学
+
+- Der Glöckner von Notre Dame
+- Der Graf von Monte Christo
+- [Ernest Hemingway](https://de.wikipedia.org/wiki/Ernest_Hemingway)
+  - Der alte mann und das Meer (DE/EN)
+  - Wem die Stunde schlägt 丧钟为谁而鸣
+- Der englische Patient
+- Der geheime Garten
+- Die Dornenvögel
+- Die Elenden
+- Hundert Jahre Einsamkeit
+- Die Kartause von Parma
+- Die Liebe in den Zeiten der Cholera
+- Don Quijote von der Mancha (*keine neue Übersetzung *)
+- Rot und Schwarz 
+- Lady Chatterleys Lover (DE/EN)
+- Stolz und Vorurteil (DE/EN)
+- Von Winde Verweht
+- Walden - Leben in den Wäldern
+- Auf der Suche nach der Verlorenen Zeit (*《追忆似水年华》*)
+- 1984 (*Deutsch*)
+- The Essential Writtings of [Ralph Waldo Emerson](https://de.wikipedia.org/wiki/Ralph_Waldo_Emerson) 爱默生文集
+- Little Women
+- To kill a Mockingbird
+- Wuthering Heights / *Sturmhöhe*  (DE/EN)
+- Alice’s Adventures in Wonderland Decoded
+- The Essential Writtings of [Jane Austen](https://de.wikipedia.org/wiki/Jane_Austen) 奥斯丁全集 (EN)
+- Complete Works of William Shakespeare (DE/EN)
+- [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi)
+  - Krieg und Frieden
+  - Anna Karenina
+  - Die Auferstehung
