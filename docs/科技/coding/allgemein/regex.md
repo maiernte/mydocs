@@ -66,3 +66,14 @@ const index = 'some Text'.sarch(regex);
 $1空空   
 ```
 
+
+
+##### Word文档
+
+回车符是  
+
+```
+^p 
+^|
+```
+

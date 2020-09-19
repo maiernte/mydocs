@@ -37,18 +37,23 @@
 
 - Der Glöckner von Notre Dame
 - Der Graf von Monte Christo
-- Der alte mann und das Meer (DE/EN)
+- [Ernest Hemingway](https://de.wikipedia.org/wiki/Ernest_Hemingway)
+  - Der alte mann und das Meer (DE/EN)
+  - Wem die Stunde schlägt 丧钟为谁而鸣
 - Der englische Patient
 - Der geheime Garten
 - Die Dornenvögel
 - Die Elenden
+- Hundert Jahre Einsamkeit
 - Die Kartause von Parma
 - Die Liebe in den Zeiten der Cholera
 - Don Quijote von der Mancha (*keine neue Übersetzung *)
 - Rot und Schwarz 
+- Lady Chatterleys Lover (DE/EN)
 - Stolz und Vorurteil (DE/EN)
 - Von Winde Verweht
 - Walden - Leben in den Wäldern
+- Auf der Suche nach der Verlorenen Zeit (*《追忆似水年华》*)
 - 1984 (*Deutsch*)
 - The Essential Writtings of [Ralph Waldo Emerson](https://de.wikipedia.org/wiki/Ralph_Waldo_Emerson) 爱默生文集
 - Little Women
@@ -56,6 +61,7 @@
 - Wuthering Heights / *Sturmhöhe*  (DE/EN)
 - Alice’s Adventures in Wonderland Decoded
 - The Essential Writtings of [Jane Austen](https://de.wikipedia.org/wiki/Jane_Austen) 奥斯丁全集 (EN)
+- Complete Works of William Shakespeare (DE/EN)
 - [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi)
   - Krieg und Frieden
   -  Anna Karenina
@@ -71,6 +77,8 @@
   -  Der Doppelte Monet
   - Die letzten Worte des Ian O´Shelley
 - Wir Kinder von Bahnhof Zoo
+- Achtsam Morden
+- Moby Dick (*Der weiße Wal*)
 - Sister of the Stars: Von Runen und Schatten (HexenSchwesternSaga 1)
 - Die Foundation Trilogie ([Isaac Asimov](https://de.wikipedia.org/wiki/Isaac_Asimov)) 阿西莫夫《基地》三部曲 (DE/EN)
 - Die Trisolaris-Trilogie (*Die drei Sonnen / Der dunkle Wald / Jenseits der Zeit*)《三体》三部曲
@@ -91,7 +99,7 @@
   - Death on the Nile
   - Five Little Pigs / Murder in Retrospect
   - Murder on the orient Express
-  - The Murder of Roger Ackroyd 
+  - The Murder of Roger Ackroyd ( *Alibi* ) (DE/EN)
   
 
 ###### Roman
@@ -100,8 +108,20 @@
 - Das Café am Rande der Welt Eine Erzählung über den Sinn des Lebens
 - Das gewicht der Worte
 - Bündnis der Herzen
+- Ulysses 尤利西斯
+- Bonjour Tristesse 日安忧郁 
+- Der große Meaulnes 美丽的约定
+- Der Name der Rose
+- Der Schaum der Tage《岁月的泡沫》
+- Reise ans Ende der Nacht
 - Der große Gatsby (Neu übersetzt)
-- Die unerträgliche Leichtigkeit des Seins
+- [Milan Kundera](https://de.wikipedia.org/wiki/Milan_Kundera)
+  - Die unerträgliche Leichtigkeit des Seins
+  - Der Scherz
+- Der Zauberberg 魔山
+- Die Schöne des Herrn
+- Die Tatarenwüste 鞑靼人沙漠
+- Früchte des Zorns 愤怒的葡萄
 - Kon- Tiki. Ein Floß treibt über den Pazifik
 - Libellenschwestern
 - Meister und Margarita

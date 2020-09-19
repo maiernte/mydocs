@@ -60,9 +60,7 @@ const PDF_MARGIN_BOTTOM = '5rem';
 		/* SECTION START: Put other custom code rendering functions here
 			i.e. If the language of the code block is LaTex, 
 			put the code below to replace original code block with the text: 
-			'Using LaTex is much better than handwriting!' inside a div container.
-
-			if (lang == "latex") {
+			'Using LaTex is much better than handwriting!' inside a div container.	if (lang == "latex") {
 				return ('<div class="container">Using LaTex is much better than handwriting!</div>');
 			}
 			
