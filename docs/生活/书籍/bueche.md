@@ -94,12 +94,13 @@
   - Die geheimnisvolle Insel
   - Zwanzigtausend Meilen unter dem Meer
 - [Agatha Christie](https://de.wikipedia.org/wiki/Agatha_Christie) 阿加莎 克里斯蒂 作品集
-  - And Then There None
-  - Curtain
-  - Death on the Nile
-  - Five Little Pigs / Murder in Retrospect
-  - Murder on the orient Express
+  - And Then There None (DE/EN)
+  - Curtain (DE/EN)
+  - Death on the Nile (DE/EN)
+  - Five Little Pigs / Murder in Retrospect (*Das unvollendete Bildnis*) (DE/EN)
+  - Murder on the orient Express (DE/EN)
   - The Murder of Roger Ackroyd ( *Alibi* ) (DE/EN)
+  - [andere Büche auf Deutsch](生活/书籍/Christie_Agatha.md)
   
 
 ###### Roman
@@ -173,6 +174,7 @@
 - Wirkungsorientiertes Investieren in Deutschland
 - Intelligent Investieren (Der Bestseller über die richtige Anlagestrategie)
 - Investieren statt sparen
+- Der Untergang eines Imperiums
 
 
 
