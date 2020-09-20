@@ -1,11 +1,17 @@
 [zurück](生活/书籍/bueche)
 
+
+
+- 16 Uhr 50 ab Paddington
+- Alter schutzt vor Scharfsinn
 - Auch Pünktlichkeit kann töten
+- Auf doppelter Spur
 - Bertrams hotel
 - Black Coffee
 - Blausaure
 - Das Böse unter der Sonne
 - Das Eulenhaus
+- Das fahle Pferd
 - Das fehlende Glied in der Kette
 - Das Geheimnis der Goldmine
 - Das Geheimnis der Schnallenschuhe
@@ -13,30 +19,50 @@
 - Das Haus an der Düne
 - Das krumme Haus
 - Das Schicksal in Person 
+- Das Sterben in Wychwood
 - Das unvollendete Bildnis
+- Der Ball Spielende Hund
+- Der blaue Express
+- Der Dienstagabend-Club
+- Der Hund des Todes
 - Der letzte Joker
 - Der Mann im braunen Anzug
+- Der seltsame Mr Quin
 - Der Tod auf dem Nil
+- Der Tod Warte
 - Der Todeswirbel
 - Der Unfall und andere Fälle
-- Der Untergang eines Imperiums.pdf
 - Der Wachsblumenstrauß
+- Die Buchse der Pandora
 - Die ersten und die letzten Arbeiten des Herkules
 - Die großen Vier
 - Die Katze im Taubenschlag
 - Die Kleptomanin
+- Die letzten Arbeiten des Herkules
 - Die Mausefalle und andere Fallen
+- Die Mausefalle
 - Die Memoiren des Grafen
 - Die Morde des Herrn ABC
 - Die Mörderische Teerunde
+- Die Schattenhand
 - Die Tote in der Bibliothek
 - Die vergessliche Mörderin
 - Dreizehn bei Tisch
+- Ein diplomatischer Zwischenfall
 - Ein gefährlicher Gegner
+- Ein Schritt ins Leere
 - Elefanten vergessen nicht
+- Etwas ist faul
+- Fata Morgana
 - Hercule Poirot schlaft nie
 - Hercule Poirots Weihnachten
+- Karibische Affaire
+- Karibische Affare
+- Kurz vor Mitternacht
+- Lauter reizende alte Damen Roman
+- Meine gute alte Zeit 03
 - Miss Marples letzte Falle
+- Miss Marples letzte Fälle
 - Mit offenen Karten
 - Mord auf dem Golfplatz
 - Mord im Orientexpress
@@ -47,11 +73,18 @@
 - Morphium
 - Nikotin
 - Parker Pyne ermittelt
+- Passagier nach Frankfurt
 - Poirot rechnet ab
+- Poirots erste Fälle
+- Rachende Geister
+- Rotkappchen und der bose Wolf
+- Rotkäppchen und der böse Wolf
 - Ruhe unsanft
 - Schneewittchen-Party
 - Sie kamen nach Bagdad
+- Solange es hell ist
 - Tod in den Wolken
+- Todlicher Irrtum
 - Und dann gabs keines Mehr
 - Vier Frauen und ein Mord
 - Vorhang

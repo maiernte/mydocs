@@ -26,6 +26,7 @@
 - Wuthering Heights / *Sturmhöhe*  (DE/EN)
 - Alice’s Adventures in Wonderland Decoded
 - The Essential Writtings of [Jane Austen](https://de.wikipedia.org/wiki/Jane_Austen) 奥斯丁全集 (EN)
+- Die Werke von Charles Dickens
 - Complete Works of William Shakespeare (DE/EN)
 - [Lew Nikolajewitsch Tolstoi](https://de.wikipedia.org/wiki/Lew_Nikolajewitsch_Tolstoi)
   - Krieg und Frieden
