@@ -2,6 +2,7 @@
 
 - Der Glöckner von Notre Dame
 - Der Graf von Monte Christo
+- Madame Bovary
 - [Ernest Hemingway](https://de.wikipedia.org/wiki/Ernest_Hemingway)
   - Der alte mann und das Meer (DE/EN)
   - Wem die Stunde schlägt 丧钟为谁而鸣
@@ -14,6 +15,7 @@
 - Die Liebe in den Zeiten der Cholera
 - Don Quijote von der Mancha (*keine neue Übersetzung *)
 - Rot und Schwarz 
+- Die Kameliendame
 - Lady Chatterleys Lover (DE/EN)
 - Stolz und Vorurteil (DE/EN)
 - Von Winde Verweht
