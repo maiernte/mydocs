@@ -20,6 +20,7 @@
 - Die Schöne des Herrn
 - Die Tatarenwüste 鞑靼人沙漠
 - Früchte des Zorns 愤怒的葡萄
+- Die Seelen im Feuer
 - Kon- Tiki. Ein Floß treibt über den Pazifik
 - Libellenschwestern
 - Meister und Margarita
