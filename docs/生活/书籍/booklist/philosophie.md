@@ -12,3 +12,5 @@
   - The Courage to be Disliked
   - The Courage to be Happy: True Contentment Is In Your Power
 - Ego is the Enemy （《绝对自控》）
+- Mindset: The New Psychology of Success
+- Mindset: Updated Edition Changing The Way You think To Fulfil Your Potential

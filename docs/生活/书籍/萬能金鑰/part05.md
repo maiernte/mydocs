@@ -1,4 +1,4 @@
-##### INTRODUCTION 
+###### INTRODUCTION 
 
 Enclosed herewith you will find Part Five. After studying this part carefully, you will see that every conceivable force or object or fact is the result of mind in action. “隨函附上第五週的課程。仔細研讀完這一部分後你將會發現：所有力量、物體或事件都是心智活動產生的結果。”
 
@@ -10,7 +10,7 @@ But thought works no magic transformations; it obeys natural laws; it sets in mo
 
 You can originate thought, and, since thoughts are creative, you can create for yourself the things you desire. 你有能耐創造思想，而且因為你的想法具有創造性，你還可以為自己創造夢寐以求的一切事物。
 
-##### PART FIVE
+###### PART FIVE
 
 1. At least ninety per cent of our mental life is subconscious, so that those who fail to make use of this mental power live within very narrow limits. 我們的心智活動中，至少九○％屬於潛意識範疇，因此，一個人若無法善用精神能量，他的生活將處處受限。
 2. The subconscious can and will solve any problem for us if we know how to direct it. The subconscious processes are always at work; the only question is, are we to be simply passive recipients of this activity, or are we to consciously direct the work? Shall we have a vision of the destination to be reached, the dangers to be avoided, or shall we simply drift? 倘若我們知道如何引導潛意識，它就能為我們解決任何問題。潛意識的運作永不停歇，唯一的問題是，我們該被動接受這種單向活動就好，還是應該自發自覺地引導它呢？我們應該要能夠預見未來命運、趨吉避凶，還是隨波逐流就好？
@@ -44,11 +44,12 @@ and we can repress and refuse to allow the undesirable ones to manifest. 我們�
 28. All possession is the result of the accumulative attitude of mind, or the money consciousness; this is the magic wand which will enable you to receive the idea, and it will formulate plans for you to execute, and you will find as much pleasure in the execution as in the satisfaction of attainment and achievement. 所有財富都是心智力量日積月累的結果，或者可以說是金錢意識運作的結果。這就是所謂點石成金的魔法棒，能讓你接收到好點子，也幫你擬定切實可行的計畫，而且還能讓你在執行計畫的過程中，獲得與達成目標時同等程度的幸福與喜悅。想要獲得力量，就要正確地運用我們既有的力量。
 
 > [!note]
+>
 > 29. Now, go to your room, take the same seat, the same position as heretofore, and mentally select a place which has pleasant associations. Make a complete mental picture of it, see the buildings, the grounds, the trees, friends, associations, everything complete. At first, you will find yourself thinking of everything under the sun, except the ideal upon which you desire to concentrate. But do not let that discourage you. Persistence will win, but persistence requires that you practice these exercises every day without fail. 現在，請進入你的小空間，坐在老位子上，保持和之前一樣的姿勢，然後在心中想像一個會讓你感到喜悅的舒適宜人之處。請描繪一幅完美的畫面，在心中清楚地看見那些建築大樓、大地、茂盛樹林、知己好友、親友熟人等。一開始你會發現，自己幾乎什麼雞毛蒜皮的小事都想到了，就是看不到自己真正想要聚精會神看到的場景。但千萬別灰心，只要堅持不懈天天練習，你終將能贏得最後的勝利。
 
 
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 41. What proportion of our mental life is subconscious? At least ninety per cent. Q1：在我們的心智活動中，潛意識範疇的比率有多高？A：至少90％
 42. Is this vast mental storehouse generally utilized? No. Q2：大部分的人都已經懂得善用潛意識這個寶庫了嗎？A：沒有。

@@ -1,4 +1,4 @@
-##### INTRODUCTION 
+###### INTRODUCTION 
 
 You have found that the Individual may act on the Universal, and that the result of this action and interaction is cause and effect. Thought, therefore, is the cause, and the experiences with which you meet in life are the effect. 你已經發現，個人有影響宇宙心智的能力，而這樣的交互作用所產生的結果有一種因果關係。思想就是因，你所遭遇的一切生活經歷就是果。
 
@@ -10,7 +10,7 @@ Persist in this practice until you come to a realization of the fact that there 
 
 Whereas in the beginning of each function of life and each action is the result of conscious thought, the habitual actions become automatic and the thought that controls them passes into the realm of the subconscious; yet it is just as intelligent as before. It is necessary that it become automatic, or subconscious, in order that the self-conscious mind may attend to other things. The new actions will, however, in their turn, be come habitual, then automatic, then subconscious in order that the mind again may be freed from this detail and advanced to still other activities. When you realize this, you will have found a source of power which will enable you to take care of any situation in life which may develop. 雖然生命中的各個功能及行動都始於顯意識；習慣終將成自然，支配行動的思維會漸漸滲入潛意識的領域，但仍一如往常般地充滿智慧。讓思維逐漸自動化──即轉化成潛意識──是必要的，如此一來顯意識就可以轉而專注於處理其他事物。然而，一旦新的行動變成習慣，接著自動化，最後又轉為潛意識，顯意識就可以再度從這種細節中解放，進一步繼續投入其他的行動。當你真正領會這個道理，就能找到力量的泉源，它將助你遊刃有餘地處理生活中的一切狀況。
 
-##### PART THREE
+###### PART THREE
 
 1. The necessary interaction of the conscious and subconscious mind requires a similar interaction between the corresponding systems of nerves. Judge Troward indicates the very beautiful method in which this interaction is effected. He says: "The cerebro-spinal system is the organ of the conscious mind and the sympathetic is the organ of the subconscious. The cerebro- spinal is the channel through which we receive conscious perception from the physical senses and exercise control over the movements of the body. This system of nerves has its centre in the brain." 顯意識和潛意識之間不可或缺的交互作用，需要神經系統促發相對應的反應。影響新思想運動甚深的英籍法官湯瑪士．綽華德（Thomas Troward）指出了讓這互動得以完成的美妙方式。他說：「**腦脊髓神經系統是顯意識的器官，交感神經系統則是潛意識發生的器官。**前者是我們透過感覺器官接收意識傳輸的管道，並有效掌控我們全身上下的所有動作，這套系統的中樞在大腦。」
 2. The Sympathetic System has its centre in a ganglionic mass at the back of the stomach known as the Solar Plexus, and is the channel of that mental action which unconsciously supports the vital functions of the body. 交感神經系統自有一套位於神經節叢的中樞，確切的位置是在胃部後方，名為「**太陽神經叢**」，心智活動能在人無意識下維持身體的重要機能，就是透過太陽神經叢的運作。
@@ -44,6 +44,7 @@ Whereas in the beginning of each function of life and each action is the result 
 28. You are the channel by which the undifferentiated is being differentiated, and this differentiation is being accomplished by appropriation. It only requires recognition to set causes in motion which will bring about results in accordance with your desire, and this is accomplished because the Universal can act only through the individual, and the individual can act only through the Universal; they are one. 你是讓無差異化得以產生的管道，這種差異化是透過個體的召喚而得以實現。你只需要為想達到的成果設定相應的起因，就能根據自己的渴望產出相符合的成果。這份成果得以產生，是因為宇宙只能夠透過個人產生作用；反之，個人也只能借力宇宙實現。兩者原本就是一體。
 
 > [!note]
+>
 > 29. For your exercise this week, I will ask you to go one step further. I want you to not only be perfectly still, and inhibit all thought as far as possible, but relax, let go, let the muscles take their normal condition; this will remove all pressure from the nerves, and eliminate that tension which so frequently produces physical exhaustion. 在本週的練習中，我會要求你更進一步，希望你不要只是讓身體靜止不動，盡全力阻隔所有的思緒，同要請你放鬆、完全放下，讓肌肉回到正常的狀態。這麼做可以除去神經系統的壓力，消弭那些導致肉體疲勞的緊張狀態。
 
 30. Physical relaxation is a voluntary exercise of the will and the exercise will be found to be of great value, as it enables the blood to circulate freely to and from the brain and body. 身體放鬆是意志的練習，這種練習對你大有裨益，因為它能讓血液在大腦和身體間暢行無阻。
@@ -54,7 +55,7 @@ Whereas in the beginning of each function of life and each action is the result 
 
 
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 21. What system of nerves is the organ of the Conscious Mind? *The Cerebro-spinal.* Q1：顯意識的器官是哪一個神經系統？A：腦脊髓神經系統。
 22. What system of nerves is the organ of the subconscious mind? *The sympathetic.* Q2：潛意識的器官是哪一個神經系統？A：交感神經系統。

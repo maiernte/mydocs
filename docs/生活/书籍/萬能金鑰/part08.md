@@ -1,4 +1,4 @@
-INTRODUCTION - PART EIGHT
+###### INTRODUCTION
 
 In this Part you will find that you may freely choose what you think but the result of your thought is governed by an immutable law! Is not this a wonderful thought? Is it not wonderful to know that our lives are not subject to caprice or variability of any kind? That they are governed by law. This stability is our opportunity, because by complying with the law we can secure the desired effect with invariable precision. It is the Law which makes the Universe one grand paean of Harmony. If it were not for law, the Universe would be a Chaos instead of a Cosmos. 本週你會學到，雖然你可以自由選擇思考的方向，但你的思想會造成何種結果，永遠由一條鐵錚錚的定律來決定！這不是一件光想就覺得很神奇的事嗎？知道自己的生活並非受制於任何一種反覆無常、善變不定的無常，難道不是件很美好的事嗎？我們的生活依循定律而行，定律的穩定性就是我們的機會，因為我們只要依循定律行事，就可以準確地獲得渴望的成果。正因為宇宙依循著定律運行，才能讓宇宙如同一首和諧圓融的盛大讚歌。正因為宇宙依循著定律運行，才能讓宇宙如同一首和諧圓融的盛大讚歌。若不是因為它，宇宙將就是一片混沌亂象，而不是井然有序的體系。
 
@@ -13,7 +13,7 @@ Here we have two grand men, each intent upon achieving the same ideal, but one m
 
 It is evident therefore that we are to hate nothing, not even the "bad," because hatred is destructive, and we shall soon find that by entertaining destructive thought we are sowing the "wind" and in turn shall reap the "whirlwind." 因此，我們顯然不應該厭惡萬事萬物，甚至是「惡性」本身，因為厭惡深具破壞性，而且我們很快就會發現，抱持具有破壞性的想法就像是播下「風」的種籽，最終我們將收穫「風暴來襲」。
 
-PART EIGHT
+###### PART EIGHT
 
 1. Thought contains a vital principle, because it is the creative principle of the Universe and by its nature will combine with other similar thoughts. 思想涵蓋一個至關重要的原則，因為它是宇宙的創造性原則，就本質來說，將會與其他性質相近的思想互相結合。
 2. As the one purpose of life is growth, all principles underlying existence must contribute to give it effect. Thought, therefore, takes form and the law of growth eventually brings it into manifestation. 正如生命的目標之一就是「成長」，所有存在的基本原則都必須為此出一分力。因此，思想得以成形，並透過成長法則彰顯它的存在。
@@ -71,7 +71,8 @@ PART EIGHT
 
 *—— From the Sanskrit.*
 			
-Study Questions with Answers
+
+###### Study Questions with Answers
 
 71. What is the imagination? A form of constructive thought. The light by which we penetrate new worlds of thought and experience. The mighty instrument by which every inventor or discoverer opened the way from precedent to experience. Q1：何謂「想像力」？A：一種具有建設性型態的思想。想像力就像是一道光，讓我們可以看見一個全新的思維與經歷的世界。所有發明家或探險家都藉由想像力開啟一條從「前例」通往「經驗」的道路。
 72. What is the result of imagination? The cultivation of the imagination leads to the development of the ideal out of which your future will emerge. Q2：培養想像力會產生什麼結果？A：培養想像力有助發掘你的人生理想，使你的未來朝此方向發展。

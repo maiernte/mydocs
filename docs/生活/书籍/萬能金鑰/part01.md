@@ -1,4 +1,4 @@
-##### INTRODUCTION 
+###### INTRODUCTION 
 
 It is my privilege to enclose herewith Part One of The Master Key System. Would you bring into your life more power, get the power consciousness, more health, get the health consciousness, more happiness, get the happiness consciousness. Live the spirit of these things until they become yours by right. It will then become impossible to keep them from you. The things of the world are fluid to a power within man by which he rules them. 在下有幸得以隨函附上《萬能金鑰》的第一週課程。你想要為自己的人生增添更多力量嗎？請建立權力意識；想更健康？請建立健康意識；想更幸福？請建立幸福意識。請領悟這些事情的精髓，直到它們終有一天成為你不可分割的一部分，如此一來，它們就再也不可能從你手中被奪走。在這個世界上，萬事萬物都會流向能夠掌控它們的人手上。
 
@@ -10,7 +10,7 @@ It is evident that it requires understanding to work with material of this descr
 
 And, now, Part One.... 現在，就讓我們進入第一週的課程。
 
-#####  PART ONE
+######  PART ONE
 
 1. That much gathers more is true on every plane of existence and that loss leads to greater loss is equally true. 「富者恆富」、「貧者恆貧」的道理一直存在於現實生活中的各個層面。
 2. Mind is creative, and conditions, environment and all experiences in life are the result of our habitual or predominant mental attitude. 心智具有創造性。外在客觀條件、周遭環境與一切人生經歷，都是心態日積月累的結果。
@@ -62,7 +62,7 @@ And, now, Part One.... 現在，就讓我們進入第一週的課程。
 
 45. Many will find this extremely difficult; others will conquer with ease, but it is absolutely essential to secure complete control of the body before you are ready to progress. Next week you will receive instructions for the next step; in the meantime you must have mastered this one. 許多人會覺得這個過程簡直難如登天，也有人覺得易如反掌，你得先完全掌控自己的身體，才能準備好向前進步，這一點至關重要。下星期你將會收到邁向下一步的指導方針，在這段等待時間，你必須做到熟練以上的練習。
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 1. What is the world without in its relation to the world within? *The world without is a reflection of the world within.* Q1：外在世界與內心世界之間的關係為何？A：外在世界是內在世界的反射。
 2. Upon what does all possession depend? *All possession is based on consciousness.* Q2：「擁有」的先決條件是什麼？A：一切的所有權都立足於認知到「那個東西存在」的基礎上。

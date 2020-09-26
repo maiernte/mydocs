@@ -1,4 +1,4 @@
-##### INTRODUCTION 
+###### INTRODUCTION 
 
 Through all the ages man has believed in an invisible power, through which and by which all things have been created and are continually being re-created. 幾百年來，人們相信冥冥中存在一股看不見的力量，萬物都是由此孕育而生，因此這個世界才能生生不息、周而復始。
 
@@ -11,7 +11,7 @@ The personal is conscious because it is a personal entity. The impersonal, being
 You will therefore see that it is your privilege to depend upon the human will with all its limitations and misconceptions, or you may utilize the potentialities of Infinity by making use of the subconscious mind. Here, then, is the scientific explanation of the wonderful power which has been put within your control, if you but understand, appreciate and recognize it. 因此，你會發現，你可以繼續倚賴處處受限、謬誤連連的人類意志，也可以發揮潛意識心智的力量，開發無限潛能。接下來的課程就是要套用科學思維詳盡闡述這股神奇的力量。其實只要你有心理解、欣賞並認同，它就盡在你的掌握中。
 One method of consciously utilizing this omnipotent power is outlined in Part Seven. 本週將為你說明如何自發自覺地善用這股無所不能的力量。
 
-##### PART SEVEN
+###### PART SEVEN
 
 1. Visualization is the process of making mental images, and the image is the mold or model which will serve as a pattern from which your future will emerge. 「視覺化想像」（Visualization）是打造意象的過程，你所描繪的精神圖像就是一套模具或模型，你未來的人生將依此為範本而形塑。
 2. Make the pattern clear and make it beautiful; do not be afraid; make it grand; remember that no limitation can be placed upon you by any one but yourself; you are not limited as to cost or material; draw on the Infinite for your supply, construct it in your imagination; it will have to be there before it will ever appear anywhere else. **你要保持心中的精神圖像細緻而美好，切勿害怕退縮。請描繪出一幅宏偉壯觀的景象；請謹記，除了你自己，沒有人可以限制羈絆你。**你無須受限於金錢或素材，你能從無限力量中汲取所需能量，任憑想像力帶你建構出人生的樣本；它必須先在想像世界裡落地生根，才可能在別的地方付諸實現。
@@ -47,7 +47,7 @@ One method of consciously utilizing this omnipotent power is outlined in Part Se
 >
 > 31. For your exercise this week, visualize your friend, see him exactly as you last saw him, see the room, the furniture, recall the conversation, now see his face, see it distinctly, now talk to him about some subject of mutual interest; see his expression change, watch him smile. Can you do this? All right, you can; then arouse his interest, tell him a story of adventure, see his eyes light up with the spirit of fun or excitement. Can you do all of this? If so, your imagination is good, you are making excellent progress. 這一週你的功課就是在腦中視覺化一位朋友。清楚地看到上一次你與他碰面的狀況──不僅是他的模樣，也要看到房間、家具，還要能想起你們雙方的對話。現在請正視他的臉，仔細清楚地觀察，然後挑一個雙方有共同興趣的話題展開交談，看看他的臉部表情如何變化，觀察他展顏微笑。你做得到嗎？很好，你做得到。現在你開始設法激發他的興趣，告訴他一則冒險故事，看著他的雙眼閃閃發亮，閃爍著興奮開心的光芒。你也能做得到這一點嗎？要是可以的話，那就代表你的想像力非常豐富，你正取得驚人進展。
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 61. What is visualization? The process of making mental pictures. Q1：何謂「視覺化想像」？A：在心中描繪精神圖像的過程。
 62. What is the result of this method of thought? By holding the image or picture in mind, we can gradually but surely bring the thing nearer to us. We can be what we will to be. Q2：這種思考方法的結果為何？A：我們在心中打造圖像或影像，讓它在心中牢牢地落地生根，就能一步接一步地更向目標靠近，成為「自己夢寐以求想成為的那個人」。

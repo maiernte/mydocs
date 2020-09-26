@@ -1,4 +1,4 @@
-##### INTRODUCTION 
+###### INTRODUCTION 
 
 Our difficulties are largely due to confused ideas and ignorance of our true interests. The great task is to discover the laws of nature to which we are to adjust ourselves. Clear thinking and moral insight are, therefore, of incalculable value. All processes, even those of thought, rest on solid foundations. 我們遭遇的困難多半源自想法紊亂、參不透自己真正的興趣何在。當務之急便是找出自然法則，好讓我們可以據此自我調整。清晰的思維及深入的洞察力具有無可估算的價值。包括思維在內的所有進程，全都立足在堅實基礎之上。
 
@@ -10,7 +10,7 @@ The ability to receive and manifest this power depends upon the ability to recog
 
 Part two explains the method by which this is accomplished. 本週將為你闡釋一整套完善的做法。
 
-##### PART TWO
+###### PART TWO
 
 1. The operations of the mind are produced by two parallel modes of activity, the one conscious, and the other subconscious. Professor Davidson says: "He who thinks to illuminate the whole range of mental action by the light of his own consciousness is not unlike the one who should go about to illuminate the universe with a rushlight." 心智運作源於兩大平行的行為模式：顯意識和潛意識。加州大學柏克萊分校（University of California, Berkeley）哲學系教授唐納．戴維森（Donald Davidson）曾說：「想要透過自身的顯意識詮釋所有精神行動的人，就跟點燃一根蠟燭就想照亮全宇宙的人一樣。」
 2. The subconscious' logical processes are carried on with a certainty and regularity which would be impossible if there existed the possibility of error. Our mind is so designed that it prepares for us the most important foundations of cognition, whilst we have not the slightest apprehension of the modus operandi. 潛意識的邏輯運作方式有其準確性與規則性，絕不可能有任何差錯。我們的心智堪稱精心設計的成果，早已為我們準備好最重要的認知基礎，但我們對它的運作模式卻毫無所悉。
@@ -42,6 +42,7 @@ Part two explains the method by which this is accomplished. 本週將為你闡�
 28. But we shall find that there is a vast difference between simply thinking, and directing our thought consciously, systematically and constructively; when we do this we place our mind in harmony with the Universal Mind, we come in tune with the Infinite, we set in operation the mightiest force in existence, the creative power of the Universal Mind. This, as everything else, is governed by natural law, and this law is the "Law of attraction," which is that Mind is creative, and will automatically correlate with its object and bring it into manifestation. 但是，我們也發現，簡單地「想」和「有意識、系統化並正面積極地引導思維」兩者截然不同。當我們做到後者，便是將個人心智與宇宙心智協調一致、便是與無限同調、便是得以運用最強大的現有力量，即宇宙心智的創造力。和其他事物一樣，它也受到自然法則掌控，亦即「吸引力法則」，意指：心靈具有創造的能力，會自動地與目標連結，並引領它成真。
 
 > [!note]
+>
 > 29. Last week I gave you an exercise for the purpose of securing control of the physical body; if you have accomplished this you are ready to advance. This time you will begin to control your thought. Always take the same room, the same chair, and the same position, if possible. In some cases it is not convenient to take the same room, in this case simply make the best use of such conditions as may be available. Now be perfectly still as before, but inhibit all thought; this will give you control over all thoughts of care, worry and fear, and will enable you to entertain only the kind of thoughts you desire. Continue this exercise until you gain complete mastery. 上星期我們進行了掌控身體的練習，假若你已經可以自如地掌控身體，就可以邁入下一個階段。這一回你要開始掌控自己的思想。可能的話，請務必在同一個空間練習，最好是同一張椅子、同一個位置。若有時實在無法選擇同一個空間，那就視情況而定，善用既有的條件即可。現在，請像前一次那樣進入完美的靜止狀態，務必清空所有思緒，這樣才有助你控制並排除一切擔憂、恐懼和焦慮的念頭，還能讓你懷抱那些自己真正渴望的想法。請持續練習，直到完全精熟掌握技巧為止。
 
 
@@ -52,7 +53,7 @@ Part two explains the method by which this is accomplished. 本週將為你闡�
 
 > 「在無法觸及的思維層面，因果法則都絕對且必然發生，如同在可見的物質世界一樣。心靈是個偉大的裁縫，無論在編織內心還是外部環境的華衣。」—— 詹姆士•艾伦
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 11. What are the two modes of mental activity? *Conscious and subconscious.* Q1：精神活動的兩大模式為何？A：顯意識與潛意識。
 12. Upon what do ease and perfection depend? *Ease and perfection depend entirely upon the degree in which we cease to depend upon the conscious mind.* Q2：輕鬆和完美取決於何事？A：輕鬆和完美完全取決於我們不再倚賴顯意識。

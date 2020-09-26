@@ -1,4 +1,4 @@
-##### INTRODUCTION
+###### INTRODUCTION
 
 It is my privilege to enclose Part Six. This part will give you an excellent understanding of the most wonderful piece of mechanism which has ever been created. A mechanism whereby you may create for yourself Health, Strength, Success, Prosperity or any other condition which you desire. Necessities are demands, and demands create action, and actions bring about results. The process of evolution is constantly building our tomorrows out of our todays. Individual development, like Universal development, must be gradual with an ever increasing capacity and volume. 在下有幸得以隨函附上第六週的課程。本堂課會帶你充分理解，我們出生以來最奇妙的運作機制。它是一套能讓你為自己創造健康、勇氣、成功、財富及一切渴望境界的機制。有需求就會有要求，要求會創造行動，行動會產生結果。進化的過程就是以今天為基礎不斷地打造明天。個人的發展正如宇宙進化一般，伴隨著日新月異的質量與能力的發展。
 
@@ -9,7 +9,7 @@ To be in tune with eternal truth we must possess poise and harmony within. In or
 
 Thought is a product of Mind and Mind is creative, but this does not mean that the Universal will change its modus operandi to suit us or our ideas, but it does mean that we can come into harmonious relationship with the Universal, and when we have accomplished this we may ask anything to which we are entitled, and the way will be made plain. 思想是心智的產物，心智深具創造力，雖然宇宙不會為了與我們或我們的思想同步而改變它的運作模式；不過它確實意味著我們可以和宇宙保持和諧良好的關係，一旦我們能做到這一點，便可大方索求自己值得擁有的一切事物，人生之路也會變成一片坦途。
 
-##### PART SIX
+###### PART SIX
 
 1. The Universal Mind is so wonderful that it is difficult to understand its utilitarian powers and possibilities and its unlimited producing effects. 宇宙心智如此妙不可言、深不可測，所以使人難以窺見它實際的力量、可能性以及成效。
 
@@ -92,7 +92,7 @@ Thought is a product of Mind and Mind is creative, but this does not mean that t
 
 
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 51. What are some of the effects which can be produced by electricity? Heat, light, power, music.  Q1：電可以產生哪些作用？A：熱、光、力、音樂。
 52. Upon what do these various effects depend? Upon the mechanism to which electricity is attached. Q2：這些不同的作用取決於何物？A：取決於電力所連接的裝置為何。

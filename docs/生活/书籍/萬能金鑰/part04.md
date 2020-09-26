@@ -1,4 +1,4 @@
-##### INTRODUCTION
+###### INTRODUCTION
 
 Enclosed herewith I hand you Part Four. This part will show you why what you think, or do, or feel, is an indication of what you are. 隨函附上第四週的課程，本週課程會揭露，為什麼你的想法、做法或感受會充分代表你是一個什麼樣的人。
 
@@ -12,7 +12,7 @@ Life is expressive and it is our business to express ourselves harmoniously and 
 
 But this process of eliminating consists in rising above and beyond limitation of any kind. He who has strengthened and purified his thought need not concern himself about microbes, and he who has come into an understanding of the law of abundance will go at once to the source of supply. It is thus that fate, fortune, and destiny will be controlled as readily as a captain controls his ship, or an engineer, his train. 消除這些不幸因素的過程在於提升自我並超越種種障礙限制。已經強化並淨化思想的個人無須擔心細菌的侵擾，而深諳富足法則的個人則會立即起身奔向供給的來源。所以，命運、好運與劫數都將盡在你的掌握中，正如船長指揮船艦，或是火車工程師駕駛火車一般。
 
-##### PART FOUR
+###### PART FOUR
 
 1. The "I" of you is not the physical body; that is simply an instrument which the "I" uses to carry out its purposes; the "I" cannot be the Mind, for the mind is simply another instrument which the "I" uses with which to think, reason, and plan. 你口中的「我」並非指生理的我，這具肉身只是「我」用以實現目標的工具；「我」也不可能意指心智，因為心智就只是「我」用以思考、推論並計劃的另一項工具。
 2. The "I" must be something which controls and directs both the body and the mind; something which determines what they shall do and how they shall act. When you come into a realization of the true nature of this "I", you will enjoy a sense of power which you have never before known. 「我」指的是掌控、導引身、心、靈的東西；它決定身、心、靈應該做些什麼、又該如何做。當你領悟這個「我」的真實本質，就能享受前所未有的渾身充滿力量的感覺。
@@ -45,6 +45,7 @@ But this process of eliminating consists in rising above and beyond limitation o
 29. Last week I asked you to relax, to let go physically. This week, I am going to ask you to let go mentally. If you practiced the exercise given you last week fifteen or twenty minutes a day in accordance with the instructions, you can no doubt relax physically; and anyone who cannot consciously do this quickly and completely is not a master of himself. He has not obtained freedom; he is still a slave to conditions. But I shall assume that you have mastered the exercise and are ready to take the next step, which is mental freedom. 上星期我要求你讓身體自然放鬆，這星期則要求你學著放鬆心理。如果上星期你每天都依循指示練習我交辦的課程15～20分鐘，那你勢必掌握了放鬆之道。任何人若無法有意識迅速、完全地放鬆，表示他還無法為自己做主，因此也就得不到自由，仍舊是外在環境的奴僕。但我現在假定你已經十分熟悉這套練習，也已經準備好要邁入下一個階段，也就是前述的心靈自由。
 
 > [!note]
+>
 > 30. This week, after taking your usual position, remove all tension by completely relaxing, then mentally let go of all adverse conditions, such as hatred, anger, worry, jealousy, envy, sorrow, trouble or disappointment of any kind. 本週，請維持你過去的姿勢，徹底地放鬆自己，卸下所有緊張，釋出心裡所有負面情緒，好比憎恨、憤怒、焦慮、嫉妒、羨慕、悲傷、煩惱、失望等。
 
 31. You may say that you cannot "let go" of these things, but you can; you can do so by mentally determining to do so, by voluntary intention and persistence. 你可能會感覺自己似乎做不到徹底「放下」這一切，但只要你有決心、堅持不懈，就一定能夠做到。
@@ -54,7 +55,7 @@ But this process of eliminating consists in rising above and beyond limitation o
 
 
 
-##### Study Questions with Answers
+###### Study Questions with Answers
 
 31. What is thought? *Thought is spiritual energy.* Q1：何謂思想？A：思想即精神能量。
 32. How is it carried? *By the law of vibration.* Q2：思想的運行原理為何？A：共振法則。
