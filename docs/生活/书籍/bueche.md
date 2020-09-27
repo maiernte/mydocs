@@ -16,9 +16,9 @@
 
 [Lustige 趣味/未分类](生活/书籍/booklist/lustige.md)
 
-[Philosophie 哲学类](生活/书籍/booklist/philosophie.md)
+[Philosophie & Psychologie 哲学&心理学](生活/书籍/booklist/philosophie.md)
 
-[Esoterik 超经验](生活/书籍/booklist/esoterik.md)
+[Esoterik 超经验主义](生活/书籍/booklist/esoterik.md)
 
 
 
