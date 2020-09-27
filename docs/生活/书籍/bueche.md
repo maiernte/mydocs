@@ -4,38 +4,22 @@
 
 
 
-[geschichte](./booklist/geschichte.md ':include')
+[Geschichte 历史类](生活/书籍/booklist/geschichte.md)
 
-[klassik](./booklist/klassik.md ':include')
+[Klassike 古典文学](生活/书籍/booklist/klassik.md)
 
-[krimi](./booklist/krimi.md ':include')
+[Krimi & Fiktion 悬疑&虚幻](生活/书籍/booklist/krimi.md)
 
-[roman](./booklist/roman.md ':include')
+[Roman 长篇小说](生活/书籍/booklist/roman.md)
 
-[ökonomik](./booklist/ökonomik.md ':include')
+[Ökonomik 经济类](生活/书籍/booklist/ökonomik.md)
 
-[lustige](./booklist/lustige.md ':include')
+[Lustige 趣味/未分类](生活/书籍/booklist/lustige.md)
 
-[philosophie](./booklist/philosophie.md ':include')
+[Philosophie 哲学类](生活/书籍/booklist/philosophie.md)
+
+[Esoterik 超经验](生活/书籍/booklist/esoterik.md)
 
 
-
-
-###### Esoterik
-
-- Vertraue dir selbst! (*by Ralph Waldo Emerson*)
-- The Masters of Limitation An ETs Observations on Earth
-- Seth Books (*by Seth, Jane and Robert*)
-  - Seth Speaks - The eternal validity of  the Soul (DE/EN/CN)
-  - The Nature of Personality (DE/EN/CN)
-  - The Individual and the Nature of Mass Events (DE/EN/CN)
-  - Dreams Evolution and Fulfillment (DE/EN/CN)
-  - The Nature of Psyche (DE/EN/CN)
-  - The Unknown Reality (EN/CN)
-  - The Magical Approach (EN/CN)
-  - The Way toward Health (EN/CN)
-  - The Early Sessions Book 1/2/3/5/6  (缺 4/7/8/9) (EN/CN)
-
-  
 
 

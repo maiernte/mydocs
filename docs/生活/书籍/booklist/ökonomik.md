@@ -1,3 +1,5 @@
+[zurück](生活/书籍/bueche)
+
 ###### Ökonomik 经济类
 
 - Genial einfach entscheiden Besser denken, handeln und investieren im täglichen Entscheidungsdschungel
@@ -7,3 +9,7 @@
 - Intelligent Investieren (Der Bestseller über die richtige Anlagestrategie)
 - Investieren statt sparen
 - Der Untergang eines Imperiums
+
+
+
+[zurück](生活/书籍/bueche)

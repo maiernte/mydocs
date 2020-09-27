@@ -1,3 +1,5 @@
+[zurück](生活/书籍/bueche)
+
 ###### Theorie & Skills
 
 - Lernen zu lernen Lernstrategien wirkungsvoll einsetzen by Werner Metzig
@@ -14,3 +16,7 @@
 - Ego is the Enemy （《绝对自控》）
 - Mindset: The New Psychology of Success
 - Mindset: Updated Edition Changing The Way You think To Fulfil Your Potential
+
+
+
+[zurück](生活/书籍/bueche)
