@@ -1,6 +1,6 @@
 [zurück](生活/书籍/bueche)
 
-###### Geschichte 历史类
+###### Deutsch
 
 - Arm und Reich (DE/EN) 枪炮、病菌与钢铁
 - Die Bibel nach Martin Luther 圣经
@@ -22,14 +22,19 @@
 - 1815 Napoleons Sturz und der Wiener Kongress
 - 1866 Bismarcks Krieg gegen die Habsburger
 - Napoleon Die hundert Tage
-- Waterloo: The Battle for Modern Europe
-- Waterloo: The History of Four Days, Three Armies
 - 1815 Der Wiener Kongress und die Neugründung Europ
 - Der Wiener  Kongress: Das große Fest und die Neuordnung Europas
+
+  
+
+###### Englisch
+
 - The Gift of Anger (关于祖父甘地的回忆录)
 - The Plantagenets 金雀花王朝
 - Ten Caesars Roman Emperors from Augustus to Constantine
 - The Landscape of History How Historians Map the Past
+- Waterloo: The Battle for Modern Europe
+- Waterloo: The History of Four Days, Three Armies
 
 
 
