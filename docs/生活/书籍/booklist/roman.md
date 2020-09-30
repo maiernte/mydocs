@@ -36,7 +36,7 @@
 - Sturz der Titanen / Winter der Welt / Kinder der Freiheit 巨人陨落三部曲 
 - [Albert Camus](https://de.wikipedia.org/wiki/Albert_Camus) 加缪作品集
   - Der Fall
-  - der Fremde
+  - Der Fremde
   - Der Mensch in der Revolte
   - Der Mythos des Sisyphos
   - Der glückliche Tod
