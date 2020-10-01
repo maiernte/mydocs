@@ -9,6 +9,10 @@
 - Intelligent Investieren (Der Bestseller über die richtige Anlagestrategie)
 - Investieren statt sparen
 - Der Untergang eines Imperiums
+- [Peter T. Leeson](https://en.wikipedia.org/wiki/Peter_Leeson)
+  - Anarchy Unbound: Why Self-Governance Works Better Than You Think
+  - The Invisible Hook: The Hidden Economics of Pirates
+  - WTF?! An Economic Tour of the Weird
 
 
 
