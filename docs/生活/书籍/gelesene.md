@@ -11,7 +11,8 @@
 ###### Klassik
 
 - [x] 《Stolz und Vorurteil》
-- [ ] 《Der Graf von Monte Christo》
+- [x] 《Der Graf von Monte Christo》( *50% 翻译太旧，以后有新版本再接着读* )
+- [ ] 《Rot und Schwarz》
 
 ###### Zeitgenössisch
 
