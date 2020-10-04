@@ -56,7 +56,7 @@ away every kind of discord, inharmony, doubt or error of any kind, because the "
 > 33\. When you are enabled to make your vision clear and complete you will be enabled to enter into the spirit of a thing; it will become very real to you; you will be learning to concentrate and the process is the same, whether you are concentrating on health, a favorite flower, an ideal, a complicated business proposition or any other problem of life. 一旦你可以讓視界變得清晰明朗，就能深入事物的本質，你所想像的事物將會變得異常真實。你將學會集中心神，無論你是聚焦思考健康、熱愛的花朵、一個理想、一套複雜的商業提案，或是任何其他生活中的問題，這個過程的演進都沒有什麼兩樣。
 
 
-34. Every success has been accomplished by persistent concentration upon the object in view. 當你堅定地專注在目标的畫面中時，成功必然如期而至。
+34. Every success has been accomplished by persistent concentration upon the object in view. 所有的成功，都是通過把意念恆久地集中於看得見的目標而實現的。
 
 ###### Study Questions with Answers
 
