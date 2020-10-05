@@ -48,6 +48,7 @@
 - Season of Storms
 - [Paulo Coelho](https://de.wikipedia.org/wiki/Paulo_Coelho)
   - The Alchemist  (DE/EN) *牧羊人奇幻之旅 / Der Alchimist*
+  - Der Dämon und Fräulein Prym (*Sieben Tage Trilogie 七日三部曲*)
   - Handbuch des Kriegers des Lichts
   - Veronica beschließt zu sterben
 - The Girl on the Train
