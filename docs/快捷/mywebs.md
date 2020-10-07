@@ -28,3 +28,7 @@
 
 [Unsplash.com](https://unsplash.com/)  /  [Pegels.com](https://www.pexels.com/zh-cn/)
 
+###### 软件
+
+[视频编辑软件](https://handbrake.fr/downloads.php)
+
