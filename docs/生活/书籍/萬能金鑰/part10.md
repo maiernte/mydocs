@@ -65,7 +65,7 @@ The ordinary man, who has no definite knowledge of cause and effect, is governed
 
 "When any object or purpose is clearly held in thought, its precipitation, in tangible and visible form, is merely a question of time. The vision always precedes and itself determines the realization.” - Lillian Whiting
 
-「一个事物或者意图如果能很清晰的呈现在思维中，那么它在物质世界变得可触碰、可见，只是个时间问题。想象总是先于并决定其显化。」-  Lillian Whiting
+「一个事物或者意图如果能很清晰的呈现在思维中，那么它在物质世界变得可触碰、可见，只是个时间问题。願景总是先于并决定其显化。」-  Lillian Whiting
 
 
 
@@ -84,5 +84,5 @@ The ordinary man, who has no definite knowledge of cause and effect, is governed
 
 “A vivid thought brings the power to paint it; and in proportion to the depth of its source is the force of its projection.” - Emerson
 
-「生动的思维带有显化自身的能量；越是来自深层源泉，投射的力量就越大。」- 爱默生
+「活躍的思想帶來力量，思想之源有多深，它投射的力量就有多大。」- 爱默生
 
