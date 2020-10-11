@@ -12,6 +12,7 @@
 
 - [x] 《Stolz und Vorurteil》
 - [x] 《Der Graf von Monte Christo》( *50% 翻译太旧，以后有新版本再接着读* )
+- [ ] Der Alchimist
 - [ ] 《Rot und Schwarz》
 
 ###### Zeitgenössisch
