@@ -10,7 +10,7 @@
 
 [华鹤易学在线(国内)](https://maiernte.gitee.io/huahe/)   /  [华鹤易学在线(国外)](https://maiernte.gitee.io/huahe/)   /  [华鹤易学文档电子书](https://maiernte.gitee.io/huahedocument/)
 
-[《增删卜易》电子书](https://maiernte.gitee.io/zengshan/) 
+[《增删卜易》电子书](https://maiernte.gitee.io/zengshan/)  / [Apple Store](https://apps.apple.com/us/app/id1095008017)
 
 ###### 金融类
 
