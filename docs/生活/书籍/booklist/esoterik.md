@@ -4,6 +4,7 @@
 
 - Vertraue dir selbst! (*by Ralph Waldo Emerson*)
 - The Masters of Limitation An ETs Observations on Earth
+- The Diamond Approach
 - Seth Books (*by Seth, Jane and Robert*)
   - Seth Speaks - The eternal validity of  the Soul (DE/EN/CN)
   - The Nature of Personality (DE/EN/CN)
