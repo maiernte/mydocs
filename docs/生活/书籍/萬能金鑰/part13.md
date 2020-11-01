@@ -41,6 +41,18 @@ with the creative power of thought, will no longer consider them unaccountable. 
 
 "Increase in me that wisdom Which discovers my truest interest, Strengthen my resolution To perform that which wisdom dictates." —— Franklin 
 
+「加给我智慧，
+
+让我知道我真正的利益所在，
+
+加给我坚定的意志，
+
+让我能够按智慧的引领行事。」
+
+——富兰克林
+
+
+
 ###### Study Questions with Answers
 
 121. What is the method by which natural philosophers obtain and apply their knowledge? To observe individual facts carefully, patiently, accurately, with all the instruments and resources at their command, before venturing upon a statement of general laws. Q1：自然哲學家獲取、應用知識的方法為何？A：在掌握所有工具和資源的前提下，先仔細、耐心、準確地觀察個別事實，然後才勇於提出普遍法則存在的論述。
