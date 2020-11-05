@@ -1,11 +1,15 @@
 [疫情有关](生活/易学/2020卦例/新冠疫情/)
 
+[美国大选](生活/易学/2020卦例/美国大选.md)
+
+[股市](生活/易学/2020卦例/股市.md)
+
 <!-- panels:start -->
 
 
 <!-- div:title-panel -->
 
-#####  Forex Trading
+######  Forex Trading
 
 <!-- div:right-panel -->
 
@@ -19,14 +23,14 @@ $\paigua{2020-01-15}{--x-o=}$
 
 
 <!-- div:title-panel -->
-##### Software Developer Microsoft Dynamics 365
+###### Software Developer Microsoft Dynamics 365
 <!-- div:left-panel -->
 $\paigua{2020-03-04}{-=-=o=}$
 <!-- div:right-panel -->
 Tianya: Diese Stelle schaffe ich nicht.
 
 <!-- div:title-panel -->
-##### 问念：不知道RZF能否一直干下去。能的话我也不想折腾。
+###### 问念：不知道RZF能否一直干下去。能的话我也不想折腾。
 <!-- div:left-panel -->
 $\paigua{2020-01-02}{=-o-=x}{gua1}$
 <!-- div:right-panel -->
@@ -34,7 +38,7 @@ $\paigua{2020-01-02}{=-o-=x}{gua1}$
 
 <!-- div:title-panel -->
 
-##### 问念：2020年能找到新的工作吗？
+###### 问念：2020年能找到新的工作吗？
 <!-- div:left-panel -->
 $\paigua{2020-02-11}{-=x===}{gua2}$
 <!-- div:right-panel -->
@@ -42,7 +46,7 @@ $\paigua{2020-02-11}{-=x===}{gua2}$
 
 <!-- div:title-panel -->
 
-##### 問：全職做投資，能養活自己嗎？
+###### 問：全職做投資，能養活自己嗎？
 
 <!-- div:left-panel -->
 
