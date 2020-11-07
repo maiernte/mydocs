@@ -21,3 +21,5 @@
 [函数计算 + Typescript 实践](https://developer.aliyun.com/article/738898)
 
 [阿里云 配置 docker](https://github.com/alibaba/funcraft/blob/master/docs/usage/installation-zh.md)
+
+[在Nodejs中使用python](科技/coding/python/use_python_in_Nodejs.md)
