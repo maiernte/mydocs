@@ -2,6 +2,8 @@
 
 ###### 特殊符号
 
+⌘ *command*  | ⌥  *option*  |  ⌃  control  |  ⇧ *shift* 
+
 英语输入法中输入 
 - € `option + shift + 2`
 - £ `option + 3`
