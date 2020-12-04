@@ -28,3 +28,13 @@ gitbook --lrport 35730 --port 4000 serve
 ###### 华鹤易学平台备忘录
 
 [常用编译指令](科技/华鹤易学项目/备忘录#在线版编译)
+
+
+
+###### 图片地址
+
+```html
+https://github.com/maiernte/img/raw/master/bilder/
+_bilder\
+```
+

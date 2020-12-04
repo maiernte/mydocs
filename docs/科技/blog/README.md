@@ -15,3 +15,13 @@ Gitbook 中的写法请参阅 [Gitbook 锚点](科技/blog/gitbook/gitbook集锦
 [点击我跳转](科技/blog/gitbook集锦#锚点)
 ```
 
+
+
+###### 图片处理
+
+将图片拉到md文档以后，选择复制到 `~\img_github\bilder`，然后将地址改为
+
+`https://github.com/maiernte/img/raw/master/bilder/`
+
+如果是docsify项目内，也可以复制到 `_bilder\`。不需要有目录结构和分别整理，这样会增加工作量。
+
