@@ -2,7 +2,7 @@
 
  [从Googleplay下载电子书](科技/mac/保存ascm文件.md) 
 
-[Ricoh 打印机内网设置地址 192.168.0.122](http://192.168.0.122/main.asp?Lang=zh-cn) 
+[Ricoh 打印机](科技/mac/Ricoh打印机.md)
 
 [HHKB 键盘 & Karabiner-Elements](科技/mac/HHKB.md) 
 
@@ -10,3 +10,4 @@
 
 [输入法](科技/mac/输入法.md)
 
+[软件集合](科技/mac/软件集合.md)

@@ -30,17 +30,5 @@
 
   
 
-###### Karabiner Elements
 
-改变键盘的程序
-
-https://karabiner-elements.pqrs.org/
-
-在这里搜索写好的改键盘文档
-
-https://ke-complex-modifications.pqrs.org/
-
-搜索 “umlaut”，选择 “Change option + a/o/u to ä/ö/ü” ，然后导入到 karabiner-element 就可以了。以后就可以只用美式键盘。需要这个应用**常驻内存**才行。
-
-可以用 Karabiner-EventViewer 探测当前键名，然后改为别的键。
 
