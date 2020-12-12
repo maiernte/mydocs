@@ -5,3 +5,6 @@
 432 音频转换
 
 [在线转换](https://www.432hzconverter.com/)  专业软件 Audacity
+
+[PDF 在线解密](https://smallpdf.com/de/pdf-passwort-entfernen)
+
