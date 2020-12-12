@@ -25,3 +25,6 @@ Gitbook 中的写法请参阅 [Gitbook 锚点](科技/blog/gitbook/gitbook集锦
 
 如果是docsify项目内，也可以复制到 `_bilder\`。不需要有目录结构和分别整理，这样会增加工作量。
 
+如果使用 `![](../path/pic.jpeg)` 的方式，需要从子目录回溯到上级目录。
+
+采用HTML方式 `<img src="path/_pic.jpeg" style="zoom: 50%;" />`只需从根目录开始写就行。
