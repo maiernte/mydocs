@@ -6,6 +6,8 @@
 
 [天涯的知府](https://maiernte.github.io) 个人博客 /  [天涯的维基](https://maiernte.github.io/wiki/) Hexo 版的维基百科
 
+[萬能金鑰](http://maiernte.gitee.io/lessons24/)
+
 ###### 易学类
 
 [华鹤易学在线(国内)](https://maiernte.gitee.io/huahe/)   /  [华鹤易学在线(国外)](https://maiernte.gitee.io/huahe/)   /  [华鹤易学文档电子书](https://maiernte.gitee.io/huahedocument/)
