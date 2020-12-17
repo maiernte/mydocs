@@ -18,6 +18,31 @@ Windows 模式下可以实现箭头和Fn联动，但不能使用声音开关。M
 
 **Fn + Left Control**：切换主/副功能键。这个功能没什么用，很容易搞混。
 
+`-` md文档的列表符号 Fn + -_
+
+`_` 下划线，Richt Shift + -_
+
+
+
+###### Mac系统下引入了两个方案，能完美解决箭头和字符键的冲突。
+
+- [Change option](https://ke-complex-modifications.pqrs.org/?q=umlaut) + a/o/u to ä/ö/ü
+- [German Mapping](https://ke-complex-modifications.pqrs.org/?q=German%20mapping) for programming / \ { } [ ] ~
+
+> 第二个方案的时候，md 文档的列表符号 “ - ” 需要 Alt + ä, Alt + Empty 两步完成。
+>
+> 或者使用 Fn + -_ 也可以
+>
+> 使用第二个方案后就完全可以把箭头空出来使用。
+
+###### Windows 系统下编程符号的解决方案
+
+Strg + Alt = AltGr 
+
+`{` 符号可以通过  Strg + Alt + 7 或者 AltGr + 7 来完成。其余的符号如 `}[]\~` 都可以通过同样的操作来达成。
+
+
+
 [官方说明书](http://www.rkgaming.com/zh-CN/article.php?id=44)
 
 
