@@ -4,7 +4,7 @@
 
 ###### vimium 插件
 
-[源博客](https://juejin.cn/post/6844903560597995527)  [插件官方文档](https://github.com/philc/vimium)
+[源博客](https://sspai.com/post/27723)  [插件官方文档](https://github.com/philc/vimium)
 
 - 进入文本框后， Esc 退出就可以进行以下操作。
 - `j`:向下滚动一点
