@@ -11,3 +11,5 @@
 [输入法](科技/mac/输入法.md)
 
 [软件集合](科技/mac/软件集合.md)
+
+[Chrome 快捷键](科技/mac/chrome.md)
