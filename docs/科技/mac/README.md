@@ -8,7 +8,7 @@
 
 [RK987 双模键盘](科技/mac/RK键盘.md)
 
-[输入法](科技/mac/输入法.md)
+[输入法](科技/mac/输入法.md)   [Trackpad 手势](https://support.apple.com/zh-cn/HT204895)
 
 [软件集合](科技/mac/软件集合.md)
 
