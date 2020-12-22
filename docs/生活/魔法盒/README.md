@@ -4,10 +4,8 @@
 
 > 你真正的目的並不是要去找到覺得感激的事情，你所要的是那種流過全身的感激之「情」。
 
-<img src="_bilder/IMG_73BC10B98988-1.jpeg" style="zoom: 50%;" />
 
-<img src="_bilder/1585923276366,heidelberg-106__v-16x9@2dXL_-77ed5d09bafd4e3cf6a5a0264e5e16ea35f14925.jpg" style="zoom:50%;" />
 
-<img src="_bilder/60787263599724402484_thumb.png" />
+[**良辰美景**](生活/魔法盒/bilder.md)
 
 [**金玉良言**](生活/魔法盒/note.md)
