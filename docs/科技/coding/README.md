@@ -6,7 +6,7 @@
 
 [正则表达式](科技/coding/allgemein/regex.md) 
 
-[git 技巧](科技/coding/allgemein/git技巧.md)
+[git 技巧](科技/coding/allgemein/git技巧.md) / [gist 在线代码](https://gist.github.com/maiernte)
 
 ###### 一些好玩的东西
 
