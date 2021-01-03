@@ -1,4 +1,4 @@
-[返回](科技/金融项目/)
+[返回](经济/股市/量化交易/)
 
 ###### 在 function 中改变全局变量
 
@@ -33,4 +33,3 @@ calculate(14 * 5)
 plot(array.get(global, IDX_STOCH), color=color.maroon)
 plot(array.get(global, IDX_RSI), color=color.olive)
 ```
-

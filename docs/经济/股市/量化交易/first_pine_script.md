@@ -1,6 +1,6 @@
-[返回](科技/金融项目/)
+[返回](经济/股市/量化交易/)
 
-```
+```javascript
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
 // © goldentianya
 
@@ -60,6 +60,3 @@ line.set_x2(line382, x=bar_index)
 var label label382 = label.new(bar_index, na, text='0.382', style=label.style_label_left, textalign=text.align_right, size=size.small, textcolor=color.white)
 label.set_xy(label382, bar_index, three82)
 ```
-
-
-
