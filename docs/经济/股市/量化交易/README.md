@@ -34,3 +34,12 @@
 
 [Top brokers auf TradingView](https://de.tradingview.com/brokers/)
 
+[机器人](https://www.fmz.com/digest-topic/5533)
+
+[TradingView Alerts to MT4/MT5](https://www.tradingview.com/chart/USDCAD/xMiBY0Qt-TradingView-Alerts-to-MT4-MT5-installation-guide/)
+
+
+
+[SuperTrend Indicator for MT5](https://www.mql5.com/de/code/576)
+
+[25家平台费用比较](https://pingce.fx110.hk/special/details/1571)
