@@ -2,6 +2,8 @@
 
 [HQChart](https://github.com/stock-chart/HQChart)
 
+[比TradingView 更轻量级 K线图](https://blog.csdn.net/renlang7090/article/details/105559101)
+
 [熊猫办公：Excel表格](https://www.tukuppt.com/excelmuban/licai.html)
 
 

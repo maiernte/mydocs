@@ -6,3 +6,7 @@
 
 [期权交易](经济/股市/理论/期权交易.md) 
 
+[Zertifizierter Börsenhändler Kassamarkt](https://academy.deutsche-boerse.com/zbk/?gclid=CjwKCAiAgJWABhArEiwAmNVTBxPXZBgr9sDB3DajztI02T2aBnETuIahOt-Zbb6kuOG_oUogHI_drxoCVqUQAvD_BwE)
+
+[各板块ETF](https://global.finance.sina.com.cn/clues/etf/)
+
