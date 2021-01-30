@@ -10,3 +10,7 @@
 
 [各板块ETF](https://global.finance.sina.com.cn/clues/etf/)
 
+[期權極客 教學視頻](https://www.firstrade.com/content/zh-tw/researchtools/optionswizard)
+
+[华美银行汇款到券商指引](https://www.laohu8.com/post/948942929)
+

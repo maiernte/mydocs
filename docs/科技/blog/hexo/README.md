@@ -6,3 +6,7 @@
 
  [Next主题添加内容折叠](科技/blog/hexo/Next主题添加内容折叠.md) 
 
+[添加评论 valine](https://valine.js.org/hexo.html)
+
+[gitment on Hexo](https://www.codeblocq.com/2018/05/Setup-gitment-on-your-Hexo-blog/)
+

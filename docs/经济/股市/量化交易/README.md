@@ -4,7 +4,15 @@
 
 [比TradingView 更轻量级 K线图](https://blog.csdn.net/renlang7090/article/details/105559101)
 
+[QuantConnect 量化交易平台](https://www.quantconnect.com/?ref=towm)
+
+[安达证券](https://oanda-tw.com/fxproduct/mt4)
+
 [熊猫办公：Excel表格](https://www.tukuppt.com/excelmuban/licai.html)
+
+
+
+[GoogleExcel 市场数据](https://www.vertex42.com/ExcelTemplates/excel-stock-quotes.html#:~:text=Stock%20Quotes%20in%20a%20Google,Spreadsheet%20directly%20from%20Google%20Finance.)
 
 
 

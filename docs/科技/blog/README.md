@@ -3,6 +3,8 @@
 
  [docsify管理](科技/blog/docsify/docsify管理.md) 
 
+[给Hexo博客加广告](https://www.jianshu.com/p/774dfc1c2fb1)   [接入谷歌广告](https://darylliu.github.io/archives/6a1f6623.html)
+
 Markdown 内嵌入大的代码，可以将其放到 https://gist.github.com 上面，然后在MD 文件中用 iframe 使用。
 
 
