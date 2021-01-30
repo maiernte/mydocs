@@ -30,6 +30,11 @@
 
 nohup sh run.sh 1>run_info.log 2>run_error.log &
 
+###### 查看IP地址
+
+- 方式一： `ifconfig | grep "inet " | grep -v 127.0.0.1`
+- 方式二：`ifconfig en1` 有时候是 en0
+
 
 
 ###### 隐藏文件夹
