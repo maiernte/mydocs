@@ -3,20 +3,13 @@
 ###### Theorie & Skills
 
 - Lernen zu lernen Lernstrategien wirkungsvoll einsetzen by Werner Metzig
-
 - The Psychology Book (Big Ideas Simply Explained)
-
 - Think Again : How to Reason and Argue
-
 - Schnelles Denken, langsames Denken
-
 - Die Kunst des klugen Handelns 52 Irrwege, die Sie besser anderen überlassen
-
 - Smart Thinking Skills for Critical Understanding and Writing
-
 - The Unfair Advantage
-
-  
+- The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results
 
 
 ###### Psychologie 
