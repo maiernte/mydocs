@@ -4,4 +4,9 @@
 
 [熊猫办公：Excel表格](https://www.tukuppt.com/excelmuban/licai.html)
 
+[集成paypal到项目当中](https://developer.paypal.com/developer/applications)
+
+[支付宝开放平台](https://opendocs.alipay.com/open/204/105296)
+
+[如何申请美区的paypal](https://zhuanlan.zhihu.com/p/144932510)
 
