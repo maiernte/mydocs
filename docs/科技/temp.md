@@ -8,3 +8,4 @@
 
 [PDF 在线解密](https://smallpdf.com/de/pdf-passwort-entfernen)
 
+[翻墙指南](科技/others/翻墙指南.md)
