@@ -21,6 +21,7 @@
     - [Python](科技/coding/python/)
     - [.Net](科技/coding/dotNet/)
     - [Database](科技/coding/database/)
+  - [🔭 其它](科技/others/)
   - [临时笔记](科技/temp.md)
 - :coffee: 生活
   - [📝 读书笔记](生活/读书笔记/)
