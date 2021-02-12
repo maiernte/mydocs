@@ -23,4 +23,6 @@
 
   
 
+###### Google Spreadsheet
 
+- 插入时间：`cmd + shift + :` (RK 61 键盘，.: 键)

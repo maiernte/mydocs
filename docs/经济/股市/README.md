@@ -2,3 +2,9 @@
 
 [Pionex 入金讲解](https://earning.tw/pionex-deposit/)
 
+```
+=GOOGLEFINANCE($A4,"price")
+```
+
+
+
