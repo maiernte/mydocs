@@ -8,6 +8,16 @@
 
 
 
+更改快捷方式的地址
+
+```
+chrome://extensions/shortcuts
+```
+
+
+
+
+
 ###### vimium 插件
 
 [vimium使用技巧](https://sspai.com/post/27723) 

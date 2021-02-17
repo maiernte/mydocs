@@ -47,6 +47,18 @@ Strg + Alt = AltGr
 
 
 
+> [!warning]
+>
+> 1. 键盘识别出错的时候，导致按键 `<>|` 不能正常使用。需要在Karabiner中映射一下
+>
+> `non_us_backslash` -> `grave_accent_and_tilde(')`
+>
+> 2. **Fn+Win** 关闭/开启Win键  =》 导致有时候 Command 键失灵。
+
+
+
+
+
 [官方说明书](http://www.rkgaming.com/zh-CN/article.php?id=44)
 
 
