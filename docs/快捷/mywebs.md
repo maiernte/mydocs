@@ -22,7 +22,11 @@
 
 ##### 常用网站
 
-[Emoji 查询](https://www.webfx.com/tools/emoji-cheat-sheet/)
+[Emoji 查询](https://www.webfx.com/tools/emoji-cheat-sheet/) 
+
+[书单网](https://www.shudan.vip/) [鸠摩搜索](https://www.jiumodiary.com/) [Zlibrary](https://de1lib.org/?regionChanged=&redirect=211172371) [SoBook](https://sobooks.cc/) [走读派](http://zoudupai.com/)
+
+[好读(小说)](http://haodoo.net/) [书格(古板书)](https://new.shuge.org/)
 
 ###### 图片网站
 
