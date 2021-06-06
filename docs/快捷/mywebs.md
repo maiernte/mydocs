@@ -38,3 +38,8 @@
 
 [视频编辑软件](https://handbrake.fr/downloads.php)
 
+###### 临时 
+
+[ADAC Spanien Einreisen](https://www.adac.de/news/spanien-urlaub-corona/)
+
+[Versicherung](https://www.hmrv.de/corona-reiseschutz)

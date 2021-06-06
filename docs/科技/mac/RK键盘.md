@@ -57,6 +57,16 @@ Strg + Alt = AltGr
 
 
 
+###### Markdown 文档
+
+- 列表缩进： `⌘ + ⌥  + <8> `  `⌘ + ⌥  + <9> `  
+
+###### TradingView 
+
+- 注释多行： 在中文环境下 ⌘ + Fn + [-_ ] 
+
+
+
 
 
 [官方说明书](http://www.rkgaming.com/zh-CN/article.php?id=44)
