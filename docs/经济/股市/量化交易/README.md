@@ -12,7 +12,13 @@
 
 [GoogleExcel 中引入市场数据](https://www.vertex42.com/ExcelTemplates/excel-stock-quotes.html#:~:text=Stock%20Quotes%20in%20a%20Google,Spreadsheet%20directly%20from%20Google%20Finance.)
 
+[福汇外汇](https://www.fuhui-chn.com/gb/tradingview-pro/)  / [API](https://www.fuhui-chn.com/gb/algorithmic-trading/api-trading/)
 
+[阿里云外汇接口](https://market.aliyun.com/products/57000002/cmapi019144.html#sku=yuncode1314400007)
+
+[EOD History Data](https://eodhistoricaldata.com/pricing) 
+
+[7 Best API](https://rapidapi.com/blog/best-stock-api/)
 
 ##### Pine 脚本
 
@@ -26,4 +32,42 @@
 
  [MQL5_Lerning](经济/股市/MQL5_Lerning.md) 
 
+EA-Programmierung
 
+
+
+###### 数据价格比较
+
+雅虎 API 和 AlphaVantage API 可以用来在测试阶段用。以及在实施阶段用于拉取基本面数据。
+
+Rapid API  [Yahoo Financial API](https://rapidapi.com/sparior/api/yahoo-finance15/)
+
+可以获取股票日内价格，10美金或者20美金的账户应该能应付大部分的需求。免费账号是
+
+> 60 API per minte 750 per Month
+>
+> 100 API per minte $9.95/month (10,000 / month)
+>
+> 200 API per minte $28.95/month (50,000 / month)
+
+[Alpha Vantage API](https://www.alphavantage.co/)
+
+>   5 API per minte 500 per Day
+>
+> 75 API per minte $49.99/month (No daily limits)
+>
+> 150 API per minte $99.99/month
+
+[EOD History Data](https://eodhistoricaldata.com/pricing) 
+
+> 19$ Month : 所有数据，没有日内数据。
+>
+> 29$ Month : 股票、外汇每日以及实时数据，非常好。每天10万次访问
+
+[Quandel](https://docs.quandl.com/docs/getting-started) ([Rapidapi](https://rapidapi.com/brianiswu/api/quandl1/))
+
+Quandel 获取全市场的日级别数据，用于扫描市场上合适的股票。
+
+[Marketstack](https://marketstack.com/)
+
+只需要9美金一个月，并且包括日内数据。10,000 Requests / month

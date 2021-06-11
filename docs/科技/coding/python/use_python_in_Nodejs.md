@@ -14,3 +14,4 @@
 
 [如何从Node.js调用Python函数](https://qastack.cn/programming/23450534/how-to-call-a-python-function-from-node-js)
 
+[Nodejs 与 Python 混编](https://cloud.tencent.com/developer/article/1565131)
