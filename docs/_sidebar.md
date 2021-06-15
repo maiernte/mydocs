@@ -17,6 +17,7 @@
     - [前端](科技/coding/frontend/)
     - [Markdown](科技/coding/markdown/)
     - [Angular & Typescript](科技/coding/angular_typescript/)
+    - [Vue.js](科技/coding/vue/)
     - [Node.js](科技/coding/nodejs/)
     - [Python](科技/coding/python/)
     - [.Net](科技/coding/dotNet/)

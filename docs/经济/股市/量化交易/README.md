@@ -50,7 +50,7 @@ Rapid API  [Yahoo Financial API](https://rapidapi.com/sparior/api/yahoo-finance1
 >
 > 200 API per minte $28.95/month (50,000 / month)
 
-[Alpha Vantage API](https://www.alphavantage.co/)
+[Alpha Vantage API](https://www.alphavantage.co/) [RapidAPI](https://rapidapi.com/alphavantage/api/alpha-vantage/)
 
 >   5 API per minte 500 per Day
 >
@@ -71,3 +71,11 @@ Quandel 获取全市场的日级别数据，用于扫描市场上合适的股票
 [Marketstack](https://marketstack.com/)
 
 只需要9美金一个月，并且包括日内数据。10,000 Requests / month
+
+[Code Example](https://marketstack.com/documentation#php)
+
+
+
+[IEXCloud.io](https://iexcloud.io/)
+
+每个月500万Credit，只是Credit的计算有点搞不懂。不是Request

@@ -1,4 +1,4 @@
-##### 代码资源
+###### 代码资源
 
 [HQChart](https://github.com/stock-chart/HQChart)
 
@@ -9,4 +9,8 @@
 [支付宝开放平台](https://opendocs.alipay.com/open/204/105296)
 
 [如何申请美区的paypal](https://zhuanlan.zhihu.com/p/144932510)
+
+[AWS 用户管理模块](https://aws.amazon.com/cn/cognito/pricing/) 或者 firebase 的用户管理
+
+[Stript 网络支付](https://stripe.com/zh-cn-de/pricing)
 
