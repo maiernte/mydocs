@@ -8,6 +8,8 @@
 
 [新建TypeScript项目](https://www.digitalocean.com/community/tutorials/typescript-new-project)
 
+[Babel 构建Typescript 项目](https://www.jianshu.com/p/83c14c881a2c)
+
 
 编译typescript  `tsc -p tsconfig.json`
 

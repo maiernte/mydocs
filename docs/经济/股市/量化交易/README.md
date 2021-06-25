@@ -4,21 +4,15 @@
 
 [比TradingView 更轻量级 K线图](https://blog.csdn.net/renlang7090/article/details/105559101) [vue使用TradingView制作K线图](https://blog.csdn.net/pxhing/article/details/106997657)
 
+[30 个K线插件](https://opensourcelibs.com/libs/kline)
+
 [QuantConnect 量化交易平台](https://www.quantconnect.com/?ref=towm)
 
 [安达证券](https://oanda-tw.com/fxproduct/mt4)
 
-[熊猫办公：Excel表格](https://www.tukuppt.com/excelmuban/licai.html)
-
-[GoogleExcel 中引入市场数据](https://www.vertex42.com/ExcelTemplates/excel-stock-quotes.html#:~:text=Stock%20Quotes%20in%20a%20Google,Spreadsheet%20directly%20from%20Google%20Finance.)
-
 [福汇外汇](https://www.fuhui-chn.com/gb/tradingview-pro/)  / [API](https://www.fuhui-chn.com/gb/algorithmic-trading/api-trading/)
 
 [阿里云外汇接口](https://market.aliyun.com/products/57000002/cmapi019144.html#sku=yuncode1314400007)
-
-[EOD History Data](https://eodhistoricaldata.com/pricing) 
-
-[7 Best API](https://rapidapi.com/blog/best-stock-api/)
 
 ##### Pine 脚本
 
@@ -26,15 +20,11 @@
 
 [脚本基础知识](经济/股市/量化交易/pine_basic.md)
 
-
-
 ##### MT4/5
 
  [MQL5_Lerning](经济/股市/MQL5_Lerning.md) 
 
 EA-Programmierung
-
-
 
 ###### 数据价格比较
 
@@ -64,9 +54,9 @@ Rapid API  [Yahoo Financial API](https://rapidapi.com/sparior/api/yahoo-finance1
 >
 > 29$ Month : 股票、外汇每日以及实时数据，非常好。每天10万次访问
 
-[Quandel](https://docs.quandl.com/docs/getting-started) ([Rapidapi](https://rapidapi.com/brianiswu/api/quandl1/))
+[TuShare](https://tushare.pro/)
 
-Quandel 获取全市场的日级别数据，用于扫描市场上合适的股票。
+美股和A股市场，可以更新美股某日全部市场数据
 
 [Marketstack](https://marketstack.com/)
 
@@ -74,8 +64,8 @@ Quandel 获取全市场的日级别数据，用于扫描市场上合适的股票
 
 [Code Example](https://marketstack.com/documentation#php)
 
-
+[Quandel](https://docs.quandl.com/docs/getting-started) ([Rapidapi](https://rapidapi.com/brianiswu/api/quandl1/))
 
 [IEXCloud.io](https://iexcloud.io/)
 
-每个月500万Credit，只是Credit的计算有点搞不懂。不是Request
+[AKShare 接口](https://www.akshare.xyz/zh_CN/latest/introduction.html)
