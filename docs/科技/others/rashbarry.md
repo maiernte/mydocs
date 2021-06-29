@@ -56,3 +56,11 @@ sudo service ssh restart
 ###### 查看CPU 和 内存的使用情况
 
 `$ htop`  使用$:sudo apt-get install htop进行安装htop工具
+
+
+
+###### SSH
+
+如果发生密钥错误，删除之前的密钥 `ssh-keygen -R 192.168.1.123`
+
+[创建自动登陆的方式](https://blog.csdn.net/qinxiandiqi/article/details/39206323)
