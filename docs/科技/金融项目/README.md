@@ -22,11 +22,9 @@ tail -f nohup.out
 ssh user@xxxx.dongtaiyuming.net -p <portnumber>
 ```
 
-实现开机启动 （[ubuntu 20.4 开机启动](https://blog.csdn.net/lk_luck/article/details/108361857)）
+实现开机启动 （[ubuntu 20.4 开机启动](https://blog.csdn.net/lk_luck/article/details/108361857)）编辑文件 /etc/rc.local 加入
 
 ```shell
-#编辑文件 /etc/rc.local 加入
-
 #!/bin/bash
 nohup /home/ubuntu/wyc_linux_arm -token=****** &
 ```
@@ -42,17 +40,8 @@ nohup /home/ubuntu/wyc_linux_arm -token=****** &
 `jobs -l` #查找刚才启动的服务并处理[参阅](https://maiernte.github.io/wiki/mac-memo.html)  ngrok.log 日志文件查看随机分配的接口
 
 ```shell
-ngrok by @inconshreveable               (Ctrl+C to quit)
-                                                                                        
-Session Status                online                                                    
-Account                       maiernte (Plan: Free)                                     
-Version                       2.3.40                                                    
-Region                        United States (us)                                        
-Web Interface                 http://127.0.0.1:4040                                     
-Forwarding                    tcp://6.tcp.ngrok.io:10622 -> localhost:22                
-                                                                                        
-Connections                   ttl     opn     rt1     rt5     p50     p90               
-                              0       0       0.00    0.00    0.00    0.00    
+nohup ./ngrok tcp 22 --log=./ngrok.log > /dev/null &
+tail -f ngrok.log # 查看日志文件找到新的URL
 ```
 
 从外部连接 `$ ssh user@6.tcp.ngrok.io -p 10622`
