@@ -31,10 +31,11 @@ gitbook --lrport 35730 --port 4000 serve
 
 
 
-###### 图片地址
+###### 登录地址
 
 ```html
-https://github.com/maiernte/img/raw/master/bilder/
-_bilder\
+ssh root@192.168.0.136
+ssh root@3ms4sg23.dongtaiyuming.net -p 16774
+ssh root@6.tcp.ngrok.io -p 10622
 ```
 
