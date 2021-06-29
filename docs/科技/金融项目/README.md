@@ -10,14 +10,16 @@
 
 ##### 内网穿透
 
+网云穿比较慢，SSH连接可以接受。而且地址是固定的。以后用网云穿使用ssh管理服务器，动态的ngrok地址就在网站中使用。
+
 ###### 网云穿
 
  [网云穿](https://www.xiaomy.net/pay?type=1) （*终身版1M不限流量339元*）/  [linux 安装](http://neiwangchuantou.cn/archives/8.html) / [后台运行](http://neiwangchuantou.cn/archives/4.html)
 
-```
+```shell
 nohup ./wyc_linux_arm -token=****** &
 tail -f nohup.out
-ssh root@3ms4sg23.dongtaiyuming.net -p 16774
+ssh user@xxxx.dongtaiyuming.net -p <portnumber>
 ```
 
 ###### Ngrok
@@ -45,9 +47,3 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 从外部连接 `$ ssh user@2.tcp.ngrok.io -p 10622`
 
 
-
-ssh 反向代理其实用不着，搞一个免费的公网IP就可以了。在前台服务器上拉取每日数据、映射端口、以及提供简单的服务。
-
-树莓提供一个Http服务给VPS，VPS做完每日基本工作后，通过http服务通知树莓。树莓从VPS上更新每日数据，然后进行算法运算。
-
-外网要读取股市数据时，首先查看前台服务器是否有临时备份。有就直接提供。没有就将访问传导到树莓的web服务上（注意分配tocken）。这样树莓每个月的数据流量其实不会很高的。免费的公网ip完全搞定。而且也不需要固定地址，因为理论上只要前台VPS知道地址就可以了。
