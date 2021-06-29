@@ -60,7 +60,7 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
 查看后台进程的命令
 
 ```shell
-ps -efu
+ps -efu #参数 u 表示以当前用户启动的后台服务
 jobs -l
 ```
 
