@@ -15,3 +15,5 @@
 [Chrome 快捷键](科技/mac/chrome.md)
 
 [虚拟主机](科技/mac/虚拟主机.md)
+
+[FTP 服务](科技/mac/ftp.md)

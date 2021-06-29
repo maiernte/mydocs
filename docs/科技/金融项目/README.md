@@ -6,5 +6,10 @@
 
 [TradingView 图表文档](https://zlq4863947.gitbook.io/tradingview/home)
 
-[SSH反向代理 树莓派服务器](https://iya.ng/2019/access-raspberry-pi-by-ssh-reverse-tunnel.html)  [文章2](https://blog.csdn.net/yjp19871013/article/details/105575054) [文章3](http://ukonline2000.com/?p=865&tszyxs=flh401) [文章4](https://www.jianshu.com/p/0129ebcc2aa8)
+[NGROK 公网IP](https://ngrok.com/pricing)  / [网云穿](https://www.xiaomy.net/pay?type=1) （*终身版1M不限流量339元*）
 
+ssh 反向代理其实用不着，搞一个免费的公网IP就可以了。在前台服务器上拉取每日数据、映射端口、以及提供简单的服务。
+
+树莓提供一个Http服务给VPS，VPS做完每日基本工作后，通过http服务通知树莓。树莓从VPS上更新每日数据，然后进行算法运算。
+
+外网要读取股市数据时，首先查看前台服务器是否有临时备份。有就直接提供。没有就将访问传导到树莓的web服务上（注意分配tocken）。这样树莓每个月的数据流量其实不会很高的。免费的公网ip完全搞定。而且也不需要固定地址，因为理论上只要前台VPS知道地址就可以了。
