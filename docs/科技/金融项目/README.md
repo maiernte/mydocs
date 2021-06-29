@@ -22,6 +22,17 @@ tail -f nohup.out
 ssh user@xxxx.dongtaiyuming.net -p <portnumber>
 ```
 
+实现开机启动 （[ubuntu 20.4 开机启动](https://blog.csdn.net/lk_luck/article/details/108361857)）
+
+```shell
+#编辑文件 /etc/rc.local 加入
+
+#!/bin/bash
+nohup /home/ubuntu/wyc_linux_arm -token=****** &
+```
+
+
+
 ###### Ngrok
 
 [NGROK 公网IP](https://ngrok.com/pricing)  
