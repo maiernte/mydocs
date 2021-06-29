@@ -6,7 +6,15 @@
 
 [TradingView 图表文档](https://zlq4863947.gitbook.io/tradingview/home)
 
-[NGROK 公网IP](https://ngrok.com/pricing)  / [网云穿](https://www.xiaomy.net/pay?type=1) （*终身版1M不限流量339元*）
+[NGROK 公网IP](https://ngrok.com/pricing)  / [网云穿](https://www.xiaomy.net/pay?type=1) （*终身版1M不限流量339元*）/  [linux 安装](http://neiwangchuantou.cn/archives/8.html) / [后台运行](http://neiwangchuantou.cn/archives/4.html)
+
+```
+nohup ./wyc_linux_arm -token=an9di3bs &
+tail -f nohup.out
+ssh root@3ms4sg23.dongtaiyuming.net -p 16774
+```
+
+
 
 ssh 反向代理其实用不着，搞一个免费的公网IP就可以了。在前台服务器上拉取每日数据、映射端口、以及提供简单的服务。
 
