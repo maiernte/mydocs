@@ -55,6 +55,12 @@ Connections                   ttl     opn     rt1     rt5     p50     p90
                               0       0       0.00    0.00    0.00    0.00    
 ```
 
-从外部连接 `$ ssh user@2.tcp.ngrok.io -p 10622`
+从外部连接 `$ ssh user@6.tcp.ngrok.io -p 10622`
 
+查看后台进程的命令
+
+```shell
+ps -efu
+jobs -l
+```
 
