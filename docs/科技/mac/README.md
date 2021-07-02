@@ -17,3 +17,5 @@
 [虚拟主机](科技/mac/虚拟主机.md)
 
 [FTP 服务](科技/mac/ftp.md)
+
+ 查看公网IP `curl ifconfig.me `
