@@ -1,6 +1,8 @@
-[免费Mongodb](https://juejin.im/entry/5c9ce6556fb9a070f1259325) [菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html) [防止数据库被黑](https://zhuanlan.zhihu.com/p/37837627)
+[免费Mongodb](https://juejin.im/entry/5c9ce6556fb9a070f1259325) / [菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html) / [防止数据库被黑](https://zhuanlan.zhihu.com/p/37837627) / [搭建副本](https://jelly.jd.com/article/5f990ebbbfbee00150eb620a)
 
 在终端连接 `mongo`, 查看所有数据库 `show dbs`   [其它命令介绍](https://docs.mongodb.com/v3.6/tutorial/install-mongodb-on-ubuntu/)  
+
+[搭建副本步骤](科技/coding/database/搭建副本.md)
 
 创建管理员
 
@@ -95,4 +97,16 @@ var match:any = [
 }]
 var data: any = await this.db.Aggregate('Stock', 'DataD', match)
 ```
+
+###### 压缩数据
+
+[compact 文档](https://docs.mongodb.com/manual/reference/command/compact/) / [repairDatabase 文档](https://docs.mongodb.com/manual/release-notes/4.2-compatibility/#remove-support-for-the-repairdatabase-command/)  / [比较Compact和repaireDatabase](https://dba.stackexchange.com/questions/68370/huge-size-on-mongodbs-gridfs-should-i-compact) 例子：
+
+```shell
+ // compact oplog，execute the force option on the copy set primary
+ use local
+ db.runCommnd({compact: "somecollection", force: true})
+```
+
+
 

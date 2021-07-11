@@ -4,7 +4,7 @@
 
 [进程守护工具](科技/coding/nodejs/pm2.md) / [Nginx 反向代理多域名](https://cloud.tencent.com/developer/article/1472387)
 
-[创建命令行 CLI](https://segmentfault.com/a/1190000039110450)
+[创建命令行 CLI](https://segmentfault.com/a/1190000039110450) / [Inquirer 使用](https://blog.csdn.net/qq_26733915/article/details/80461257)
 
 [ServerLess Functions：入门实践指南](https://juejin.im/post/5dff6824e51d45584006e8fb)
 

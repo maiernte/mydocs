@@ -2,7 +2,9 @@
 
 [HQChart](https://github.com/stock-chart/HQChart)  / [分钟数据格式](https://blog.csdn.net/jones2000/article/details/100149703#_1)  / [日线数据格式](https://blog.csdn.net/jones2000/article/details/102661873)
 
-[比TradingView 更轻量级 K线图](https://blog.csdn.net/renlang7090/article/details/105559101) [vue使用TradingView制作K线图](https://blog.csdn.net/pxhing/article/details/106997657)
+[比TradingView 更轻量级 K线图](https://blog.csdn.net/renlang7090/article/details/105559101) 
+
+[vue使用TradingView制作K线图](https://blog.csdn.net/pxhing/article/details/106997657) / [TradingView使用心得](https://blog.51cto.com/u_15098014/2613671)
 
 [30 个K线插件](https://opensourcelibs.com/libs/kline)
 
