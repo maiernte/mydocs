@@ -1,6 +1,6 @@
 [免费Mongodb](https://juejin.im/entry/5c9ce6556fb9a070f1259325) / [菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html) / [防止数据库被黑](https://zhuanlan.zhihu.com/p/37837627) / [搭建副本](https://jelly.jd.com/article/5f990ebbbfbee00150eb620a)
 
-在终端连接 `mongo`, 查看所有数据库 `show dbs`   [其它命令介绍](https://docs.mongodb.com/v3.6/tutorial/install-mongodb-on-ubuntu/)  
+在终端连接 `mongo`, 查看所有数据库 `show dbs`   [MongoDB 4.4 安装](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 
 [搭建副本步骤](科技/coding/database/搭建副本.md)
 

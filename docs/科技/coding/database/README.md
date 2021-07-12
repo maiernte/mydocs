@@ -15,3 +15,12 @@ mongodb的WT引擎默认占用一半内存做缓存，看看你的内存消耗�
          cacheSizeGB: <number>
 ```
 
+
+
+###### 启动失败解决方案
+
+```shell
+chown -R mongodb:mongodb /var/lib/mongodb/
+sudo systemctl restart mongod
+```
+
