@@ -12,37 +12,13 @@
 
 [优化搜索引擎](科技/blog/docsify/search.md)
 
+查找插件的源文件地址
 
-
-> [!note]
-> An alert of type 'note' using global style 'callout'. `[!NOTE]`
-
-
-Sample alert using type TIP
-
-> [!tip]
-> An alert of type 'tip' using global style 'callout'. `[!TIP]`
-
-
-Sample alert using type WARNING
-
-> [!warning]
-> An alert of type 'warning' using global style 'callout'.`[!WARNING]`
+```js
+https://unpkg.com/docsify@4.12.1/lib/plugins/search.js
+```
 
 
 
-Sample alert using type DANGER
+[Note 范例](/科技/blog/docsify/notes.md)
 
-> [!danger]
-> An alert of type 'danger' using global style 'callout'.`[!DANGER]`
-> Step #3 - docsify commands
-
-
-
-- [ ] Some list
-
-> [!note]
->
-> - [x] Some list
->
-> An alert of type 'note' using global style 'callout'. `[!NOTE]`
