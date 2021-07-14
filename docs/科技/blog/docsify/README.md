@@ -10,6 +10,8 @@
 
 
 
+[优化搜索引擎](科技/blog/docsify/search.md)
+
 
 
 > [!note]

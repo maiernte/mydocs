@@ -12,7 +12,7 @@ window.$docsify = {
   // 完整配置参数
   search: {
     maxAge: 3600000,  // 86400000 过期时间，单位毫秒，默认一天
-    paths: 'auto',
+    /*gulp*/paths: [],
     placeholder: '搜索',
     noData: '没有记录！',
     depth: 6,
