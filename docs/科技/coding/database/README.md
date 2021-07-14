@@ -21,6 +21,7 @@ mongodb的WT引擎默认占用一半内存做缓存，看看你的内存消耗�
 
 ```shell
 chown -R mongodb:mongodb /var/lib/mongodb/
+sudo chown mongodb:mongodb /tmp/mongodb-33720.sock
 sudo systemctl restart mongod
 ```
 

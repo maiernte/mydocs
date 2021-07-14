@@ -19,3 +19,5 @@
 [FTP 服务](科技/mac/ftp.md)
 
  查看公网IP `curl ifconfig.me `
+
+[autossh 记住本机号码](科技/mac/autossh.md)
