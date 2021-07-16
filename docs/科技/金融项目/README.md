@@ -6,10 +6,6 @@
 
 [TradingView 图表文档](https://zlq4863947.gitbook.io/tradingview/home)
 
-[内网穿透](科技/金融项目/内网穿透.md)
-
-
-
 ###### 每周末工作清单
 
 - 更新 1m 到 1H、D、 W 的数据表，月初要更新 M数据

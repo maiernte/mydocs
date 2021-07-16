@@ -2,6 +2,10 @@
 
 [MongoDB 优化高级篇](https://www.jianshu.com/p/b77a33fbe824)
 
+[内存管理](https://ghost.atibm.com/mongodb-dui-nei-cun-de-yan-zhong-zhan-yong-yi-ji-jie-jue-fang-fa/)
+
+[迁移数据目录](科技/coding/database/迁移数据目录.md)  /  [数据备份](科技/coding/database/backupdata.md)
+
 ```shell
 db.setProfilingLevel(1) # 0代表关闭，1代表记录慢命令，2代表全部
 db.system.profile.find({millis:{$gt:500}}) #查询时间在500毫秒以上的查询

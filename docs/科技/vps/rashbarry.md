@@ -1,4 +1,4 @@
-树莓派安装Ubunt：[文章1](https://ywnz.com/linuxaz/6997.html) https://zhuanlan.zhihu.com/p/137115309#:~:text=01.%E5%B0%86SD%20%E5%8D%A1%E6%8F%92%E5%85%A5,%E7%9A%84Pi%20%E7%89%88%E6%9C%AC%E8%BF%9B%E8%A1%8C%E9%80%89%E6%8B%A9%E3%80%82
+树莓派安装Ubunt：[文章1](https://ywnz.com/linuxaz/6997.html)  [文章2]( https://zhuanlan.zhihu.com/p/137115309#:~:text=01.%E5%B0%86SD%20%E5%8D%A1%E6%8F%92%E5%85%A5,%E7%9A%84Pi%20%E7%89%88%E6%9C%AC%E8%BF%9B%E8%A1%8C%E9%80%89%E6%8B%A9%E3%80%82)
 
 > 第一次插电的时候，连不上显示器，回头发现network-config之前改了，也被重新覆盖。把SD卡插回电脑，再改一次，然后断电，重新插电。第二次通电后显示器连接上了。
 >

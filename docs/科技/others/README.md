@@ -5,6 +5,3 @@
 [卖卖资源的网站](https://www.hoocs.com/vitual-products/)
 
 [Karabiner](科技/others/karabiner.md)
-
-[Raspberry](科技/others/rashbarry.md)
-

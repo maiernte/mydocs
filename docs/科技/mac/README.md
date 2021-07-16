@@ -1,4 +1,4 @@
- [常用shell命令](科技/mac/常用shell命令.md) 
+
 
  [从Googleplay下载电子书](科技/mac/保存ascm文件.md) 
 
@@ -14,10 +14,5 @@
 
 [Chrome 快捷键](科技/mac/chrome.md)
 
-[虚拟主机](科技/mac/虚拟主机.md)
+查看公网IP `curl ifconfig.me `
 
-[FTP 服务](科技/mac/ftp.md)
-
- 查看公网IP `curl ifconfig.me `
-
-[autossh 记住本机号码](科技/mac/autossh.md)

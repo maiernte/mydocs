@@ -34,6 +34,36 @@ nohup sh run.sh 1>run_info.log 2>run_error.log &
 
 - 方式一： `ifconfig | grep "inet " | grep -v 127.0.0.1`
 - 方式二：`ifconfig en1` 有时候是 en0
+- 外网地址 `curl ifconfig.me`
+
+
+
+###### systemctl
+
+[systemctl 命令指南](https://developer.aliyun.com/article/75510)
+
+###### 查看文件夹大小
+
+- 查看文件夹 `du -h --max-depth=1 your_dest_dir`
+
+- 查看文件 `ls -lht` 
+
+###### 查找进程
+
+```shell
+ps -ef #all process
+ps -fC sshd # sshd 是名字
+pgrep -fl ssh* #按名字查找，使用通配符
+pgrep -fa mongo* # 显示所有信息!!!!!
+pgrep mongod  #按名字精确查找
+ps -aux | grep mongo
+```
+
+> pgrep
+>
+> -l 列出程序名和进程ID；
+> -o 进程起始的ID；
+> -n 进程终止的ID；
 
 
 
