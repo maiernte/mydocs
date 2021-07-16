@@ -363,9 +363,17 @@ lvcreate -l 100%FREE -n mdb-snap -s /dev/datavg/datalv
 # umount /dev/datavg/mdb-snap
 # dd if=/dev/datavg/mdb-snap | gzip > /home/mongobackup/mdb-snap`date +%F`.gz
 
-mount /dev/datavg/mdb-snap /home/mb-snap
+mount -o ro /dev/datavg/mdb-snap /home/mb-snap # 只读
 tar -czf /home/mongobackup/`date +%F`_mongo_all.tar.gz /home/mb-snap
 ```
+
+更高效的恢复数据方式为。将快照文件恢复到逻辑卷，然后删除掉自己。
+
+```shell
+ lvconvert --merge /dev/datavg/mdb-snap
+```
+
+
 
 
 
