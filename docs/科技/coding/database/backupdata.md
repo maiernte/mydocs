@@ -367,3 +367,11 @@ mount /dev/datavg/mdb-snap /home/mb-snap
 tar -czf /home/mongobackup/`date +%F`_mongo_all.tar.gz /home/mb-snap
 ```
 
+
+
+当前文件结构
+
+- /home/mongodata : SSD 硬盘，数据库数据
+- /home/mongolog:    系统盘，存储数据库的日志文件
+- /home/mb-snap:      SSD 硬盘，快照卷。这个文件系统平时不需要挂载。
+- /home/mongobackup: USB 闪存，保存 2021-xx-xx.mongo.tar.gz 压缩文件
