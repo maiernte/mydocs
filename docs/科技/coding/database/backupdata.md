@@ -131,6 +131,15 @@ lvextend -l 15  /dev/datavg/datalv   # 最终到15个LE
 lvextend -l +15 /dev/datavg/datalv   # 加15个LE
 ```
 
+以上只是逻辑卷扩容，但文件系统没有扩大，还需要对文件系统扩容
+
+```shell
+# xfs 格式
+xfs_growfs /dev/datavg/datalv
+# ext4 格式
+resize2fs /dev/datavg/datalv
+```
+
 
 
 ###### 5 格式化
@@ -326,11 +335,11 @@ $> df -Th
 $> lvs
   LV       VG       Attr       LSize    Pool Origin Data%  Meta%  Move Log Cpy%Sync Convert
   backuplv backupvg -wi-ao----  <30.00g                                                    
-  datalv   datavg   owi-aos---  320.31g                                                    
-  mdb-snap datavg   swi-aos--- <126.82g      datalv 0.01  
+  datalv   datavg   owi-aos--- <397.13g                                                    
+  mdb-snap datavg   swi-a-s---   50.00g      datalv 0.88    
 ```
 
-> 上面例子：已经使用 Data% 的 0.01%
+> 上面例子：已经使用 Data% 的 0.88%
 
 
 
