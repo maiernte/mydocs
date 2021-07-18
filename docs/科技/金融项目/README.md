@@ -6,9 +6,12 @@
 
 [TradingView 图表文档](https://zlq4863947.gitbook.io/tradingview/home)
 
-###### 每周末工作清单
+###### 日常维护
 
-- 更新 1m 到 1H、D、 W 的数据表，月初要更新 M数据
-- 每日定时执行：1m 数据的更新、全美市场扫描
+```shell
+# 备份数据库
+/home/mongobackup/docopy.sh 
+```
 
-最近一次执行复权：2021/07/10
+
+

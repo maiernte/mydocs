@@ -55,6 +55,17 @@ ls -l /dev/disk/by-uuid
 /dev/sda2: UUID="9da95930-332b-43d9-9f05-39c7cd9a66f8" TYPE="ext4" PARTUUID="9d3d5711-ae78-46a0-b093-57fb25f4ec62"
 ```
 
+查看磁盘结构
+
+```shell
+$> lsblk
+sda                 8:0    0 447.1G  0 disk 
+└─sda1              8:1    0 447.1G  0 part 
+  └─datavg-datalv 253:0    0   400G  0 lvm  
+sdb                 8:16   1    30G  0 disk 
+└─sdb1              8:17   1    30G  0 part /home/mongobackup
+```
+
 
 
 将硬盘信息添加到/etc/fstab 末尾

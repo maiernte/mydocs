@@ -9,3 +9,8 @@
 [Raspberry](科技/vps/rashbarry.md)
 
 [树莓挂载外置硬盘](科技/vps/raspberry_festplatt.md)
+
+[mac 与 server 之间的文件同步](科技/vps/syncfile.md)
+
+测试host解析是否成功 `getent ahosts <hostname>`
+

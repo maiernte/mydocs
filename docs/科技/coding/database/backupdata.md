@@ -23,7 +23,7 @@ tar -czf /home/ubuntu/Backup/`date +%F`_mongo_all.tar.gz /home/mongodata/data/
 解压到原来的目录
 
 ```shell
-tar -xzf /home/mongodata/backup/2017-07-01_mongo_all.tar.gz -C /
+tar -xzf /home/mongobackup/2021-07-17_mongo_all.tar.gz -C /
 ```
 
 
@@ -109,7 +109,7 @@ pvmove /dev/sdd [/dev/sdc] # 导出到 /dev/sdc，也可以不添加第二个参
 # lvcreate -l 100%VG -n datalv datavg
 # lvcreate mongovg -l 80%Free -n mongolv #80%空余
 # lvcreate mongovg -L 5G -n mongolv      #5G的卷
-lvcreate -l 6000 -n datalv datavg # 使用6000PE，大概 80%左右的容量
+lvcreate -l 102400 -n datalv datavg # 使用6000PE，大概 80%左右的容量
 ```
 
 ```shell
@@ -157,7 +157,7 @@ mkfs.xfs /dev/datavg/datalv #也行
 
 ```shell
 mkdir /home/mongosnap
-mount /dev/datavg/datalv /home/mongosnap
+mount /dev/datavg/datalv /home/ssd
 ```
 
 如果要开机就挂载
@@ -165,7 +165,8 @@ mount /dev/datavg/datalv /home/mongosnap
 ```shell
 vim /etc/fstab
 ....
-/dev/datavg/datalv /home/mongosnap ext4 defauts 0 0
+/dev/mapper/datavg-datalv /home/ssd ext4 defauts 0 0
+# 注意 不是 /dev/datavg/datalv
 ```
 
 ```shell
@@ -185,6 +186,7 @@ $> df -Th
 # lvcreate -L 100M -n mdb-snap -s /dev/datavg/datalv
 lvcreate -l 100%FREE -n mdb-snap -s /dev/datavg/datalv
 # Logical volume "mdb-snap" created.
+lvcreate -l 100%FREE -n mdb-snap -p r -s /dev/datavg/datalv 
 ```
 
 > 参数说明
@@ -208,9 +210,10 @@ $> lvscan
 挂载快照卷
 
 ```shell
-mkdir /home/mb-01
-mount -o ro /dev/datavg/mdb-snap /home/mb-01 
+mkdir /home/mdb-snap
+mount -o ro /dev/datavg/mdb-snap /home/mdb-snap/
 # xfs 格式的挂载要用参数 -o nouuid
+mount -o nouuid,ro /dev/datavg/mdb-snap /home/mdb-snap
 ```
 
 > -o ro : 使用只读的方式将快照卷挂载到 /home/mb-01 
@@ -315,16 +318,16 @@ $> lvs
 将快照挂载到文件系统看看
 
 ```shell
-mkdir /home/mb-snap
-mount -o ro /dev/datavg/mdb-snap /home/mb-snap
+mkdir /home/mdb-snap
+mount -o nouuid,ro /dev/datavg/mdb-snap /home/mdb-snap
 ```
 
 ```shell
 $> df -Th
 ...
-/dev/mapper/datavg-datalv     ext4      315G  1.5G  297G   1% /home/mongodata
+/dev/mapper/datavg-datalv     xfs      315G  1.5G  297G   1% /home/mongodata
 /dev/mapper/backupvg-backuplv ext4       30G   45M   28G   1% /home/mongobackup
-/dev/mapper/datavg-mdb--snap  ext4      315G  1.5G  297G   1% /home/mb-snap
+/dev/mapper/datavg-mdb--snap  xfs      315G  1.5G  297G   1% /home/mb-snap
 ```
 
 ###### 日常维护
@@ -363,7 +366,7 @@ lvcreate -l 100%FREE -n mdb-snap -s /dev/datavg/datalv
 # umount /dev/datavg/mdb-snap
 # dd if=/dev/datavg/mdb-snap | gzip > /home/mongobackup/mdb-snap`date +%F`.gz
 
-mount -o ro /dev/datavg/mdb-snap /home/mb-snap # 只读
+mount -o nouuid,ro /dev/datavg/mdb-snap /home/mdb-snap # 只读
 tar -czf /home/mongobackup/`date +%F`_mongo_all.tar.gz /home/mb-snap
 ```
 
