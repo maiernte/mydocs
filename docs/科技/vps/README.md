@@ -12,5 +12,17 @@
 
 [mac 与 server 之间的文件同步](科技/vps/syncfile.md)
 
+[搭建Nas系统](科技/vps/nas.md)
+
 测试host解析是否成功 `getent ahosts <hostname>`
+
+```shell
+# 测试是否解释成功
+getent ahosts <hostname>
+# 显示自己地址
+hostname -I
+curl ifconfig.me
+```
+
+
 

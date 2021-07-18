@@ -23,6 +23,14 @@ server_name|192.168.1.110|root|password|port|is_bastion
 # wufeifei|192.168.1.1|root|password|22|1
 ```
 
+重新布置服务器，密码更改以后需要取消原来的key
+
+```shell
+ssh-keygen -R 217.160.61.19
+```
+
+
+
 ###### Windows
 
 安装 putty ，然后建立一个桌面快捷方式：

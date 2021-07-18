@@ -10,3 +10,9 @@
 
 [gitment on Hexo](https://www.codeblocq.com/2018/05/Setup-gitment-on-your-Hexo-blog/)
 
+部署到服务器，[后台运行](https://cloud.tencent.com/developer/article/1662430?from=article.detail.1622462) 配合 [hexo-admin](https://dusays.com/10/) 实现在线编辑，自动更新到github。
+
+[hex online server](https://github.com/HCLonely/hexo-online-server)
+
+[静态博客在线编辑器](https://segmentfault.com/a/1190000039042738)
+
