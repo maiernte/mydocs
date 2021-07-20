@@ -59,3 +59,21 @@ sudo nginx -t                   # 测试所有设置
 
 > sudo apt-get install php-xml
 
+
+
+###### 使用易学包
+
+安装 inline js 和 MathJax 两个插件
+
+```javascript
+<PRELOAD>
+https://raw.githack.com/maiernte/img/master/libs/bundle.js
+</PRELOAD>
+<JS>
+document.addEventListener("DOMContentLoaded", function() {
+  window.mathjaxHuahe();
+});
+</JS>
+
+```
+

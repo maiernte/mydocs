@@ -65,6 +65,18 @@ ps -aux | grep mongo
 
 
 
+###### 定时任务
+
+```shell
+$ crontab -l #查看任务
+$ crontab -e #编辑任务
+$ crontab -r #删除任务
+```
+
+
+
+
+
 查找当前目录中三天前的文件并删除
 
 ```

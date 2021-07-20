@@ -16,3 +16,9 @@
 
 [静态博客在线编辑器](https://segmentfault.com/a/1190000039042738)
 
+> 需要将 public 改为 docs，然后整个上传
+
+[用GithubAction实现自动部署](https://juejin.cn/post/6943895271751286821)
+
+[如何使用 Travis CI 自动部署 Hexo 博客](https://juejin.cn/post/6943628312933564452)
+
