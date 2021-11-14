@@ -2,9 +2,9 @@
 
 ###### 生活类
 
-[本站](https://maiernte.github.io/mydocs/#/)
+[我的维基百科](https://wiki.simperator.com/doku.php?id=wiki:favorit)
 
-[天涯的知府](https://maiernte.github.io) 个人博客 /  [天涯的维基](https://maiernte.github.io/wiki/) Hexo 版的维基百科
+[天涯的知府](https://maiernte.github.io) 个人博客 /  [天涯的维基](https://maiernte.github.io/wiki/) Hexo 版
 
 [萬能金鑰](http://maiernte.gitee.io/lessons24/)
 
