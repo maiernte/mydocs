@@ -2,7 +2,7 @@
 
 ###### 生活类
 
-[我的维基百科](https://wiki.simperator.com/doku.php?id=wiki:favorit)
+[我的维基百科](https://wiki.simperator.com/doku.php?id=wiki:favorit) （个人笔记的终极解决方案）
 
 [天涯的知府](https://maiernte.github.io) 个人博客 /  [天涯的维基](https://maiernte.github.io/wiki/) Hexo 版
 
